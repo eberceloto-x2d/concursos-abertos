@@ -1,0 +1,37 @@
+name: Atualizar Vagas Automaticamente
+
+on:
+  schedule:
+    - cron: '0 8 * * *' # Roda todos os dias às 08:00 da manhã (horário UTC)
+  workflow_dispatch: # Permite que você clique em um botão para rodar manualmente quando quiser
+
+jobs:
+  executar-robo:
+    runs-on: ubuntu-latest
+    
+    # Dá permissão para o robô alterar e salvar arquivos no seu repositório
+    permissions:
+      contents: write
+
+    steps:
+      - name: Baixar os códigos do projeto
+        uses: actions/checkout@v4
+
+      - name: Configurar o Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Instalar bibliotecas necessárias
+        run: |
+          pip install requests beautifulsoup4
+
+      - name: Executar o robô coletor
+        run: python robo.py
+
+      - name: Salvar as novas vagas no GitHub
+        run: |
+          git config --global user.name "Robô de Concursos"
+          git config --global user.email "robo@bot.com"
+          git add vagas.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Atualização automática de vagas [skip ci]" && git push)
