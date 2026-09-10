@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Busca de Concursos</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 p-8 font-sans">
+
+    <div class="max-w-6xl mx-auto">
+        <h1 class="text-4xl font-bold text-blue-700 mb-2">VagasAbertas 🚀</h1>
+        <p class="text-gray-600 mb-8">O maior agregador de editais do Brasil. Apenas inscrições ativas.</p>
+
+        <!-- CAIXA DE FILTROS -->
+        <div class="bg-white p-6 rounded-lg shadow-md mb-8">
+            <!-- Mudei para 4 colunas em telas grandes -->
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+                
+                <!-- 1. Filtro de Texto -->
+                <div>
+                    <label class="block text-gray-700 font-bold mb-2">Profissão/Palavra-chave:</label>
+                    <input type="text" id="campoBusca" placeholder="Ex: Professor, Polícia..." class="w-full p-3 border border-gray-300 rounded focus:outline-none focus:border-blue-500">
+                </div>
+
+                <!-- 2. Filtro de Estados -->
+                <div>
+                    <label class="block text-gray-700 font-bold mb-2">Estados (UFs):</label>
+                    <div id="listaUfs" class="h-28 overflow-y-auto border border-gray-300 rounded p-2 text-sm bg-gray-50 space-y-1"></div>
+                </div>
+
+                <!-- 3. NOVO: Filtro de Data -->
+                <div>
+                    <label class="block text-gray-700 font-bold mb-2">Prazo de Inscrição:</label>
+                    <select id="filtroData" class="w-full p-3 border border-gray-300 rounded focus:outline-none focus:border-blue-500 bg-white">
+                        <option value="todas">Qualquer data</option>
+                        <option value="esta_semana">Acaba nesta semana</option>
+                        <option value="7_dias">Nos próximos 7 dias</option>
+                        <option value="30_dias">Nos próximos 30 dias</option>
+                        <option value="mais_30_dias">Mais de 30 dias</option>
+                    </select>
+                </div>
+
+                <!-- 4. Filtro de Salário -->
+                <div>
+                    <label class="block text-gray-700 font-bold mb-2">Salário Mínimo (R$):</label>
+                    <input type="range" id="filtroSalario" min="0" max="15000" step="500" value="0" class="w-full mt-2 cursor-pointer">
+                    <p class="text-blue-600 font-bold mt-2">A partir de: R$ <span id="valorSalario">0</span></p>
+                    <label class="flex items-center space-x-2 mt-3 cursor-pointer text-xs bg-blue-50 p-2 rounded">
+                        <input type="checkbox" id="checkSalarioOculto" checked class="form-checkbox h-4 w-4 text-blue-600 rounded">
+                        <span class="text-blue-800 font-medium">Incluir sem salário informado</span>
+                    </label>
+                </div>
+
+            </div>
+            <div class="mt-6 flex justify-end">
+                <button id="btnLimpar" class="bg-gray-200 hover:bg-gray-300 text-gray-700 font-bold py-2 px-6 rounded transition flex items-center space-x-2">
+                    <span>Limpar Filtros</span><span>🧹</span>
+                </button>
+            </div>
+        </div>
+
+        <div class="mb-4">
+            <span id="contadorGeral" class="bg-blue-600 text-white px-4 py-2 rounded-full font-bold shadow">Carregando vagas...</span>
+        </div>
+
+        <div id="listaVagas" class="space-y-4"></div>
+    </div>
+
+    <script>
+        let todasAsVagas = [];
+        
+        // --- PREPARANDO O CALENDÁRIO ---
+        const dataAtual = new Date();
+        dataAtual.setHours(0,0,0,0); // Zera as horas para o cálculo ser exato
+
+        // Formata a data de hoje para YYYY-MM-DD
+        const HOJE = dataAtual.getFullYear() + '-' + String(dataAtual.getMonth() + 1).padStart(2, '0') + '-' + String(dataAtual.getDate()).padStart(2, '0');
+
+        // Calcula quando é o próximo Domingo (Fim desta semana)
+        const diaDaSemana = dataAtual.getDay(); // 0 é Domingo, 1 é Segunda...
+        const diasParaDomingo = (7 - diaDaSemana) % 7; 
+        const dataFimSemana = new Date(dataAtual);
+        dataFimSemana.setDate(dataAtual.getDate() + diasParaDomingo);
+
+        // Calcula as outras datas limite
+        const dataMais7 = new Date(dataAtual);
+        dataMais7.setDate(dataAtual.getDate() + 7);
+
+        const dataMais30 = new Date(dataAtual);
+        dataMais30.setDate(dataAtual.getDate() + 30);
+        // --------------------------------
+
+        const siglasUf = ['AC', 'AL', 'AP', 'AM', 'BA', 'CE', 'DF', 'ES', 'GO', 'MA', 'MT', 'MS', 'MG', 'PA', 'PB', 'PR', 'PE', 'PI', 'RJ', 'RN', 'RS', 'RO', 'RR', 'SC', 'SP', 'SE', 'TO', 'Nacional/Outros'];
+        const divUfs = document.getElementById('listaUfs');
+        siglasUf.forEach(uf => {
+            divUfs.innerHTML += `
+                <label class="flex items-center space-x-2 cursor-pointer hover:bg-gray-200 p-1 rounded">
+                    <input type="checkbox" value="${uf}" class="filtro-uf form-checkbox h-4 w-4 text-blue-600 rounded border-gray-300">
+                    <span class="text-gray-700 font-medium">${uf}</span>
+                </label>`;
+        });
+
+        fetch('vagas.json')
+            .then(resposta => resposta.json())
+            .then(dados => {
+                todasAsVagas = dados;
+                aplicarFiltros();
+            });
+
+        function mostrarVagas(vagas) {
+            const container = document.getElementById('listaVagas');
+            container.innerHTML = ''; 
+            if(vagas.length === 0) {
+                container.innerHTML = '<p class="text-red-500 font-bold text-center p-8 bg-white rounded shadow">Nenhuma vaga encontrada com os filtros atuais.</p>';
+                return;
+            }
+
+            vagas.forEach(vaga => {
+                const badgeSalario = vaga.salario_numero > 0 ? `<span class="bg-green-100 text-green-800 text-sm font-bold px-3 py-1 rounded-full inline-block mt-2 mr-2">💰 ${vaga.salario_texto}</span>` : `<span class="bg-gray-200 text-gray-700 text-sm font-bold px-3 py-1 rounded-full inline-block mt-2 mr-2">💰 Salário no Edital</span>`;
+                const badgeEstado = `<span class="bg-blue-100 text-blue-800 text-sm font-bold px-3 py-1 rounded-full inline-block mt-2 mr-2">📍 ${vaga.uf}</span>`;
+                const badgeData = vaga.data_texto ? `<span class="bg-orange-100 text-orange-800 text-sm font-bold px-3 py-1 rounded-full inline-block mt-2">⏳ Até ${vaga.data_texto}</span>` : `<span class="bg-gray-100 text-gray-500 text-sm font-bold px-3 py-1 rounded-full inline-block mt-2">⏳ Verifique o Edital</span>`;
+
+                container.innerHTML += `
+                    <div class="bg-white p-6 rounded-lg shadow-md border-l-4 border-blue-500 hover:shadow-lg transition">
+                        <h2 class="text-xl font-bold text-gray-800">${vaga.titulo}</h2>
+                        ${badgeSalario} ${badgeEstado} ${badgeData}
+                        <p class="text-gray-600 mt-3 text-sm">${vaga.resumo}</p>
+                        <a href="${vaga.link}" target="_blank" class="inline-block mt-4 text-blue-600 font-bold hover:underline">Ver Edital Completo ➔</a>
+                    </div>`;
+            });
+        }
+
+        function aplicarFiltros() {
+            const textoDigitado = document.getElementById('campoBusca').value.trim().toLowerCase();
+            const salarioMinimo = parseFloat(document.getElementById('filtroSalario').value);
+            const checkboxesMarcados = Array.from(document.querySelectorAll('.filtro-uf:checked')).map(caixa => caixa.value);
+            const incluirSemSalario = document.getElementById('checkSalarioOculto').checked;
+            
+            // Pega o valor escolhido no menu de datas
+            const opcaoData = document.getElementById('filtroData').value;
+
+            const vagasFiltradas = todasAsVagas.filter(vaga => {
+                // 1. Filtro de Texto
+                const passaNoTexto = textoDigitado === "" || vaga.titulo.toLowerCase().includes(textoDigitado) || vaga.resumo.toLowerCase().includes(textoDigitado);
+                
+                // 2. Filtro de Salário
+                let passaNoSalario = false;
+                if (salarioMinimo === 0) passaNoSalario = true;
+                else if (vaga.salario_numero >= salarioMinimo) passaNoSalario = true;
+                else if (vaga.salario_numero === 0 && incluirSemSalario) passaNoSalario = true;
+
+                // 3. Filtro de Estado
+                const passaNoEstado = checkboxesMarcados.length === 0 || checkboxesMarcados.includes(vaga.uf);
+
+                // 4. Filtro de Data
+                const vagaAindaAtiva = !vaga.data_limite || vaga.data_limite >= HOJE;
+                
+                let passaNoPrazoEspecífico = true;
+                if (opcaoData !== 'todas') {
+                    // Se o usuário quer um prazo específico e a vaga não tem data declarada, nós escondemos ela
+                    if (!vaga.data_limite) {
+                        passaNoPrazoEspecífico = false; 
+                    } else {
+                        // Converte a data da vaga para poder calcular
+                        const dataVaga = new Date(vaga.data_limite + 'T00:00:00');
+                        
+                        if (opcaoData === 'esta_semana') {
+                            passaNoPrazoEspecífico = dataVaga <= dataFimSemana;
+                        } else if (opcaoData === '7_dias') {
+                            passaNoPrazoEspecífico = dataVaga <= dataMais7;
+                        } else if (opcaoData === '30_dias') {
+                            passaNoPrazoEspecífico = dataVaga <= dataMais30;
+                        } else if (opcaoData === 'mais_30_dias') {
+                            passaNoPrazoEspecífico = dataVaga > dataMais30;
+                        }
+                    }
+                }
+
+                return passaNoTexto && passaNoSalario && passaNoEstado && vagaAindaAtiva && passaNoPrazoEspecífico;
+            });
+
+            document.getElementById('contadorGeral').innerText = `Mostrando ${vagasFiltradas.length} vagas`;
+            mostrarVagas(vagasFiltradas);
+        }
+
+        // Adiciona os ouvintes de eventos para atualizar instantaneamente
+        document.getElementById('campoBusca').addEventListener('input', aplicarFiltros);
+        document.getElementById('checkSalarioOculto').addEventListener('change', aplicarFiltros);
+        document.getElementById('filtroData').addEventListener('change', aplicarFiltros); // Ouvinte da Nova Caixa
+        
+        document.getElementById('filtroSalario').addEventListener('input', e => {
+            document.getElementById('valorSalario').innerText = e.target.value;
+            aplicarFiltros();
+        });
+        document.querySelectorAll('.filtro-uf').forEach(cx => cx.addEventListener('change', aplicarFiltros));
+        
+        // Atualiza o botão de limpar para resetar a data também
+        document.getElementById('btnLimpar').addEventListener('click', () => {
+            document.getElementById('campoBusca').value = '';
+            document.getElementById('filtroSalario').value = 0;
+            document.getElementById('valorSalario').innerText = '0';
+            document.getElementById('checkSalarioOculto').checked = true;
+            document.getElementById('filtroData').value = 'todas'; // Reseta a data
+            document.querySelectorAll('.filtro-uf').forEach(cx => cx.checked = false);
+            aplicarFiltros();
+        });
+    </script>
+</body>
+</html>
