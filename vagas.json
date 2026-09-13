@@ -12,12 +12,12 @@
     {
         "titulo": "[PCI] Transpetro - Petrobras Transporte S.A.",
         "link": "https://www.pciconcursos.com.br/noticias/transpetro-publica-retificacoes-de-processos-seletivos-para-diversos-cargos",
-        "resumo": "Transpetro - Petrobras Transporte S.A. Vagas até R$ 15.034,81Vários CargosMédio / Técnico / Superior 14/09/2026",
+        "resumo": "Transpetro - Petrobras Transporte S.A. Vagas até R$ 15.034,81Vários CargosMédio / Técnico / Superior Prorrogado até21/09/2026",
         "salario_texto": "R$ 15.034,81",
         "salario_numero": 15034.81,
         "uf": "Nacional/Outros",
-        "data_limite": "2026-09-14",
-        "data_texto": "14/09/2026"
+        "data_limite": null,
+        "data_texto": null
     },
     {
         "titulo": "[PCI] AgSUS - Agência Brasileira de Apoio à Gestão do SUS",
@@ -48,6 +48,26 @@
         "uf": "Nacional/Outros",
         "data_limite": "2026-09-17",
         "data_texto": "17/09/2026"
+    },
+    {
+        "titulo": "[PCI] Prefeitura de Andradina",
+        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-andradina-sp-retifica-concurso-publico-para-profissionais-da-educacao",
+        "resumo": "Prefeitura de Andradina SP 19 vagas até R$ 7.341,23Vários CargosMédio / Superior 23/09/2026",
+        "salario_texto": "R$ 7.341,23",
+        "salario_numero": 7341.23,
+        "uf": "SP",
+        "data_limite": "2026-09-23",
+        "data_texto": "23/09/2026"
+    },
+    {
+        "titulo": "[PCI] SETEC - Serviços Técnicos Gerais de Campinas",
+        "link": "https://www.pciconcursos.com.br/noticias/setec-campinas-sp-abre-concurso-publico-com-salarios-de-ate-10428",
+        "resumo": "SETEC - Serviços Técnicos Gerais de Campinas SP 39 vagas até R$ 10.428,05Vários CargosFundamental / Médio / Técnico / Superior 04/12/2026",
+        "salario_texto": "R$ 10.428,05",
+        "salario_numero": 10428.05,
+        "uf": "SP",
+        "data_limite": "2026-12-04",
+        "data_texto": "04/12/2026"
     },
     {
         "titulo": "[PCI] Autarquia Municipal de Saúde de Itapecerica da Serra",
@@ -490,16 +510,6 @@
         "data_texto": "14/09/2026"
     },
     {
-        "titulo": "[PCI] Prefeitura de Andradina",
-        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-andradina-sp-retifica-concurso-publico-para-profissionais-da-educacao",
-        "resumo": "Prefeitura de Andradina SP 19 vagas até R$ 7.341,23Vários CargosMédio / Superior 23/09/2026",
-        "salario_texto": "R$ 7.341,23",
-        "salario_numero": 7341.23,
-        "uf": "SP",
-        "data_limite": "2026-09-23",
-        "data_texto": "23/09/2026"
-    },
-    {
         "titulo": "[PCI] Prefeitura de Anhembi",
         "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-anhembi-sp-abre-concurso-publico-com-salarios-de-ate-6407",
         "resumo": "Prefeitura de Anhembi SP 23 vagas até R$ 6.407,17Vários CargosFundamental / Médio / Técnico / Superior 25/09/2026",
@@ -740,6 +750,16 @@
         "data_texto": "17/09/2026"
     },
     {
+        "titulo": "[PCI] Prefeitura de Mogi Mirim",
+        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mogi-mirim-sp-divulga-retificacoes-dos-concursos-publicos",
+        "resumo": "Prefeitura de Mogi Mirim SP 56 vagas até R$ 6.586,98Vários CargosFundamental / Médio / Técnico / Superior 10/09/2026",
+        "salario_texto": "R$ 6.586,98",
+        "salario_numero": 6586.98,
+        "uf": "SP",
+        "data_limite": "2026-09-10",
+        "data_texto": "10/09/2026"
+    },
+    {
         "titulo": "[PCI] Prefeitura de Paulínia",
         "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-paulinia-sp-retifica-concurso-com-40-vagas-para-guarda-municipal",
         "resumo": "Prefeitura de Paulínia SP 40 vagas até R$ 4.676,85Guarda Municipal 6ª ClasseEnsino Médio 08/10/2026",
@@ -945,16 +965,6 @@
         "resumo": "SETEC - Serviços Técnicos Gerais SP 1 vaga + CR até R$ 11.427,98ProcuradorSuperior 04/12/2026",
         "salario_texto": "R$ 11.427,98",
         "salario_numero": 11427.98,
-        "uf": "SP",
-        "data_limite": "2026-12-04",
-        "data_texto": "04/12/2026"
-    },
-    {
-        "titulo": "[PCI] SETEC - Serviços Técnicos Gerais de Campinas",
-        "link": "https://www.pciconcursos.com.br/noticias/setec-campinas-sp-abre-concurso-publico-com-salarios-de-ate-10428",
-        "resumo": "SETEC - Serviços Técnicos Gerais de Campinas SP 39 vagas até R$ 10.428,05Vários CargosFundamental / Médio / Técnico / Superior 04/12/2026",
-        "salario_texto": "R$ 10.428,05",
-        "salario_numero": 10428.05,
         "uf": "SP",
         "data_limite": "2026-12-04",
         "data_texto": "04/12/2026"
@@ -3190,16 +3200,6 @@
         "data_texto": "17/09/2026"
     },
     {
-        "titulo": "[PCI] SAPE - Secretaria de Estado da Agricultura e Pecuária de Santa Catarina",
-        "link": "https://www.pciconcursos.com.br/noticias/sape-sc-retifica-edital-do-concurso-publico-para-analista-tecnico-administrativo-ii",
-        "resumo": "SAPE - Secretaria de Estado da Agricultura e Pecuária de Santa Catarina SC 20 vagas até R$ 11.521,24Analista Técnico Administrativo IISuperior 28/08/2026",
-        "salario_texto": "R$ 11.521,24",
-        "salario_numero": 11521.24,
-        "uf": "SC",
-        "data_limite": "2026-08-28",
-        "data_texto": "28/08/2026"
-    },
-    {
         "titulo": "[PCI] SEFAZ - Secretaria de Estado da Fazenda de Santa Catarina",
         "link": "https://www.pciconcursos.com.br/noticias/sefaz-sc-abre-concurso-publico-para-o-cargo-de-auditor-estadual-de-financas-publicas",
         "resumo": "SEFAZ - Secretaria de Estado da Fazenda de Santa Catarina SC 50 vagas até R$ 25.337,61Auditor Estadual de Finanças PúblicasSuperior 05/10/2026",
@@ -4358,16 +4358,6 @@
         "uf": "PE",
         "data_limite": "2026-09-08",
         "data_texto": "08/09/2026"
-    },
-    {
-        "titulo": "[PCI] Governo do Estado do Piauí",
-        "link": "https://www.pciconcursos.com.br/noticias/governo-do-estado-do-piaui-prorroga-inscricoes-dos-concursos-publicos",
-        "resumo": "Governo do Estado do Piauí PI Até R$ 13.536,01Vários CargosSuperior Prorrogado até07/09/2026",
-        "salario_texto": "R$ 13.536,01",
-        "salario_numero": 13536.01,
-        "uf": "PI",
-        "data_limite": null,
-        "data_texto": null
     },
     {
         "titulo": "[PCI] IFPI - Instituto Federal de Educação, Ciência e Tecnologia do Piauí",
