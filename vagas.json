@@ -2621,16 +2621,6 @@
     },
     {
         "titulo": "[PCI] FAHECE - Fundação de Apoio ao Hemosc e Cepon",
-        "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-tecnico-em-informatica-no-cepon-de-florianopolis",
-        "resumo": "FAHECE - Fundação de Apoio ao Hemosc e Cepon SC 1 vaga até R$ 3.066,92Técnico em Informática IEnsino Técnico 19/09/2026",
-        "salario_texto": "R$ 3.066,92",
-        "salario_numero": 3066.92,
-        "uf": "SC",
-        "data_limite": "2026-09-19",
-        "data_texto": "19/09/2026"
-    },
-    {
-        "titulo": "[PCI] FAHECE - Fundação de Apoio ao Hemosc e Cepon",
         "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-vaga-para-psicologo-no-hemosc-de-florianopolis",
         "resumo": "FAHECE - Fundação de Apoio ao Hemosc e Cepon SC 1 vaga até R$ 2.273,23Psicólogo ISuperior 22/09/2026",
         "salario_texto": "R$ 2.273,23",
@@ -3192,22 +3182,22 @@
     {
         "titulo": "[PCI] Prefeitura de Heitoraí",
         "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-heitorai-go-abre-concurso-publico-com-vagas-para-diversas-areas",
-        "resumo": "Prefeitura de Heitoraí GO 82 vagas até R$ 9.383,40Vários CargosFundamental / Médio / Técnico / Superior 20/09 a20/10/2026",
+        "resumo": "Prefeitura de Heitoraí GO 82 vagas até R$ 9.383,40Vários CargosFundamental / Médio / Técnico / Superior 20/10/2026",
         "salario_texto": "R$ 9.383,40",
         "salario_numero": 9383.4,
         "uf": "GO",
-        "data_limite": "2026-09-20",
-        "data_texto": "20/09/2026"
+        "data_limite": "2026-10-20",
+        "data_texto": "20/10/2026"
     },
     {
         "titulo": "[PCI] Prefeitura de Hidrolina",
         "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-hidrolina-go-abre-concurso-com-vagas-imediatas-e-cadastro-de-reserva",
-        "resumo": "Prefeitura de Hidrolina GO 80 vagas até R$ 3.847,97Vários CargosFundamental / Médio / Técnico / Superior 20/09 a20/10/2026",
+        "resumo": "Prefeitura de Hidrolina GO 80 vagas até R$ 3.847,97Vários CargosFundamental / Médio / Técnico / Superior 20/10/2026",
         "salario_texto": "R$ 3.847,97",
         "salario_numero": 3847.97,
         "uf": "GO",
-        "data_limite": "2026-09-20",
-        "data_texto": "20/09/2026"
+        "data_limite": "2026-10-20",
+        "data_texto": "20/10/2026"
     },
     {
         "titulo": "[PCI] Prefeitura de Nova Aurora",
@@ -3328,16 +3318,6 @@
         "uf": "MS",
         "data_limite": "2026-09-10",
         "data_texto": "10/09/2026"
-    },
-    {
-        "titulo": "[PCI] Prefeitura de Batayporã",
-        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bataypora-ms-abre-processo-seletivo-para-a-secretaria-de-saude",
-        "resumo": "Prefeitura de Batayporã MS 4 vagas até R$ 6.305,47Vários CargosMédio / Técnico / Superior 19/09/2026",
-        "salario_texto": "R$ 6.305,47",
-        "salario_numero": 6305.47,
-        "uf": "MS",
-        "data_limite": "2026-09-19",
-        "data_texto": "19/09/2026"
     },
     {
         "titulo": "[PCI] Prefeitura de Chapadão do Sul",
@@ -5310,9 +5290,19 @@
         "data_texto": null
     },
     {
+        "titulo": "[JC] Ofertas do dia: Galaxy Watch Ultra da Samsung com até 60% de desconto",
+        "link": "https://jcconcursos.com.br/noticia/ofertas/ofertas-do-dia-galaxy-watch-ultra-da-samsung-com-ate-60-de-desconto-550-145529",
+        "resumo": "Ofertas do dia: Galaxy Watch Ultra da Samsung com até 60% de descontoOfertas do dia: Samsung Galaxy Watch8 com super descontos de até 53%Ofertas do dia: até 41% de desconto no Samsung Galaxy S25 FEOfe...",
+        "salario_texto": "Salário não informado",
+        "salario_numero": 0,
+        "uf": "Nacional/Outros",
+        "data_limite": null,
+        "data_texto": null
+    },
+    {
         "titulo": "[JC] Ofertas do dia: Samsung Galaxy Watch8 com super descontos de até 53%",
         "link": "https://jcconcursos.com.br/noticia/ofertas/ofertas-do-dia-samsung-galaxy-watch8-com-super-descontos-de-ate-53-547-145479",
-        "resumo": "Ofertas do dia: Samsung Galaxy Watch8 com super descontos de até 53%Ofertas do dia: até 41% de desconto no Samsung Galaxy S25 FEOferta Relâmpago: smartphone POCO X7 Pro com 65% de descontoOferta Relâm...",
+        "resumo": "Ofertas do dia: Galaxy Watch Ultra da Samsung com até 60% de descontoOfertas do dia: Samsung Galaxy Watch8 com super descontos de até 53%Ofertas do dia: até 41% de desconto no Samsung Galaxy S25 FEOfe...",
         "salario_texto": "Salário não informado",
         "salario_numero": 0,
         "uf": "Nacional/Outros",
@@ -5322,7 +5312,7 @@
     {
         "titulo": "[JC] Ofertas do dia: até 41% de desconto no Samsung Galaxy S25 FE",
         "link": "https://jcconcursos.com.br/noticia/ofertas/ofertas-do-dia-ate-41-de-desconto-no-samsung-galaxy-s25-fe-549-145518",
-        "resumo": "Ofertas do dia: Samsung Galaxy Watch8 com super descontos de até 53%Ofertas do dia: até 41% de desconto no Samsung Galaxy S25 FEOferta Relâmpago: smartphone POCO X7 Pro com 65% de descontoOferta Relâm...",
+        "resumo": "Ofertas do dia: Galaxy Watch Ultra da Samsung com até 60% de descontoOfertas do dia: Samsung Galaxy Watch8 com super descontos de até 53%Ofertas do dia: até 41% de desconto no Samsung Galaxy S25 FEOfe...",
         "salario_texto": "Salário não informado",
         "salario_numero": 0,
         "uf": "Nacional/Outros",
@@ -5332,17 +5322,7 @@
     {
         "titulo": "[JC] Oferta Relâmpago: smartphone POCO X7 Pro com 65% de desconto",
         "link": "https://jcconcursos.com.br/noticia/ofertas/oferta-relampago-smartphone-poco-x7-pro-com-65-de-desconto-548-145495",
-        "resumo": "Ofertas do dia: Samsung Galaxy Watch8 com super descontos de até 53%Ofertas do dia: até 41% de desconto no Samsung Galaxy S25 FEOferta Relâmpago: smartphone POCO X7 Pro com 65% de descontoOferta Relâm...",
-        "salario_texto": "Salário não informado",
-        "salario_numero": 0,
-        "uf": "Nacional/Outros",
-        "data_limite": null,
-        "data_texto": null
-    },
-    {
-        "titulo": "[JC] Oferta Relâmpago: Samsung Galaxy S25 Ultra com desconto de 51%",
-        "link": "https://jcconcursos.com.br/noticia/ofertas/oferta-relampago-samsung-galaxy-s25-ultra-com-desconto-de-51-544-145457",
-        "resumo": "Ofertas do dia: Samsung Galaxy Watch8 com super descontos de até 53%Ofertas do dia: até 41% de desconto no Samsung Galaxy S25 FEOferta Relâmpago: smartphone POCO X7 Pro com 65% de descontoOferta Relâm...",
+        "resumo": "Ofertas do dia: Galaxy Watch Ultra da Samsung com até 60% de descontoOfertas do dia: Samsung Galaxy Watch8 com super descontos de até 53%Ofertas do dia: até 41% de desconto no Samsung Galaxy S25 FEOfe...",
         "salario_texto": "Salário não informado",
         "salario_numero": 0,
         "uf": "Nacional/Outros",
