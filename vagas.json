@@ -1581,16 +1581,6 @@
     },
     {
         "titulo": "[PCI] Prefeitura de Curvelo",
-        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-curvelo-mg-abre-selecao-para-auxiliares-de-servicos-na-upam",
-        "resumo": "Prefeitura de Curvelo MG 2 vagas até R$ 1.621,00Auxiliar de ServiçosFundamental 03/10/2026",
-        "salario_texto": "R$ 1.621,00",
-        "salario_numero": 1621.0,
-        "uf": "MG",
-        "data_limite": "2026-10-03",
-        "data_texto": "03/10/2026"
-    },
-    {
-        "titulo": "[PCI] Prefeitura de Curvelo",
         "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-curvelo-mg-abre-vaga-em-processo-seletivo-para-mecanico",
         "resumo": "Prefeitura de Curvelo MG 1 vaga até R$ 3.487,57MecânicoEnsino Médio 06/10/2026",
         "salario_texto": "R$ 3.487,57",
@@ -2971,6 +2961,16 @@
     },
     {
         "titulo": "[PCI] FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
+        "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-tecnico-de-enfermagem-pcd-no-hemosc-de-joinville",
+        "resumo": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON SC Cadastro de Reserva até R$ 2.507,23Técnico de Enfermagem IEnsino Técnico 09/10/2026",
+        "salario_texto": "R$ 2.507,23",
+        "salario_numero": 2507.23,
+        "uf": "SC",
+        "data_limite": "2026-10-09",
+        "data_texto": "09/10/2026"
+    },
+    {
+        "titulo": "[PCI] FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
         "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-vaga-para-analista-de-administracao-de-pessoal-ii-em-florianopolis",
         "resumo": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON SC 1 vaga até R$ 5.538,88Analista de Administração de Pessoal IISuperior 08/10/2026",
         "salario_texto": "R$ 5.538,88",
@@ -3028,16 +3028,6 @@
         "uf": "SC",
         "data_limite": "2026-10-04",
         "data_texto": "04/10/2026"
-    },
-    {
-        "titulo": "[PCI] HEMOSC - Fundação de Apoio ao Hemosc e Cepon",
-        "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-tecnico-de-enfermagem-pcd-no-hemosc-de-joinville",
-        "resumo": "HEMOSC - Fundação de Apoio ao Hemosc e Cepon SC Cadastro de reserva até R$ 2.507,23Técnico de Enfermagem IEnsino Técnico 09/10/2026",
-        "salario_texto": "R$ 2.507,23",
-        "salario_numero": 2507.23,
-        "uf": "SC",
-        "data_limite": "2026-10-09",
-        "data_texto": "09/10/2026"
     },
     {
         "titulo": "[PCI] ICSL - Instituto Cultural de São Lourenço",
@@ -3892,7 +3882,7 @@
     {
         "titulo": "[PCI] MANAUSPREV - Manaus Previdência",
         "link": "https://www.pciconcursos.com.br/noticias/manaus-previdencia-am-prorroga-inscricoes-de-concurso-publico",
-        "resumo": "MANAUSPREV - Manaus Previdência AM 17 vagas até R$ 9.175,25Analista Previdenciário, Técnico PrevidenciárioMédio / Superior Prorrogado até29/09/2026",
+        "resumo": "MANAUSPREV - Manaus Previdência AM 17 vagas até R$ 9.175,25Analista Previdenciário, Técnico PrevidenciárioMédio / Técnico / Superior Prorrogado até01/10/2026",
         "salario_texto": "R$ 9.175,25",
         "salario_numero": 9175.25,
         "uf": "AM",
@@ -3980,6 +3970,16 @@
         "data_texto": "19/10/2026"
     },
     {
+        "titulo": "[PCI] SEDUC - Secretaria de Estado de Educação do Pará",
+        "link": "https://www.pciconcursos.com.br/noticias/seplad-e-seduc-pa-retificam-concurso-publico-com-vagas-para-diversas-areas-de-atuacao",
+        "resumo": "SEDUC - Secretaria de Estado de Educação do Pará PA 2.000 vagas até R$ 6.590,47Vários CargosMédio / Superior Prorrogado até07/10/2026",
+        "salario_texto": "R$ 6.590,47",
+        "salario_numero": 6590.47,
+        "uf": "PA",
+        "data_limite": null,
+        "data_texto": null
+    },
+    {
         "titulo": "[PCI] ALEPA - Assembleia Legislativa do Estado do Pará",
         "link": "https://www.pciconcursos.com.br/noticias/assembleia-legislativa-do-estado-do-para-pa-abre-concursos-para-diversos-cargos-com-salarios-de-ate-3697",
         "resumo": "ALEPA - Assembleia Legislativa do Estado do Pará PA 135 vagas até R$ 3.697,73Vários CargosMédio / Superior 04/11/2026",
@@ -4028,16 +4028,6 @@
         "uf": "PA",
         "data_limite": "2026-10-09",
         "data_texto": "09/10/2026"
-    },
-    {
-        "titulo": "[PCI] SEPLAD - Secretaria de Estado de Planejamento e Administração e SEDUC - Secretaria de Estado de Educação do Pará",
-        "link": "https://www.pciconcursos.com.br/noticias/seplad-e-seduc-pa-retificam-concurso-publico-com-vagas-para-diversas-areas-de-atuacao",
-        "resumo": "SEPLAD - Secretaria de Estado de Planejamento e Administração e SEDUC - Secretaria de Estado de Educação do Pará PA 376 vagas até R$ 6.590,47Vários CargosMédio / Superior Prorrogado até01/10/2026",
-        "salario_texto": "R$ 6.590,47",
-        "salario_numero": 6590.47,
-        "uf": "PA",
-        "data_limite": null,
-        "data_texto": null
     },
     {
         "titulo": "[PCI] TRT 8ª Região - Tribunal Regional do Trabalho da 8ª Região",
