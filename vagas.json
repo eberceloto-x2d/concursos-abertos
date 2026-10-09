@@ -50,6 +50,16 @@
         "data_texto": "21/10/2026"
     },
     {
+        "titulo": "[PCI] CREF - Conselho Regional de Educação Física",
+        "link": "https://www.pciconcursos.com.br/noticias/cref-ro-to-ap-ac-e-rr-abre-selecoes-para-nivel-medio-e-superior",
+        "resumo": "CREF - Conselho Regional de Educação Física 10 vagas até R$ 3.700,00Vários CargosMédio / Superior 20 a30/10/2026",
+        "salario_texto": "R$ 3.700,00",
+        "salario_numero": 3700.0,
+        "uf": "Nacional/Outros",
+        "data_limite": null,
+        "data_texto": null
+    },
+    {
         "titulo": "[PCI] Marinha do Brasil - Comando do 3º Distrito Naval",
         "link": "https://www.pciconcursos.com.br/noticias/marinha-do-brasil-3-distrito-naval-abre-vagas-para-oficiais-temporarios",
         "resumo": "Marinha do Brasil - Comando do 3º Distrito Naval 35 vagasVários CargosSuperior 10/11/2026",
@@ -100,16 +110,6 @@
         "data_texto": "13/10/2026"
     },
     {
-        "titulo": "[PCI] Prefeitura do Município de Mauá",
-        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-maua-sp-abre-concurso-com-100-vagas-para-guardas-civis-municipais",
-        "resumo": "Prefeitura do Município de Mauá SP 100 vagas até R$ 3.823,39Guarda Civil Municipal - 3ª classeEnsino Médio 08/10/2026",
-        "salario_texto": "R$ 3.823,39",
-        "salario_numero": 3823.39,
-        "uf": "SP",
-        "data_limite": "2026-10-08",
-        "data_texto": "08/10/2026"
-    },
-    {
         "titulo": "[PCI] SETEC - Serviços Técnicos Gerais de Campinas",
         "link": "https://www.pciconcursos.com.br/noticias/setec-campinas-sp-abre-concurso-publico-com-salarios-de-ate-10428",
         "resumo": "SETEC - Serviços Técnicos Gerais de Campinas SP 39 vagas até R$ 10.428,05Vários CargosFundamental / Médio / Técnico / Superior 04/12/2026",
@@ -128,16 +128,6 @@
         "uf": "SP",
         "data_limite": "2026-10-19",
         "data_texto": "19/10/2026"
-    },
-    {
-        "titulo": "[PCI] Câmara de Assis",
-        "link": "https://www.pciconcursos.com.br/noticias/camara-de-assis-sp-abre-concurso-publico-com-salarios-de-ate-8510",
-        "resumo": "Câmara de Assis SP 8 vagas até R$ 8.510,00Vários CargosFundamental / Médio / Técnico / Superior 08/10/2026",
-        "salario_texto": "R$ 8.510,00",
-        "salario_numero": 8510.0,
-        "uf": "SP",
-        "data_limite": "2026-10-08",
-        "data_texto": "08/10/2026"
     },
     {
         "titulo": "[PCI] Câmara de Barão de Antonina",
@@ -162,12 +152,12 @@
     {
         "titulo": "[PCI] Câmara de Cesário Lange",
         "link": "https://www.pciconcursos.com.br/noticias/camara-de-cesario-lange-sp-abre-concurso-publico-com-salarios-de-ate-3774",
-        "resumo": "Câmara de Cesário Lange SP 3 vagas até R$ 3.774,00Apoio Administrativo, Apoio Operacional, Auxiliar de Serviços GeraisFundamental / Médio 09/10 a02/11/2026",
+        "resumo": "Câmara de Cesário Lange SP 3 vagas até R$ 3.774,00Apoio Administrativo, Apoio Operacional, Auxiliar de Serviços GeraisFundamental / Médio 02/11/2026",
         "salario_texto": "R$ 3.774,00",
         "salario_numero": 3774.0,
         "uf": "SP",
-        "data_limite": "2026-10-09",
-        "data_texto": "09/10/2026"
+        "data_limite": "2026-11-02",
+        "data_texto": "02/11/2026"
     },
     {
         "titulo": "[PCI] Câmara de Clementina",
@@ -250,9 +240,19 @@
         "data_texto": "15/10/2026"
     },
     {
+        "titulo": "[PCI] Defensoria Pública do Estado de São Paulo",
+        "link": "https://www.pciconcursos.com.br/noticias/defensoria-publica-de-sp-abre-concurso-para-defensor-publico",
+        "resumo": "Defensoria Pública do Estado de São Paulo SP 70 vagasDefensor PúblicoSuperior 13/10 a11/11/2026",
+        "salario_texto": "Salário não informado",
+        "salario_numero": 0,
+        "uf": "SP",
+        "data_limite": "2026-10-13",
+        "data_texto": "13/10/2026"
+    },
+    {
         "titulo": "[PCI] DETRAN - Departamento Estadual de Trânsito de São Paulo",
         "link": "https://www.pciconcursos.com.br/noticias/detran-sp-prorroga-inscricoes-do-concurso-com-145-vagas-para-agentes-estaduais-de-transito",
-        "resumo": "DETRAN - Departamento Estadual de Trânsito de São Paulo SP 145 vagas até R$ 5.702,18Agente Estadual de TrânsitoSuperior Prorrogado até07/10/2026",
+        "resumo": "DETRAN - Departamento Estadual de Trânsito de São Paulo SP 145 vagas até R$ 5.702,18Agente Estadual de TrânsitoSuperior Prorrogado até13/10/2026",
         "salario_texto": "R$ 5.702,18",
         "salario_numero": 5702.18,
         "uf": "SP",
@@ -295,6 +295,16 @@
         "resumo": "FUNCAMP - Fundação de Desenvolvimento da Unicamp SP 1 vaga até R$ 1.999,99Ajudante de CozinhaFundamental 26/10/2026",
         "salario_texto": "R$ 1.999,99",
         "salario_numero": 1999.99,
+        "uf": "SP",
+        "data_limite": "2026-10-26",
+        "data_texto": "26/10/2026"
+    },
+    {
+        "titulo": "[PCI] FUNCAMP - Fundação de Desenvolvimento da Unicamp",
+        "link": "https://www.pciconcursos.com.br/noticias/funcamp-sp-abre-selecoes-para-auxiliar-de-cozinha-auxiliar-de-lavanderia-e-recepcionista",
+        "resumo": "FUNCAMP - Fundação de Desenvolvimento da Unicamp SP 3 vagas até R$ 2.197,08Auxiliar de Cozinha, Auxiliar de Lavanderia, RecepcionistaFundamental / Médio 26/10/2026",
+        "salario_texto": "R$ 2.197,08",
+        "salario_numero": 2197.08,
         "uf": "SP",
         "data_limite": "2026-10-26",
         "data_texto": "26/10/2026"
@@ -350,6 +360,16 @@
         "data_texto": "05/11/2026"
     },
     {
+        "titulo": "[PCI] Prefeitura da Estância Climática de Nuporanga",
+        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nuporanga-sp-abre-concurso-com-salarios-de-ate-6209",
+        "resumo": "Prefeitura da Estância Climática de Nuporanga SP 5 vagas até R$ 6.209,98Vários CargosFundamental / Superior 18/10/2026",
+        "salario_texto": "R$ 6.209,98",
+        "salario_numero": 6209.98,
+        "uf": "SP",
+        "data_limite": "2026-10-18",
+        "data_texto": "18/10/2026"
+    },
+    {
         "titulo": "[PCI] Prefeitura da Estância Turística de Ibitinga",
         "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ibitinga-sp-abre-concurso-publico-com-vagas-em-diversas-areas",
         "resumo": "Prefeitura da Estância Turística de Ibitinga SP 5 vagas até R$ 2.755,30Vários CargosMédio / Superior 18/10/2026",
@@ -388,16 +408,6 @@
         "uf": "SP",
         "data_limite": "2026-10-18",
         "data_texto": "18/10/2026"
-    },
-    {
-        "titulo": "[PCI] Prefeitura de Andradina",
-        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-andradina-sp-retifica-concurso-publico-para-profissionais-da-educacao",
-        "resumo": "Prefeitura de Andradina SP 19 vagas até R$ 7.341,23Vários CargosMédio / Superior 23/09/2026",
-        "salario_texto": "R$ 7.341,23",
-        "salario_numero": 7341.23,
-        "uf": "SP",
-        "data_limite": "2026-09-23",
-        "data_texto": "23/09/2026"
     },
     {
         "titulo": "[PCI] Prefeitura de Aparecida",
@@ -490,14 +500,14 @@
         "data_texto": "26/10/2026"
     },
     {
-        "titulo": "[PCI] Prefeitura de Embu das Artes",
-        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-embu-das-artes-sp-divulga-retificacao-de-concurso-com-diversas-vagas-e-cadastro-de-reserva",
-        "resumo": "Prefeitura de Embu das Artes SP 94 vagas até R$ 9.745,00Vários CargosFundamental / Médio / Técnico / Superior 08/10/2026",
-        "salario_texto": "R$ 9.745,00",
-        "salario_numero": 9745.0,
+        "titulo": "[PCI] Prefeitura de Floreal",
+        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-floreal-sp-abre-concurso-publico-com-salarios-de-ate-10500",
+        "resumo": "Prefeitura de Floreal SP 12 vagas até R$ 10.500,00Vários CargosFundamental / Médio / Técnico / Superior 05/11/2026",
+        "salario_texto": "R$ 10.500,00",
+        "salario_numero": 10500.0,
         "uf": "SP",
-        "data_limite": "2026-10-08",
-        "data_texto": "08/10/2026"
+        "data_limite": "2026-11-05",
+        "data_texto": "05/11/2026"
     },
     {
         "titulo": "[PCI] Prefeitura de General Salgado",
@@ -568,16 +578,6 @@
         "uf": "SP",
         "data_limite": "2026-11-05",
         "data_texto": "05/11/2026"
-    },
-    {
-        "titulo": "[PCI] Prefeitura de Itatinga",
-        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itatinga-sp-abre-concurso-publico-para-a-guarda-civil-municipal",
-        "resumo": "Prefeitura de Itatinga SP 2 vagas até R$ 3.137,66Guarda Civil MunicipalEnsino Médio 08/10/2026",
-        "salario_texto": "R$ 3.137,66",
-        "salario_numero": 3137.66,
-        "uf": "SP",
-        "data_limite": "2026-10-08",
-        "data_texto": "08/10/2026"
     },
     {
         "titulo": "[PCI] Prefeitura de Ituverava",
@@ -660,16 +660,6 @@
         "data_texto": "05/11/2026"
     },
     {
-        "titulo": "[PCI] Prefeitura de Paulínia",
-        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-paulinia-sp-retifica-concurso-com-40-vagas-para-guarda-municipal",
-        "resumo": "Prefeitura de Paulínia SP 40 vagas até R$ 4.676,85Guarda Municipal 6ª ClasseEnsino Médio 08/10/2026",
-        "salario_texto": "R$ 4.676,85",
-        "salario_numero": 4676.85,
-        "uf": "SP",
-        "data_limite": "2026-10-08",
-        "data_texto": "08/10/2026"
-    },
-    {
         "titulo": "[PCI] Prefeitura de Pereira Barreto",
         "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pereira-barreto-sp-abre-processo-seletivo-para-educador-social",
         "resumo": "Prefeitura de Pereira Barreto SP Cadastro de Reserva até R$ 2.250,61Educador SocialEnsino Médio 09/10/2026",
@@ -678,6 +668,16 @@
         "uf": "SP",
         "data_limite": "2026-10-09",
         "data_texto": "09/10/2026"
+    },
+    {
+        "titulo": "[PCI] Prefeitura de Piedade",
+        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-piedade-sp-publica-edital-de-concurso-publico-com-salarios-de-ate-17397",
+        "resumo": "Prefeitura de Piedade SP 20 vagas até R$ 17.397,46Vários CargosFundamental / Médio / Superior 09/11/2026",
+        "salario_texto": "R$ 17.397,46",
+        "salario_numero": 17397.46,
+        "uf": "SP",
+        "data_limite": "2026-11-09",
+        "data_texto": "09/11/2026"
     },
     {
         "titulo": "[PCI] Prefeitura de Porto Feliz",
@@ -740,16 +740,6 @@
         "data_texto": "18/10/2026"
     },
     {
-        "titulo": "[PCI] Prefeitura de Santa Gertrudes",
-        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-gertrudes-sp-abre-selecao-para-cadastro-de-reserva-na-educacao",
-        "resumo": "Prefeitura de Santa Gertrudes SP Cadastro de reserva até R$ 4.073,36Tradutor Intérprete de Libras, Professor de Educação Infantil, Professor de Ensino Fundamental IMédio / Técnico / Superior 08/10/2026",
-        "salario_texto": "R$ 4.073,36",
-        "salario_numero": 4073.36,
-        "uf": "SP",
-        "data_limite": "2026-10-08",
-        "data_texto": "08/10/2026"
-    },
-    {
         "titulo": "[PCI] Prefeitura de São Carlos",
         "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-carlos-sp-abre-concurso-com-salarios-de-ate-9833",
         "resumo": "Prefeitura de São Carlos SP 45 vagas até R$ 9.833,00Vários CargosFundamental / Médio / Técnico / Superior 29/10/2026",
@@ -768,6 +758,16 @@
         "uf": "SP",
         "data_limite": "2026-10-20",
         "data_texto": "20/10/2026"
+    },
+    {
+        "titulo": "[PCI] Prefeitura de São Simão",
+        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-simao-sp-abre-processo-seletivo-para-ajudante-geral-e-jardineiro",
+        "resumo": "Prefeitura de São Simão SP Cadastro de Reserva até R$ 1.897,20Ajudante Geral, JardineiroFundamental 15/10/2026",
+        "salario_texto": "R$ 1.897,20",
+        "salario_numero": 1897.2,
+        "uf": "SP",
+        "data_limite": "2026-10-15",
+        "data_texto": "15/10/2026"
     },
     {
         "titulo": "[PCI] Prefeitura de Taquaritinga",
@@ -820,6 +820,16 @@
         "data_texto": "30/10/2026"
     },
     {
+        "titulo": "[PCI] Prefeitura do Município de Mauá",
+        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-maua-sp-abre-concurso-com-100-vagas-para-guardas-civis-municipais",
+        "resumo": "Prefeitura do Município de Mauá SP 100 vagas até R$ 3.823,39Guarda Civil Municipal - 3ª classeEnsino Médio 08/10/2026",
+        "salario_texto": "R$ 3.823,39",
+        "salario_numero": 3823.39,
+        "uf": "SP",
+        "data_limite": "2026-10-08",
+        "data_texto": "08/10/2026"
+    },
+    {
         "titulo": "[PCI] PRUDENCO - Companhia Prudentina de Desenvolvimento",
         "link": "https://www.pciconcursos.com.br/noticias/prudenco-sp-abre-concurso-publico-para-coletor-e-motorista",
         "resumo": "PRUDENCO - Companhia Prudentina de Desenvolvimento SP 2 vagas até R$ 2.636,72Coletor, MotoristaFundamental 02/11/2026",
@@ -848,16 +858,6 @@
         "uf": "SP",
         "data_limite": "2026-10-10",
         "data_texto": "10/10/2026"
-    },
-    {
-        "titulo": "[PCI] SÃO SEBASTIÃO PREV - Instituto Previdenciário do Município de São Sebastião",
-        "link": "https://www.pciconcursos.com.br/noticias/sao-sebastiao-prev-sp-abre-concurso-publico-com-salarios-de-ate-5712",
-        "resumo": "SÃO SEBASTIÃO PREV - Instituto Previdenciário do Município de São Sebastião SP 4 vagas até R$ 5.712,95Vários CargosMédio / Técnico / Superior 08/10/2026",
-        "salario_texto": "R$ 5.712,95",
-        "salario_numero": 5712.95,
-        "uf": "SP",
-        "data_limite": "2026-10-08",
-        "data_texto": "08/10/2026"
     },
     {
         "titulo": "[PCI] SEBRAE - Serviço de Apoio às Micro e Pequenas Empresas de São Paulo",
@@ -930,16 +930,6 @@
         "data_texto": "18/11/2026"
     },
     {
-        "titulo": "[PCI] SEPLAG - Secretaria de Estado de Planejamento e Gestão",
-        "link": "https://www.pciconcursos.com.br/noticias/seplag-rj-publica-retificacoes-do-concurso-com-60-vagas-para-cargos-de-nivel-superior",
-        "resumo": "SEPLAG - Secretaria de Estado de Planejamento e Gestão RJ 60 vagas até R$ 14.387,75Especialista em Políticas Públicas e Gestão Governamental, Analista de Planejamento e OrçamentoSuperior 08/10/2026",
-        "salario_texto": "R$ 14.387,75",
-        "salario_numero": 14387.75,
-        "uf": "RJ",
-        "data_limite": "2026-10-08",
-        "data_texto": "08/10/2026"
-    },
-    {
         "titulo": "[PCI] CBMERJ - Corpo de Bombeiros Militar do Estado do Rio de Janeiro",
         "link": "https://www.pciconcursos.com.br/noticias/cbmerj-rj-abre-processo-seletivo-para-1-tenente-temporario",
         "resumo": "CBMERJ - Corpo de Bombeiros Militar do Estado do Rio de Janeiro RJ 192 vagas até R$ 12.279,71Vários CargosSuperior 19/10 a09/11/2026",
@@ -1008,6 +998,16 @@
         "uf": "RJ",
         "data_limite": "2026-10-13",
         "data_texto": "13/10/2026"
+    },
+    {
+        "titulo": "[PCI] SEPLAG - Secretaria de Estado de Planejamento e Gestão",
+        "link": "https://www.pciconcursos.com.br/noticias/seplag-rj-publica-retificacoes-do-concurso-com-60-vagas-para-cargos-de-nivel-superior",
+        "resumo": "SEPLAG - Secretaria de Estado de Planejamento e Gestão RJ 60 vagas até R$ 14.387,75Especialista em Políticas Públicas e Gestão Governamental, Analista de Planejamento e OrçamentoSuperior 08/10/2026",
+        "salario_texto": "R$ 14.387,75",
+        "salario_numero": 14387.75,
+        "uf": "RJ",
+        "data_limite": "2026-10-08",
+        "data_texto": "08/10/2026"
     },
     {
         "titulo": "[PCI] UFRRJ - Universidade Federal Rural do Rio de Janeiro",
@@ -1272,12 +1272,12 @@
     {
         "titulo": "[PCI] CIGEDAS - Consórcio Intermunicipal de Gestão e Desenvolvimento Ambiental Sustentável das Vertentes",
         "link": "https://www.pciconcursos.com.br/noticias/cigedas-mg-abre-processo-seletivo-com-salarios-de-ate-5152",
-        "resumo": "CIGEDAS - Consórcio Intermunicipal de Gestão e Desenvolvimento Ambiental Sustentável das Vertentes MG 3 vagas até R$ 5.152,55Vários CargosMédio / Superior 09 a23/10/2026",
+        "resumo": "CIGEDAS - Consórcio Intermunicipal de Gestão e Desenvolvimento Ambiental Sustentável das Vertentes MG 3 vagas até R$ 5.152,55Vários CargosMédio / Superior 23/10/2026",
         "salario_texto": "R$ 5.152,55",
         "salario_numero": 5152.55,
         "uf": "MG",
-        "data_limite": null,
-        "data_texto": null
+        "data_limite": "2026-10-23",
+        "data_texto": "23/10/2026"
     },
     {
         "titulo": "[PCI] CIMAG - Consórcio Público Intermunicipal Multifinalitário da Microrregião do Circuito das Águas",
@@ -1361,13 +1361,13 @@
     },
     {
         "titulo": "[PCI] HOB - Hospital Metropolitano Odilon Behrens",
-        "link": "https://www.pciconcursos.com.br/noticias/hospital-metropolitano-odilon-behrens-mg-abre-concurso-publico-com-salarios-de-ate-7397",
-        "resumo": "HOB - Hospital Metropolitano Odilon Behrens MG 230 vagas até R$ 7.397,55Vários CargosMédio / Técnico / Superior 08/10/2026",
-        "salario_texto": "R$ 7.397,55",
-        "salario_numero": 7397.55,
+        "link": "https://www.pciconcursos.com.br/noticias/hob-mg-abre-selecoes-para-agente-executivo-governamental-e-medicos",
+        "resumo": "HOB - Hospital Metropolitano Odilon Behrens MG Cadastro de reserva até R$ 18.067,43Agente Executivo Governamental, MédicoMédio / Superior 17/10/2026",
+        "salario_texto": "R$ 18.067,43",
+        "salario_numero": 18067.43,
         "uf": "MG",
-        "data_limite": "2026-10-08",
-        "data_texto": "08/10/2026"
+        "data_limite": "2026-10-17",
+        "data_texto": "17/10/2026"
     },
     {
         "titulo": "[PCI] Hospital Municipal Dr. Gil Alves",
@@ -1510,16 +1510,6 @@
         "data_texto": "06/11/2026"
     },
     {
-        "titulo": "[PCI] Prefeitura de Coromandel",
-        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-coromandel-mg-abre-concurso-publico-com-salarios-de-ate-7821",
-        "resumo": "Prefeitura de Coromandel MG 37 vagas até R$ 7.821,98Vários CargosFundamental / Médio / Superior 08/10/2026",
-        "salario_texto": "R$ 7.821,98",
-        "salario_numero": 7821.98,
-        "uf": "MG",
-        "data_limite": "2026-10-08",
-        "data_texto": "08/10/2026"
-    },
-    {
         "titulo": "[PCI] Prefeitura de Couto de Magalhães de Minas",
         "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-couto-de-magalhaes-de-minas-mg-abre-vagas-para-professor-de-educacao-fisica-e-coordenador-administrativo",
         "resumo": "Prefeitura de Couto de Magalhães de Minas MG 2 vagas até R$ 3.068,06Professor de Educação Física, Coordenador AdministrativoSuperior 09/10/2026",
@@ -1528,16 +1518,6 @@
         "uf": "MG",
         "data_limite": "2026-10-09",
         "data_texto": "09/10/2026"
-    },
-    {
-        "titulo": "[PCI] Prefeitura de Guimarânia",
-        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-guimarania-mg-abre-concurso-publico-para-fiscal-tributario",
-        "resumo": "Prefeitura de Guimarânia MG 1 vaga até R$ 3.145,52Fiscal TributárioSuperior 08/10/2026",
-        "salario_texto": "R$ 3.145,52",
-        "salario_numero": 3145.52,
-        "uf": "MG",
-        "data_limite": "2026-10-08",
-        "data_texto": "08/10/2026"
     },
     {
         "titulo": "[PCI] Prefeitura de Indaiabira",
@@ -1550,14 +1530,14 @@
         "data_texto": "13/10/2026"
     },
     {
-        "titulo": "[PCI] Prefeitura de Ipaba",
-        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ipaba-mg-retifica-edital-de-concurso-publico-com-salarios-de-ate-5275",
-        "resumo": "Prefeitura de Ipaba MG 240 vagas até R$ 5.275,34Vários CargosFundamental / Médio / Técnico / Superior 08/10/2026",
-        "salario_texto": "R$ 5.275,34",
-        "salario_numero": 5275.34,
+        "titulo": "[PCI] Prefeitura de Inimutaba",
+        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-inimutaba-mg-abre-selecao-para-agente-comunitario-de-saude",
+        "resumo": "Prefeitura de Inimutaba MG 1 vaga até R$ 3.242,00Agente Comunitário de SaúdeEnsino Médio 15/10/2026",
+        "salario_texto": "R$ 3.242,00",
+        "salario_numero": 3242.0,
         "uf": "MG",
-        "data_limite": "2026-10-08",
-        "data_texto": "08/10/2026"
+        "data_limite": "2026-10-15",
+        "data_texto": "15/10/2026"
     },
     {
         "titulo": "[PCI] Prefeitura de Itabira",
@@ -1752,12 +1732,12 @@
     {
         "titulo": "[PCI] Prefeitura de Perdigão",
         "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-perdigao-mg-abre-selecoes-para-enfermeiro-e-servical",
-        "resumo": "Prefeitura de Perdigão MG Cadastro de reserva até R$ 3.901,12Enfermeiro, ServiçalFundamental / Superior 09 a13/10/2026",
+        "resumo": "Prefeitura de Perdigão MG Cadastro de reserva até R$ 3.901,12Enfermeiro, ServiçalFundamental / Superior 13/10/2026",
         "salario_texto": "R$ 3.901,12",
         "salario_numero": 3901.12,
         "uf": "MG",
-        "data_limite": null,
-        "data_texto": null
+        "data_limite": "2026-10-13",
+        "data_texto": "13/10/2026"
     },
     {
         "titulo": "[PCI] Prefeitura de Piracema",
@@ -1952,12 +1932,12 @@
     {
         "titulo": "[PCI] Prefeitura de Urucânia",
         "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-urucania-mg-abre-processo-seletivo-com-salarios-de-ate-13696",
-        "resumo": "Prefeitura de Urucânia MG Vagas até R$ 13.696,00Vários CargosFundamental / Superior 09 a16/10/2026",
+        "resumo": "Prefeitura de Urucânia MG Vagas até R$ 13.696,00Vários CargosFundamental / Superior 16/10/2026",
         "salario_texto": "R$ 13.696,00",
         "salario_numero": 13696.0,
         "uf": "MG",
-        "data_limite": null,
-        "data_texto": null
+        "data_limite": "2026-10-16",
+        "data_texto": "16/10/2026"
     },
     {
         "titulo": "[PCI] Prefeitura de Viçosa",
@@ -2090,14 +2070,14 @@
         "data_texto": "19/10/2026"
     },
     {
-        "titulo": "[PCI] PMES - Polícia Militar do Espírito Santo",
-        "link": "https://www.pciconcursos.com.br/noticias/pmes-es-abre-selecao-para-tecnicos-em-laboratorio-e-farmacia",
-        "resumo": "PMES - Polícia Militar do Espírito Santo ES 20 vagas até R$ 2.985,86Técnico em Laboratório/Análises Clínicas, Técnico em FarmáciaEnsino Técnico 08/10/2026",
-        "salario_texto": "R$ 2.985,86",
-        "salario_numero": 2985.86,
+        "titulo": "[PCI] Prefeitura de Castelo",
+        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-castelo-es-abre-processo-seletivo-para-cadastro-de-reserva",
+        "resumo": "Prefeitura de Castelo ES Cadastro de Reserva até R$ 3.127,80Vários CargosFundamental / Médio 13 a14/10/2026",
+        "salario_texto": "R$ 3.127,80",
+        "salario_numero": 3127.8,
         "uf": "ES",
-        "data_limite": "2026-10-08",
-        "data_texto": "08/10/2026"
+        "data_limite": null,
+        "data_texto": null
     },
     {
         "titulo": "[PCI] Prefeitura de João Neiva",
@@ -2138,16 +2118,6 @@
         "uf": "ES",
         "data_limite": null,
         "data_texto": null
-    },
-    {
-        "titulo": "[PCI] Prefeitura de São Gabriel da Palha",
-        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-gabriel-da-palha-es-abre-vagas-para-servente-merendeira-e-cuidador",
-        "resumo": "Prefeitura de São Gabriel da Palha ES Até R$ 1.242,43Servente, Merendeira, CuidadorFundamental / Médio 08/10/2026",
-        "salario_texto": "R$ 1.242,43",
-        "salario_numero": 1242.43,
-        "uf": "ES",
-        "data_limite": "2026-10-08",
-        "data_texto": "08/10/2026"
     },
     {
         "titulo": "[PCI] Prefeitura de Vitória",
@@ -2212,12 +2182,12 @@
     {
         "titulo": "[PCI] Câmara de Cantagalo",
         "link": "https://www.pciconcursos.com.br/noticias/camara-de-cantagalo-pr-abre-concurso-publico-para-o-cargo-de-assessor-juridico",
-        "resumo": "Câmara de Cantagalo PR 1 vaga até R$ 9.278,50Assessor JurídicoSuperior 09 a28/10/2026",
+        "resumo": "Câmara de Cantagalo PR 1 vaga até R$ 9.278,50Assessor JurídicoSuperior 28/10/2026",
         "salario_texto": "R$ 9.278,50",
         "salario_numero": 9278.5,
         "uf": "PR",
-        "data_limite": null,
-        "data_texto": null
+        "data_limite": "2026-10-28",
+        "data_texto": "28/10/2026"
     },
     {
         "titulo": "[PCI] Câmara de Jundiaí do Sul",
@@ -2228,6 +2198,16 @@
         "uf": "PR",
         "data_limite": null,
         "data_texto": null
+    },
+    {
+        "titulo": "[PCI] Câmara de Quatro Barras",
+        "link": "https://www.pciconcursos.com.br/noticias/camara-de-quatro-barras-pr-abre-concurso-publico-com-salarios-de-ate-5403",
+        "resumo": "Câmara de Quatro Barras PR 17 vagas até R$ 5.403,69Vários CargosMédio / Superior 03/11/2026",
+        "salario_texto": "R$ 5.403,69",
+        "salario_numero": 5403.69,
+        "uf": "PR",
+        "data_limite": "2026-11-03",
+        "data_texto": "03/11/2026"
     },
     {
         "titulo": "[PCI] Câmara de Rio Azul",
@@ -2320,16 +2300,6 @@
         "data_texto": "18/10/2026"
     },
     {
-        "titulo": "[PCI] Prefeitura de Coronel Vivida",
-        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-coronel-vivida-pr-retifica-edital-de-concurso-publico-com-salarios-de-ate-21525",
-        "resumo": "Prefeitura de Coronel Vivida PR 65 vagas até R$ 21.525,56Vários CargosFundamental / Médio / Técnico / Superior 08/10/2026",
-        "salario_texto": "R$ 21.525,56",
-        "salario_numero": 21525.56,
-        "uf": "PR",
-        "data_limite": "2026-10-08",
-        "data_texto": "08/10/2026"
-    },
-    {
         "titulo": "[PCI] Prefeitura de Flor da Serra do Sul",
         "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-flor-da-serra-do-sul-pr-abre-processo-seletivo-com-salarios-de-ate-4969",
         "resumo": "Prefeitura de Flor da Serra do Sul PR 6 vagas até R$ 4.969,40Vários CargosMédio / Técnico / Superior 15/10/2026",
@@ -2410,16 +2380,6 @@
         "data_texto": "15/10/2026"
     },
     {
-        "titulo": "[PCI] Prefeitura de Reserva do Iguaçu",
-        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-reserva-do-iguacu-pr-abre-processo-seletivo-para-cadastro-de-reserva",
-        "resumo": "Prefeitura de Reserva do Iguaçu PR Cadastro de Reserva até R$ 1.877,98Agente Ambiental, Auxiliar de Serviços Gerais, CozinheiraFundamental / Médio 08/10/2026",
-        "salario_texto": "R$ 1.877,98",
-        "salario_numero": 1877.98,
-        "uf": "PR",
-        "data_limite": "2026-10-08",
-        "data_texto": "08/10/2026"
-    },
-    {
         "titulo": "[PCI] Prefeitura de São José da Boa Vista",
         "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jose-da-boa-vista-pr-abre-selecao-para-agentes-comunitarios-de-saude-e-de-combate-as-endemias",
         "resumo": "Prefeitura de São José da Boa Vista PR Cadastro de reserva até R$ 3.249,22Agente Comunitário de Saúde, Agente de Combate às EndemiasEnsino Médio 12/10/2026",
@@ -2428,16 +2388,6 @@
         "uf": "PR",
         "data_limite": "2026-10-12",
         "data_texto": "12/10/2026"
-    },
-    {
-        "titulo": "[PCI] Prefeitura de Tamarana",
-        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tamarana-pr-republica-o-concurso-publico-e-retifica-o-processo-seletivo",
-        "resumo": "Prefeitura de Tamarana PR 5 vagas até R$ 8.752,26Enfermeiro, Médico Auditor, Técnico de EnfermagemMédio / Técnico / Superior 08/10/2026",
-        "salario_texto": "R$ 8.752,26",
-        "salario_numero": 8752.26,
-        "uf": "PR",
-        "data_limite": "2026-10-08",
-        "data_texto": "08/10/2026"
     },
     {
         "titulo": "[PCI] Prefeitura e Câmara de Siqueira Campos",
@@ -2680,6 +2630,16 @@
         "data_texto": "09/10/2026"
     },
     {
+        "titulo": "[PCI] Prefeitura de Maratá",
+        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-marata-rs-abre-concurso-publico-com-salarios-de-ate-10165",
+        "resumo": "Prefeitura de Maratá RS 29 vagas até R$ 10.165,00Vários CargosFundamental / Médio / Técnico / Superior 06/11/2026",
+        "salario_texto": "R$ 10.165,00",
+        "salario_numero": 10165.0,
+        "uf": "RS",
+        "data_limite": "2026-11-06",
+        "data_texto": "06/11/2026"
+    },
+    {
         "titulo": "[PCI] Prefeitura de Novo Machado",
         "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-novo-machado-rs-abre-selecao-para-atendente-de-consultorio-dentario",
         "resumo": "Prefeitura de Novo Machado RS 1 vaga até R$ 2.258,39Atendente do Consultório DentárioFundamental 14/10/2026",
@@ -2900,6 +2860,16 @@
         "data_texto": "29/10/2026"
     },
     {
+        "titulo": "[PCI] Câmara de Marema",
+        "link": "https://www.pciconcursos.com.br/noticias/camara-de-marema-sc-abre-concurso-publico-para-o-cargo-de-faxineira",
+        "resumo": "Câmara de Marema SC 1 vaga até R$ 2.883,51FaxineiraFundamental 06/11/2026",
+        "salario_texto": "R$ 2.883,51",
+        "salario_numero": 2883.51,
+        "uf": "SC",
+        "data_limite": "2026-11-06",
+        "data_texto": "06/11/2026"
+    },
+    {
         "titulo": "[PCI] CISAMAVI - Consórcio Público Interfederativo de Saúde e Multifinalitário do Alto Vale do Itajaí",
         "link": "https://www.pciconcursos.com.br/noticias/cisamavi-sc-abre-concurso-publico-com-salarios-de-ate-10520",
         "resumo": "CISAMAVI - Consórcio Público Interfederativo de Saúde e Multifinalitário do Alto Vale do Itajaí SC 7 vagas até R$ 10.520,99Vários CargosMédio / Técnico / Superior 28/10/2026",
@@ -2931,16 +2901,6 @@
     },
     {
         "titulo": "[PCI] FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
-        "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-terapeuta-ocupacional-i-no-cepon-de-florianopolis",
-        "resumo": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON SC 1 vaga até R$ 4.546,46Terapeuta Ocupacional ISuperior 08/10/2026",
-        "salario_texto": "R$ 4.546,46",
-        "salario_numero": 4546.46,
-        "uf": "SC",
-        "data_limite": "2026-10-08",
-        "data_texto": "08/10/2026"
-    },
-    {
-        "titulo": "[PCI] FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
         "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-tecnico-de-enfermagem-pcd-no-hemosc-de-joinville",
         "resumo": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON SC Cadastro de Reserva até R$ 2.507,23Técnico de Enfermagem IEnsino Técnico 09/10/2026",
         "salario_texto": "R$ 2.507,23",
@@ -2948,16 +2908,6 @@
         "uf": "SC",
         "data_limite": "2026-10-09",
         "data_texto": "09/10/2026"
-    },
-    {
-        "titulo": "[PCI] FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
-        "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-vaga-para-analista-de-administracao-de-pessoal-ii-em-florianopolis",
-        "resumo": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON SC 1 vaga até R$ 5.538,88Analista de Administração de Pessoal IISuperior 08/10/2026",
-        "salario_texto": "R$ 5.538,88",
-        "salario_numero": 5538.88,
-        "uf": "SC",
-        "data_limite": "2026-10-08",
-        "data_texto": "08/10/2026"
     },
     {
         "titulo": "[PCI] FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
@@ -2978,6 +2928,16 @@
         "uf": "SC",
         "data_limite": "2026-10-16",
         "data_texto": "16/10/2026"
+    },
+    {
+        "titulo": "[PCI] FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
+        "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-medico-no-hemosc-de-joinville",
+        "resumo": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON SC 1 vaga até R$ 10.153,19Médico IISuperior 13/10/2026",
+        "salario_texto": "R$ 10.153,19",
+        "salario_numero": 10153.19,
+        "uf": "SC",
+        "data_limite": "2026-10-13",
+        "data_texto": "13/10/2026"
     },
     {
         "titulo": "[PCI] HEMOSC - Centro de Hematologia e Hemoterapia de Santa Catarina",
@@ -3128,16 +3088,6 @@
         "uf": "SC",
         "data_limite": "2026-11-05",
         "data_texto": "05/11/2026"
-    },
-    {
-        "titulo": "[PCI] Prefeitura de Coronel Martins",
-        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-coronel-martins-sc-abre-processo-seletivo-com-salarios-de-ate-7207",
-        "resumo": "Prefeitura de Coronel Martins SC 7 vagas até R$ 7.207,55Vários CargosFundamental / Médio / Técnico / Superior 08/10/2026",
-        "salario_texto": "R$ 7.207,55",
-        "salario_numero": 7207.55,
-        "uf": "SC",
-        "data_limite": "2026-10-08",
-        "data_texto": "08/10/2026"
     },
     {
         "titulo": "[PCI] Prefeitura de Descanso",
@@ -3310,6 +3260,16 @@
         "data_texto": "03/11/2026"
     },
     {
+        "titulo": "[PCI] Prefeitura de Marema",
+        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-marema-sc-abre-concurso-com-salarios-de-ate-8976",
+        "resumo": "Prefeitura de Marema SC 12 vagas até R$ 8.976,39Vários CargosFundamental / Médio / Técnico / Superior 06/11/2026",
+        "salario_texto": "R$ 8.976,39",
+        "salario_numero": 8976.39,
+        "uf": "SC",
+        "data_limite": "2026-11-06",
+        "data_texto": "06/11/2026"
+    },
+    {
         "titulo": "[PCI] Prefeitura de Massaranduba",
         "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-massaranduba-sc-retifica-edital-de-concurso-com-salarios-de-ate-24722",
         "resumo": "Prefeitura de Massaranduba SC 47 vagas até R$ 24.722,94Vários CargosFundamental / Médio / Técnico / Superior 09/10/2026",
@@ -3318,16 +3278,6 @@
         "uf": "SC",
         "data_limite": "2026-10-09",
         "data_texto": "09/10/2026"
-    },
-    {
-        "titulo": "[PCI] Prefeitura de Nova Trento",
-        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-trento-sc-abre-selecao-com-salarios-de-ate-5130",
-        "resumo": "Prefeitura de Nova Trento SC 19 vagas até R$ 5.130,63Vários CargosFundamental / Superior 08/10/2026",
-        "salario_texto": "R$ 5.130,63",
-        "salario_numero": 5130.63,
-        "uf": "SC",
-        "data_limite": "2026-10-08",
-        "data_texto": "08/10/2026"
     },
     {
         "titulo": "[PCI] Prefeitura de Paraíso",
@@ -3420,6 +3370,16 @@
         "data_texto": "28/10/2026"
     },
     {
+        "titulo": "[PCI] Prefeitura de São João Batista",
+        "link": "https://www.pciconcursos.com.br/noticias/municipio-de-sao-joao-batista-sc-abre-processos-seletivos-para-diversos-cargos",
+        "resumo": "Prefeitura de São João Batista SC Vagas até R$ 6.897,09Vários CargosFundamental / Médio / Técnico / Superior 08/11/2026",
+        "salario_texto": "R$ 6.897,09",
+        "salario_numero": 6897.09,
+        "uf": "SC",
+        "data_limite": "2026-11-08",
+        "data_texto": "08/11/2026"
+    },
+    {
         "titulo": "[PCI] Prefeitura de São Joaquim",
         "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-joaquim-sc-abre-concurso-publico-com-vagas-imediatas-e-cadastro-de-reserva",
         "resumo": "Prefeitura de São Joaquim SC 1 vaga até R$ 5.681,54Vários CargosFundamental / Médio / Técnico / Superior 18/10/2026",
@@ -3490,14 +3450,14 @@
         "data_texto": "16/10/2026"
     },
     {
-        "titulo": "[PCI] Prefeitura de Vargeão",
-        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-vargeao-sc-abre-concurso-com-vagas-imediatas-e-cadastro-de-reserva",
-        "resumo": "Prefeitura de Vargeão SC 23 vagas até R$ 5.730,08Vários CargosFundamental / Médio / Técnico / Superior 08/10/2026",
-        "salario_texto": "R$ 5.730,08",
-        "salario_numero": 5730.08,
+        "titulo": "[PCI] Prefeitura de Urussanga",
+        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-urussanga-sc-abre-processo-seletivo-com-salarios-de-ate-23930",
+        "resumo": "Prefeitura de Urussanga SC 20 vagas até R$ 23.930,19Vários CargosFundamental / Médio / Técnico / Superior 08/11/2026",
+        "salario_texto": "R$ 23.930,19",
+        "salario_numero": 23930.19,
         "uf": "SC",
-        "data_limite": "2026-10-08",
-        "data_texto": "08/10/2026"
+        "data_limite": "2026-11-08",
+        "data_texto": "08/11/2026"
     },
     {
         "titulo": "[PCI] Prefeitura de Witmarsum",
@@ -3570,6 +3530,16 @@
         "data_texto": "15/10/2026"
     },
     {
+        "titulo": "[PCI] CGU - Controladoria-Geral da União",
+        "link": "https://www.pciconcursos.com.br/noticias/cgu-abre-concurso-publico-com-vagas-para-auditores-federais-de-financas-e-controle",
+        "resumo": "CGU - Controladoria-Geral da União DF 60 vagas até R$ 20.000,00Auditor Federal de Finanças e ControleSuperior 10/10 a04/11/2026",
+        "salario_texto": "R$ 20.000,00",
+        "salario_numero": 20000.0,
+        "uf": "DF",
+        "data_limite": "2026-10-10",
+        "data_texto": "10/10/2026"
+    },
+    {
         "titulo": "[PCI] HSL - Hospital Santa Lúcia",
         "link": "https://www.pciconcursos.com.br/noticias/hospital-santa-lucia-abre-vagas-para-residencia-medica-em-diversas-especialidades",
         "resumo": "HSL - Hospital Santa Lúcia DF 22 vagas até R$ 4.106,09Vários CargosSuperior 09/11/2026",
@@ -3608,16 +3578,6 @@
         "uf": "GO",
         "data_limite": "2026-10-29",
         "data_texto": "29/10/2026"
-    },
-    {
-        "titulo": "[PCI] Câmara de Mutunópolis",
-        "link": "https://www.pciconcursos.com.br/noticias/camara-de-mutunopolis-go-divulga-retificacao-de-concurso-publico",
-        "resumo": "Câmara de Mutunópolis GO 7 vagas até R$ 5.000,00Vários CargosFundamental / Médio / Superior 08/10/2026",
-        "salario_texto": "R$ 5.000,00",
-        "salario_numero": 5000.0,
-        "uf": "GO",
-        "data_limite": "2026-10-08",
-        "data_texto": "08/10/2026"
     },
     {
         "titulo": "[PCI] Câmara de Pires do Rio",
@@ -3700,16 +3660,6 @@
         "data_texto": "20/10/2026"
     },
     {
-        "titulo": "[PCI] Prefeitura de Mambaí",
-        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mambai-go-abre-processo-seletivo-para-atuacao-na-casa-de-apoio-do-municipio",
-        "resumo": "Prefeitura de Mambaí GO 3 vagas até R$ 2.500,00Auxiliar de Serviços Gerais, Condutor de Veículos, Agente AdministrativoFundamental / Médio 08/10/2026",
-        "salario_texto": "R$ 2.500,00",
-        "salario_numero": 2500.0,
-        "uf": "GO",
-        "data_limite": "2026-10-08",
-        "data_texto": "08/10/2026"
-    },
-    {
         "titulo": "[PCI] Prefeitura de Mineiros",
         "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mineiros-go-abre-processo-seletivo-para-a-secretaria-de-educacao",
         "resumo": "Prefeitura de Mineiros GO 74 vagas até R$ 1.703,86Vários CargosFundamental / Médio 16/10/2026",
@@ -3782,12 +3732,12 @@
     {
         "titulo": "[PCI] Prefeitura de São Domingos",
         "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-domingos-go-abre-processo-seletivo-na-saude",
-        "resumo": "Prefeitura de São Domingos GO 12 vagas até R$ 3.000,00Vários CargosMédio / Técnico / Superior 09 a14/10/2026",
+        "resumo": "Prefeitura de São Domingos GO 12 vagas até R$ 3.000,00Vários CargosMédio / Técnico / Superior 14/10/2026",
         "salario_texto": "R$ 3.000,00",
         "salario_numero": 3000.0,
         "uf": "GO",
-        "data_limite": null,
-        "data_texto": null
+        "data_limite": "2026-10-14",
+        "data_texto": "14/10/2026"
     },
     {
         "titulo": "[PCI] Prefeitura de São Luís de Montes Belos",
@@ -3880,6 +3830,16 @@
         "data_texto": null
     },
     {
+        "titulo": "[PCI] Prefeitura de Nova Alvorada do Sul",
+        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-alvorada-do-sul-ms-abre-selecao-para-a-secretaria-de-educacao",
+        "resumo": "Prefeitura de Nova Alvorada do Sul MS Cadastro de Reserva até R$ 3.592,11Vários CargosFundamental / Médio / Superior 06/11/2026",
+        "salario_texto": "R$ 3.592,11",
+        "salario_numero": 3592.11,
+        "uf": "MS",
+        "data_limite": "2026-11-06",
+        "data_texto": "06/11/2026"
+    },
+    {
         "titulo": "[PCI] Prefeitura de Sonora",
         "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sonora-ms-abre-processo-seletivo-com-salarios-de-ate-6406",
         "resumo": "Prefeitura de Sonora MS 3 vagas até R$ 6.406,02Vários CargosFundamental / Médio / Técnico / Superior 13/10/2026",
@@ -3918,16 +3878,6 @@
         "uf": "MT",
         "data_limite": "2026-10-20",
         "data_texto": "20/10/2026"
-    },
-    {
-        "titulo": "[PCI] Câmara de Mirassol D'Oeste",
-        "link": "https://www.pciconcursos.com.br/noticias/camara-de-mirassol-doeste-mt-cancela-concurso-publico",
-        "resumo": "Câmara de Mirassol D'Oeste MT 4 vagas até R$ 7.194,20Vários CargosMédio / Superior Cancelado",
-        "salario_texto": "R$ 7.194,20",
-        "salario_numero": 7194.2,
-        "uf": "MT",
-        "data_limite": null,
-        "data_texto": null
     },
     {
         "titulo": "[PCI] Prefeitura de Água Boa",
@@ -3970,16 +3920,6 @@
         "data_texto": "09/10/2026"
     },
     {
-        "titulo": "[PCI] Prefeitura de Marcelândia",
-        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-marcelandia-mt-publica-edital-de-processo-seletivo-para-agentes-de-saude-e-de-endemias",
-        "resumo": "Prefeitura de Marcelândia MT 3 vagas até R$ 3.036,00Agente Comunitário de Saúde, Agente de Combate às EndemiasEnsino Médio 08/10/2026",
-        "salario_texto": "R$ 3.036,00",
-        "salario_numero": 3036.0,
-        "uf": "MT",
-        "data_limite": "2026-10-08",
-        "data_texto": "08/10/2026"
-    },
-    {
         "titulo": "[PCI] Prefeitura de Nova Mutum",
         "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-mutum-mt-retifica-edital-de-processo-seletivo",
         "resumo": "Prefeitura de Nova Mutum MT 81 vagas até R$ 22.696,88Vários CargosFundamental / Médio / Técnico / Superior 13/10/2026",
@@ -4002,12 +3942,12 @@
     {
         "titulo": "[PCI] Prefeitura de Novo Santo Antônio",
         "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-novo-santo-antonio-mt-abre-processo-seletivo-para-psicologo-e-nutricionista",
-        "resumo": "Prefeitura de Novo Santo Antônio MT 3 vagas até R$ 5.328,17Psicólogo, Psicólogo Educacional, Nutricionista - SaúdeSuperior 09 a15/10/2026",
+        "resumo": "Prefeitura de Novo Santo Antônio MT 3 vagas até R$ 5.328,17Psicólogo, Psicólogo Educacional, Nutricionista - SaúdeSuperior 15/10/2026",
         "salario_texto": "R$ 5.328,17",
         "salario_numero": 5328.17,
         "uf": "MT",
-        "data_limite": null,
-        "data_texto": null
+        "data_limite": "2026-10-15",
+        "data_texto": "15/10/2026"
     },
     {
         "titulo": "[PCI] Prefeitura e Câmara de Comodoro",
@@ -4088,6 +4028,16 @@
         "uf": "AC",
         "data_limite": "2026-10-15",
         "data_texto": "15/10/2026"
+    },
+    {
+        "titulo": "[PCI] FUNDAPE - Fundação de Apoio e Desenvolvimento ao Ensino, Pesquisa e Extensão Universitária no Acre",
+        "link": "https://www.pciconcursos.com.br/noticias/fundape-ac-abre-processo-seletivo-para-cargo-de-apoio-a-gerencia-de-projeto-academico",
+        "resumo": "FUNDAPE - Fundação de Apoio e Desenvolvimento ao Ensino, Pesquisa e Extensão Universitária no Acre AC 1 vaga até R$ 2.000,00Vários CargosSuperior 10/10/2026",
+        "salario_texto": "R$ 2.000,00",
+        "salario_numero": 2000.0,
+        "uf": "AC",
+        "data_limite": "2026-10-10",
+        "data_texto": "10/10/2026"
     },
     {
         "titulo": "[PCI] TCE - Tribunal de Contas do Estado do Acre",
@@ -4511,7 +4461,7 @@
     },
     {
         "titulo": "[PCI] Prefeitura de Alto Santo",
-        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-alto-santo-ce-abre-concurso-para-cargos-de-nivel-superior",
+        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-alto-santo-ce-retifica-concurso-para-cargos-de-nivel-superior",
         "resumo": "Prefeitura de Alto Santo CE 4 vagas + 12 CR até R$ 3.000,00Vários CargosSuperior 19/10/2026",
         "salario_texto": "R$ 3.000,00",
         "salario_numero": 3000.0,
@@ -4538,26 +4488,6 @@
         "uf": "CE",
         "data_limite": "2026-11-24",
         "data_texto": "24/11/2026"
-    },
-    {
-        "titulo": "[PCI] Prefeitura de Groaíras",
-        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-groairas-ce-reabre-inscricoes-para-concursos-publicos",
-        "resumo": "Prefeitura de Groaíras CE 63 vagas até R$ 11.000,00Vários CargosFundamental / Médio / Técnico / Superior Reaberto até08/10/2026",
-        "salario_texto": "R$ 11.000,00",
-        "salario_numero": 11000.0,
-        "uf": "CE",
-        "data_limite": null,
-        "data_texto": null
-    },
-    {
-        "titulo": "[PCI] Prefeitura de Groaíras",
-        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-groairas-ce-abre-concurso-para-agentes-de-saude-e-de-endemias",
-        "resumo": "Prefeitura de Groaíras CE 9 vagas até R$ 3.242,00Agente de Combate às Endemias, Agente Comunitário de SaúdeEnsino Médio 08/10/2026",
-        "salario_texto": "R$ 3.242,00",
-        "salario_numero": 3242.0,
-        "uf": "CE",
-        "data_limite": "2026-10-08",
-        "data_texto": "08/10/2026"
     },
     {
         "titulo": "[PCI] Prefeitura de Itarema",
@@ -4600,8 +4530,18 @@
         "data_texto": "12/10/2026"
     },
     {
+        "titulo": "[PCI] Prefeitura de Poranga",
+        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-poranga-ce-reabre-inscricoes-para-concursos-publicos",
+        "resumo": "Prefeitura de Poranga CE 98 vagas até R$ 4.750,00Vários CargosFundamental / Médio / Técnico / Superior Reaberto até19/10/2026",
+        "salario_texto": "R$ 4.750,00",
+        "salario_numero": 4750.0,
+        "uf": "CE",
+        "data_limite": null,
+        "data_texto": null
+    },
+    {
         "titulo": "[PCI] Prefeitura de Tamboril",
-        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tamboril-ce-abre-concurso-publico-para-analista-ambiental",
+        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tamboril-ce-retifica-edital-de-concurso-publico-para-analista-ambiental",
         "resumo": "Prefeitura de Tamboril CE 7 vagas até R$ 5.000,00Analista AmbientalSuperior 12/10/2026",
         "salario_texto": "R$ 5.000,00",
         "salario_numero": 5000.0,
@@ -4648,6 +4588,26 @@
         "uf": "MA",
         "data_limite": "2026-10-14",
         "data_texto": "14/10/2026"
+    },
+    {
+        "titulo": "[PCI] SEAP - Secretaria de Estado de Administração Penitenciária",
+        "link": "https://www.pciconcursos.com.br/noticias/seap-ma-abre-selecao-para-agente-penitenciario-em-godofredo-viana",
+        "resumo": "SEAP - Secretaria de Estado de Administração Penitenciária MA Cadastro de reserva até R$ 3.952,58Agente Penitenciário MasculinoSuperior 23/10/2026",
+        "salario_texto": "R$ 3.952,58",
+        "salario_numero": 3952.58,
+        "uf": "MA",
+        "data_limite": "2026-10-23",
+        "data_texto": "23/10/2026"
+    },
+    {
+        "titulo": "[PCI] SEAP - Secretaria de Estado de Administração Penitenciária",
+        "link": "https://www.pciconcursos.com.br/noticias/seap-ma-abre-selecoes-para-auxiliares-penitenciarios-em-diferentes-unidades",
+        "resumo": "SEAP - Secretaria de Estado de Administração Penitenciária MA Cadastro de reserva até R$ 1.822,34Auxiliar PenitenciárioEnsino Médio 23/10/2026",
+        "salario_texto": "R$ 1.822,34",
+        "salario_numero": 1822.34,
+        "uf": "MA",
+        "data_limite": "2026-10-23",
+        "data_texto": "23/10/2026"
     },
     {
         "titulo": "[PCI] DPE - Defensoria Pública do Estado da Paraíba",
@@ -4720,16 +4680,6 @@
         "data_texto": null
     },
     {
-        "titulo": "[PCI] Prefeitura de Pirpirituba",
-        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pirpirituba-pb-abre-concurso-publico-para-procurador-juridico",
-        "resumo": "Prefeitura de Pirpirituba PB 1 vaga até R$ 4.000,00Procurador JurídicoSuperior 08/10/2026",
-        "salario_texto": "R$ 4.000,00",
-        "salario_numero": 4000.0,
-        "uf": "PB",
-        "data_limite": "2026-10-08",
-        "data_texto": "08/10/2026"
-    },
-    {
         "titulo": "[PCI] Prefeitura de Poço Dantas",
         "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-poco-dantas-pb-prorroga-inscricoes-de-concurso-publico",
         "resumo": "Prefeitura de Poço Dantas PB 84 vagas até R$ 15.000,00Vários CargosFundamental / Médio / Técnico / Superior Prorrogado até20/10/2026",
@@ -4750,16 +4700,6 @@
         "data_texto": "07/11/2026"
     },
     {
-        "titulo": "[PCI] Prefeitura de Caruaru",
-        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-caruaru-pe-retifica-concurso-publico-para-auditores-e-analistas-fiscais",
-        "resumo": "Prefeitura de Caruaru PE 20 vagas até R$ 6.000,00Auditor Fiscal Municipal, Analista Fiscal MunicipalSuperior 08/10/2026",
-        "salario_texto": "R$ 6.000,00",
-        "salario_numero": 6000.0,
-        "uf": "PE",
-        "data_limite": "2026-10-08",
-        "data_texto": "08/10/2026"
-    },
-    {
         "titulo": "[PCI] Prefeitura do Município de Trindade",
         "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-trindade-pe-divulga-retificacao-em-concurso-com-vagas-para-diversos-niveis",
         "resumo": "Prefeitura do Município de Trindade PE 353 vagas até R$ 6.600,00Vários CargosMédio / Técnico / Superior 19/10/2026",
@@ -4768,16 +4708,6 @@
         "uf": "PE",
         "data_limite": "2026-10-19",
         "data_texto": "19/10/2026"
-    },
-    {
-        "titulo": "[PCI] Câmara de Trindade",
-        "link": "https://www.pciconcursos.com.br/noticias/camara-de-trindade-pe-divulga-retificacao-de-concurso-publico",
-        "resumo": "Câmara de Trindade PE 11 vagas até R$ 2.500,00Vários CargosFundamental / Médio / Superior 08/10/2026",
-        "salario_texto": "R$ 2.500,00",
-        "salario_numero": 2500.0,
-        "uf": "PE",
-        "data_limite": "2026-10-08",
-        "data_texto": "08/10/2026"
     },
     {
         "titulo": "[PCI] CBM - Corpo de Bombeiros Militar de Pernambuco",
@@ -4808,6 +4738,16 @@
         "uf": "PE",
         "data_limite": "2026-10-04",
         "data_texto": "04/10/2026"
+    },
+    {
+        "titulo": "[PCI] Prefeitura de Caruaru",
+        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-caruaru-pe-retifica-concurso-publico-para-auditores-e-analistas-fiscais",
+        "resumo": "Prefeitura de Caruaru PE 20 vagas até R$ 6.000,00Auditor Fiscal Municipal, Analista Fiscal MunicipalSuperior 08/10/2026",
+        "salario_texto": "R$ 6.000,00",
+        "salario_numero": 6000.0,
+        "uf": "PE",
+        "data_limite": "2026-10-08",
+        "data_texto": "08/10/2026"
     },
     {
         "titulo": "[PCI] Prefeitura de Floresta",
@@ -5060,6 +5000,16 @@
         "data_texto": null
     },
     {
+        "titulo": "[JC] Concurso de Aparecida de Goiânia: edital oferece mais de 17 mil vagas na educação",
+        "link": "https://jcconcursos.com.br/noticia/concursos/concurso-de-aparecida-de-goiania-edital-oferece-mais-de-17-mil-vagas-na-educacao-145932",
+        "resumo": "Aparecida de Goiânia (GO) 2026 Concurso Aberto Concurso de Aparecida de Goiânia: edital oferece mais de 17 mil vagas na educação Ensino Médio | Ensino Superior...",
+        "salario_texto": "Salário não informado",
+        "salario_numero": 0,
+        "uf": "GO",
+        "data_limite": null,
+        "data_texto": null
+    },
+    {
         "titulo": "[JC] Concurso dos Bombeiros AL inscreve para 344 vagas de soldado e oficial",
         "link": "https://jcconcursos.com.br/noticia/concursos/concurso-dos-bombeiros-al-inscreve-para-344-vagas-de-soldado-e-oficial-145507",
         "resumo": "Bombeiros AL 2026 Concurso Aberto Concurso dos Bombeiros AL inscreve para 344 vagas de soldado e oficial Ensino Médio...",
@@ -5106,6 +5056,16 @@
         "salario_texto": "Salário não informado",
         "salario_numero": 0,
         "uf": "TO",
+        "data_limite": null,
+        "data_texto": null
+    },
+    {
+        "titulo": "[JC] Concurso CGU: saiba tudo sobre inscrição, isenção, lotação e mais",
+        "link": "https://jcconcursos.com.br/noticia/concursos/concurso-cgu-saiba-tudo-sobre-inscricao-isencao-lotacao-e-mais-145949",
+        "resumo": "CGU 2026 Concurso Aberto Concurso CGU: saiba tudo sobre inscrição, isenção, lotação e mais Ensino Superior...",
+        "salario_texto": "Salário não informado",
+        "salario_numero": 0,
+        "uf": "Nacional/Outros",
         "data_limite": null,
         "data_texto": null
     },
@@ -5210,16 +5170,6 @@
         "data_texto": null
     },
     {
-        "titulo": "[JC] Concurso Prefeitura de Ipaba (MG): Edital publicado com 240 vagas para todos os níveis",
-        "link": "https://jcconcursos.com.br/noticia/concursos/concurso-prefeitura-de-ipaba-mg-145263",
-        "resumo": "Concurso Prefeitura de Ipaba MG Concurso Aberto Concurso Prefeitura de Ipaba (MG): Edital publicado com 240 vagas para todos os níveis Alfabetizado | Ensino Fundamental | Ensino Médio | Ensino Técnico...",
-        "salario_texto": "Salário não informado",
-        "salario_numero": 0,
-        "uf": "MG",
-        "data_limite": null,
-        "data_texto": null
-    },
-    {
         "titulo": "[JC] Prefeitura de Trindade (PE) abre concurso público com 353 vagas e salários que chegam a R$ 6,6 mil",
         "link": "https://jcconcursos.com.br/noticia/concursos/concurso-prefeitura-trindade-pe-145297",
         "resumo": "Concurso Prefeitura de Trindade PE Concurso Aberto Prefeitura de Trindade (PE) abre concurso público com 353 vagas e salários que chegam a R$ 6,6 mil Ensino Fundamental | Ensino Médio | Ensino Técnico...",
@@ -5306,16 +5256,6 @@
         "salario_texto": "R$ 2,6",
         "salario_numero": 2.6,
         "uf": "MG",
-        "data_limite": null,
-        "data_texto": null
-    },
-    {
-        "titulo": "[JC] Concurso da Câmara de Assis (SP) abre inscrições para diversos cargos",
-        "link": "https://jcconcursos.com.br/noticia/concursos/concurso-camara-assis-sp-abre-inscricoes-para-diversos-cargos-145112",
-        "resumo": "Câmara de Assis (SP) 2026 Concurso Aberto Concurso da Câmara de Assis (SP) abre inscrições para diversos cargos Ensino Fundamental | Ensino Médio | Ensino Técnico | Ensino Superior...",
-        "salario_texto": "Salário não informado",
-        "salario_numero": 0,
-        "uf": "SP",
         "data_limite": null,
         "data_texto": null
     },
@@ -5430,6 +5370,16 @@
         "data_texto": null
     },
     {
+        "titulo": "[JC] Concurso da DPE SP: saiba tudo sobre inscrição e isenção da taxa",
+        "link": "https://jcconcursos.com.br/noticia/concursos/concurso-da-dpe-sp-saiba-tudo-sobre-inscricao-e-isencao-da-taxa-145944",
+        "resumo": "DPE SP 2026 – Defensor Público Concurso Aberto Concurso da DPE SP: saiba tudo sobre inscrição e isenção da taxa Ensino Superior...",
+        "salario_texto": "Salário não informado",
+        "salario_numero": 0,
+        "uf": "SP",
+        "data_limite": null,
+        "data_texto": null
+    },
+    {
         "titulo": "[JC] Concurso Detran SP: inscrições prorrogadas para 145 vagas; veja nova data",
         "link": "https://jcconcursos.com.br/noticia/concursos/concurso-detran-sp-inscricoes-prorrogadas-para-145-vagas-veja-nova-data-145912",
         "resumo": "Detran SP 2026 Concurso Aberto Concurso Detran SP: inscrições prorrogadas para 145 vagas; veja nova data Ensino Superior...",
@@ -5496,26 +5446,6 @@
         "salario_texto": "Salário não informado",
         "salario_numero": 0,
         "uf": "RJ",
-        "data_limite": null,
-        "data_texto": null
-    },
-    {
-        "titulo": "[JC] Concurso GCM Mauá SP encerra hoje inscrição para 100 vagas de nível médio",
-        "link": "https://jcconcursos.com.br/noticia/concursos/concurso-gcm-maua-sp-encerra-hoje-inscricao-para-100-vagas-de-nivel-medio-145916",
-        "resumo": "Guarda Municipal de Mauá (SP) 2026 Concurso Aberto Concurso GCM Mauá SP encerra hoje inscrição para 100 vagas de nível médio Ensino Médio...",
-        "salario_texto": "Salário não informado",
-        "salario_numero": 0,
-        "uf": "SP",
-        "data_limite": null,
-        "data_texto": null
-    },
-    {
-        "titulo": "[JC] Concurso de Paulínia SP oferece remuneração de R$ 6,7 mil para nível médio",
-        "link": "https://jcconcursos.com.br/noticia/concursos/concurso-de-paulinia-sp-oferece-remuneracao-de-r-67-mil-para-nivel-medio-145339",
-        "resumo": "Guarda Municipal de Paulínia (SP) 2026 Concurso Aberto Concurso de Paulínia SP oferece remuneração de R$ 6,7 mil para nível médio Ensino Médio...",
-        "salario_texto": "R$ 6,7",
-        "salario_numero": 6.7,
-        "uf": "SP",
         "data_limite": null,
         "data_texto": null
     },
@@ -5660,16 +5590,6 @@
         "data_texto": null
     },
     {
-        "titulo": "[JC] Oportunidade na Educação: Prefeitura de Birigui (SP) abre concurso público para Professor Auxiliar",
-        "link": "https://jcconcursos.com.br/noticia/concursos/oportunidade-na-educacao-prefeitura-de-birigui-sp-abre-concurso-publico-para-professor-auxiliar-145157",
-        "resumo": "Prefeitura Birigui (SP) 2026 - Educação Concurso Aberto Oportunidade na Educação: Prefeitura de Birigui (SP) abre concurso público para Professor Auxiliar Ensino Superior...",
-        "salario_texto": "Salário não informado",
-        "salario_numero": 0,
-        "uf": "SP",
-        "data_limite": null,
-        "data_texto": null
-    },
-    {
         "titulo": "[JC] CONCURSO Prefeitura de Colombo (PR): edital publicado para 470 cargos",
         "link": "https://jcconcursos.com.br/noticia/concursos/concurso-prefeitura-de-colombo-pr-edital-publicado-para-470-cargos-145638",
         "resumo": "Prefeitura Colombo (PR) 2026 Concurso Aberto CONCURSO Prefeitura de Colombo (PR): edital publicado para 470 cargos Ensino Fundamental | Ensino Médio | Ensino Técnico | Ensino Superior...",
@@ -5685,16 +5605,6 @@
         "resumo": "Prefeitura Contagem (MG) 2026 Concurso Aberto Concurso Prefeitura de Contagem (MG): edital publicado com 272 vagas e salários de até R$ 10,2 mil Ensino Fundamental | Ensino Médio | Ensino Técnico | En...",
         "salario_texto": "R$ 10,2",
         "salario_numero": 10.2,
-        "uf": "MG",
-        "data_limite": null,
-        "data_texto": null
-    },
-    {
-        "titulo": "[JC] Prefeitura de Coromandel (MG) abre concurso público com 37 vagas e salários de até R$ 5,9 mil",
-        "link": "https://jcconcursos.com.br/noticia/concursos/concurso-prefeitura-de-coromandel-mg-145260",
-        "resumo": "Prefeitura Coromandel (MG) Concurso Aberto Prefeitura de Coromandel (MG) abre concurso público com 37 vagas e salários de até R$ 5,9 mil Ensino Fundamental | Ensino Médio | Ensino Técnico | Ensino Sup...",
-        "salario_texto": "R$ 5,9",
-        "salario_numero": 5.9,
         "uf": "MG",
         "data_limite": null,
         "data_texto": null
@@ -5736,16 +5646,6 @@
         "salario_texto": "Salário não informado",
         "salario_numero": 0,
         "uf": "RN",
-        "data_limite": null,
-        "data_texto": null
-    },
-    {
-        "titulo": "[JC] Concurso Prefeitura de Lins (SP): edital publicado para processo seletivo na área da educação",
-        "link": "https://jcconcursos.com.br/noticia/concursos/concurso-prefeitura-de-lins-sp-edital-publicado-para-processo-seletivo-na-area-da-educacao-145709",
-        "resumo": "Prefeitura Lins (SP) 2026 Concurso Aberto Concurso Prefeitura de Lins (SP): edital publicado para processo seletivo na área da educação Ensino Superior...",
-        "salario_texto": "Salário não informado",
-        "salario_numero": 0,
-        "uf": "SP",
         "data_limite": null,
         "data_texto": null
     },
@@ -5970,16 +5870,6 @@
         "data_texto": null
     },
     {
-        "titulo": "[JC] Concurso da Prefeitura de Caruaru PE abre 20 vagas para analista e auditor",
-        "link": "https://jcconcursos.com.br/noticia/concursos/concurso-da-prefeitura-de-caruaru-pe-abre-20-vagas-para-analista-e-auditor-144674",
-        "resumo": "Prefeitura de Caruaru (PE) 2026 Concurso Aberto Concurso da Prefeitura de Caruaru PE abre 20 vagas para analista e auditor Ensino Superior...",
-        "salario_texto": "Salário não informado",
-        "salario_numero": 0,
-        "uf": "PE",
-        "data_limite": null,
-        "data_texto": null
-    },
-    {
         "titulo": "[JC] Concurso Prefeitura de Catu (BA): Edital publicado com 190 vagas",
         "link": "https://jcconcursos.com.br/noticia/concursos/concurso-prefeitura-de-catu-ba-edital-publicado-com-190-vagas-145635",
         "resumo": "Prefeitura de Catu BA 2026 Concurso Aberto Concurso Prefeitura de Catu (BA): Edital publicado com 190 vagas Ensino Médio | Ensino Superior...",
@@ -6010,11 +5900,11 @@
         "data_texto": null
     },
     {
-        "titulo": "[JC] Concurso da Prefeitura de Curitiba PR: editais somam 348 vagas para 10 cargos",
-        "link": "https://jcconcursos.com.br/noticia/concursos/concurso-da-prefeitura-de-curitiba-pr-editais-somam-348-vagas-para-10-cargos-145580",
-        "resumo": "Prefeitura de Curitiba (PR) 2026 Concurso Aberto Concurso da Prefeitura de Curitiba PR: editais somam 348 vagas para 10 cargos Ensino Médio | Ensino Técnico | Ensino Superior...",
-        "salario_texto": "Salário não informado",
-        "salario_numero": 0,
+        "titulo": "[JC] Concurso da Prefeitura de Curitiba PR abre 348 vagas com salários acima de R$ 14 mil",
+        "link": "https://jcconcursos.com.br/noticia/concursos/concurso-da-prefeitura-de-curitiba-pr-abre-348-vagas-com-salarios-acima-de-r-14-mil-145954",
+        "resumo": "Prefeitura de Curitiba (PR) 2026 Concurso Aberto Concurso da Prefeitura de Curitiba PR abre 348 vagas com salários acima de R$ 14 mil Ensino Médio | Ensino Técnico | Ensino Superior...",
+        "salario_texto": "R$ 14",
+        "salario_numero": 14.0,
         "uf": "PR",
         "data_limite": null,
         "data_texto": null
@@ -6030,9 +5920,79 @@
         "data_texto": null
     },
     {
+        "titulo": "[JC] Concurso da Prefeitura de Guarulhos SP abre 200 vagas para nível médio",
+        "link": "https://jcconcursos.com.br/noticia/concursos/concurso-da-prefeitura-de-guarulhos-sp-abre-200-vagas-para-nivel-medio-145331",
+        "resumo": "Prefeitura de Guarulhos (SP) 2026 – Guarda Civil Municipal Concurso Aberto Concurso da Prefeitura de Guarulhos SP abre 200 vagas para nível médio Ensino Médio...",
+        "salario_texto": "Salário não informado",
+        "salario_numero": 0,
+        "uf": "SP",
+        "data_limite": null,
+        "data_texto": null
+    },
+    {
+        "titulo": "[JC] Concurso da Prefeitura de Holambra SP abre vagas para 75 cargos de todos os níveis",
+        "link": "https://jcconcursos.com.br/noticia/concursos/concurso-da-prefeitura-de-holambra-sp-abre-vagas-para-75-cargos-de-todos-os-niveis-145928",
+        "resumo": "Prefeitura de Holambra (SP) 2026 Concurso Aberto Concurso da Prefeitura de Holambra SP abre vagas para 75 cargos de todos os níveis Ensino Fundamental | Ensino Médio | Ensino Técnico | Ensino Superior...",
+        "salario_texto": "Salário não informado",
+        "salario_numero": 0,
+        "uf": "SP",
+        "data_limite": null,
+        "data_texto": null
+    },
+    {
+        "titulo": "[JC] Concurso Público de Inaciolândia (GO) oferece 250 vagas com salários de até R$ 4 mil",
+        "link": "https://jcconcursos.com.br/noticia/colunistas/concurso-publico-de-inaciolandia-go-oferece-250-vagas-com-salarios-de-ate-r-4-mil-145158",
+        "resumo": "Prefeitura de Inaciolândia 2026 Concurso Aberto Concurso Público de Inaciolândia (GO) oferece 250 vagas com salários de até R$ 4 mil Ensino Fundamental | Ensino Médio | Ensino Técnico | Ensino Superio...",
+        "salario_texto": "R$ 4",
+        "salario_numero": 4.0,
+        "uf": "GO",
+        "data_limite": null,
+        "data_texto": null
+    },
+    {
+        "titulo": "[JC] Concurso de Itapecerica da Serra: vaga aberta para nível médio na Grande SP",
+        "link": "https://jcconcursos.com.br/noticia/concursos/concurso-de-itapecerica-da-serra-vaga-aberta-para-nivel-medio-na-grande-sp-145953",
+        "resumo": "Prefeitura de Itapecerica da Serra (SP) 2026 Concurso Aberto Concurso de Itapecerica da Serra: vaga aberta para nível médio na Grande SP Ensino Médio...",
+        "salario_texto": "Salário não informado",
+        "salario_numero": 0,
+        "uf": "SP",
+        "data_limite": null,
+        "data_texto": null
+    },
+    {
+        "titulo": "[JC] Processo seletivo de Itatiba SP: chances na educação para níveis médio e superior",
+        "link": "https://jcconcursos.com.br/noticia/concursos/processo-seletivo-de-itatiba-sp-chances-na-educacao-para-niveis-medio-e-superior-145608",
+        "resumo": "Prefeitura de Itatiba (SP) 2026 Concurso Aberto Processo seletivo de Itatiba SP: chances na educação para níveis médio e superior Ensino Médio | Ensino Superior...",
+        "salario_texto": "Salário não informado",
+        "salario_numero": 0,
+        "uf": "SP",
+        "data_limite": null,
+        "data_texto": null
+    },
+    {
+        "titulo": "[JC] Ofertas 10.10 Mercado Livre: novo iPhone 18 Pro com 47% de desconto",
+        "link": "https://jcconcursos.com.br/noticia/ofertas/ofertas-1010-mercado-livre-novo-iphone-18-pro-com-47-de-desconto-600-145951",
+        "resumo": "Ofertas 10.10 Mercado Livre: novo iPhone 18 Pro com 47% de descontoMega Oferta Amazon Prime: até 42% de desconto no Samsung Galaxy S25 FEMega Oferta Amazon Prime: garrafa térmica da Stanley com descon...",
+        "salario_texto": "Salário não informado",
+        "salario_numero": 0,
+        "uf": "Nacional/Outros",
+        "data_limite": null,
+        "data_texto": null
+    },
+    {
+        "titulo": "[JC] Mega Oferta Amazon Prime: até 42% de desconto no Samsung Galaxy S25 FE",
+        "link": "https://jcconcursos.com.br/noticia/ofertas/mega-oferta-amazon-prime-ate-42-de-desconto-nosamsung-galaxy-s25-fe-599-145933",
+        "resumo": "Ofertas 10.10 Mercado Livre: novo iPhone 18 Pro com 47% de descontoMega Oferta Amazon Prime: até 42% de desconto no Samsung Galaxy S25 FEMega Oferta Amazon Prime: garrafa térmica da Stanley com descon...",
+        "salario_texto": "Salário não informado",
+        "salario_numero": 0,
+        "uf": "Nacional/Outros",
+        "data_limite": null,
+        "data_texto": null
+    },
+    {
         "titulo": "[JC] Mega Oferta Amazon Prime: garrafa térmica da Stanley com desconto de 41%",
         "link": "https://jcconcursos.com.br/noticia/ofertas/mega-oferta-amazon-prime-garrafa-termica-da-stanley-com-desconto-de-41-598-145929",
-        "resumo": "Mega Oferta Amazon Prime: garrafa térmica da Stanley com desconto de 41%Ofertas 10.10 Mercado Livre: Apple iPhone 17 Pro Max com desconto de 46%Mega Oferta Amazon Prime: 54% de desconto no Galaxy Watc...",
+        "resumo": "Ofertas 10.10 Mercado Livre: novo iPhone 18 Pro com 47% de descontoMega Oferta Amazon Prime: até 42% de desconto no Samsung Galaxy S25 FEMega Oferta Amazon Prime: garrafa térmica da Stanley com descon...",
         "salario_texto": "Salário não informado",
         "salario_numero": 0,
         "uf": "Nacional/Outros",
@@ -6042,27 +6002,7 @@
     {
         "titulo": "[JC] Ofertas 10.10 Mercado Livre: Apple iPhone 17 Pro Max com desconto de 46%",
         "link": "https://jcconcursos.com.br/noticia/ofertas/ofertas-1010-mercado-livre-apple-iphone-17-pro-max-com-desconto-de-46-597-145921",
-        "resumo": "Mega Oferta Amazon Prime: garrafa térmica da Stanley com desconto de 41%Ofertas 10.10 Mercado Livre: Apple iPhone 17 Pro Max com desconto de 46%Mega Oferta Amazon Prime: 54% de desconto no Galaxy Watc...",
-        "salario_texto": "Salário não informado",
-        "salario_numero": 0,
-        "uf": "Nacional/Outros",
-        "data_limite": null,
-        "data_texto": null
-    },
-    {
-        "titulo": "[JC] Mega Oferta Amazon Prime: 54% de desconto no Galaxy Watch Ultra da Samsung",
-        "link": "https://jcconcursos.com.br/noticia/ofertas/mega-oferta-amazon-prime-54-de-desconto-no-galaxy-watch-ultra-da-samsung-596-145907",
-        "resumo": "Mega Oferta Amazon Prime: garrafa térmica da Stanley com desconto de 41%Ofertas 10.10 Mercado Livre: Apple iPhone 17 Pro Max com desconto de 46%Mega Oferta Amazon Prime: 54% de desconto no Galaxy Watc...",
-        "salario_texto": "Salário não informado",
-        "salario_numero": 0,
-        "uf": "Nacional/Outros",
-        "data_limite": null,
-        "data_texto": null
-    },
-    {
-        "titulo": "[JC] Mega Oferta Amazon Prime: 49% de desconto no Echo Dot com Alexa",
-        "link": "https://jcconcursos.com.br/noticia/ofertas/mega-oferta-amazon-prime-49-de-desconto-no-echo-dot-com-alexa-595-145906",
-        "resumo": "Mega Oferta Amazon Prime: garrafa térmica da Stanley com desconto de 41%Ofertas 10.10 Mercado Livre: Apple iPhone 17 Pro Max com desconto de 46%Mega Oferta Amazon Prime: 54% de desconto no Galaxy Watc...",
+        "resumo": "Ofertas 10.10 Mercado Livre: novo iPhone 18 Pro com 47% de descontoMega Oferta Amazon Prime: até 42% de desconto no Samsung Galaxy S25 FEMega Oferta Amazon Prime: garrafa térmica da Stanley com descon...",
         "salario_texto": "Salário não informado",
         "salario_numero": 0,
         "uf": "Nacional/Outros",
