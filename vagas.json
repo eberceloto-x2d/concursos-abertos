@@ -1332,12 +1332,12 @@
     {
         "titulo": "[PCI] CIMME - Consórcio Intermunicipal Multifinalitário do Médio Espinhaço",
         "link": "https://www.pciconcursos.com.br/noticias/cimme-mg-abre-processo-seletivo-com-salarios-de-ate-3749",
-        "resumo": "CIMME - Consórcio Intermunicipal Multifinalitário do Médio Espinhaço MG 11 vagas até R$ 3.749,00Vários CargosFundamental / Médio / Superior 12 a19/10/2026",
+        "resumo": "CIMME - Consórcio Intermunicipal Multifinalitário do Médio Espinhaço MG 11 vagas até R$ 3.749,00Vários CargosFundamental / Médio / Superior 19/10/2026",
         "salario_texto": "R$ 3.749,00",
         "salario_numero": 3749.0,
         "uf": "MG",
-        "data_limite": null,
-        "data_texto": null
+        "data_limite": "2026-10-19",
+        "data_texto": "19/10/2026"
     },
     {
         "titulo": "[PCI] CISICOM - Consórcio Intermunicipal dos Serviços de Inspeção do Centro-Oeste Mineiro",
@@ -1802,12 +1802,12 @@
     {
         "titulo": "[PCI] Prefeitura de Santana de Pirapama",
         "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santana-de-pirapama-mg-abre-concurso-com-salarios-de-ate-6221",
-        "resumo": "Prefeitura de Santana de Pirapama MG 79 vagas até R$ 6.221,41Vários CargosFundamental / Médio / Técnico / Superior 12/10 a10/11/2026",
+        "resumo": "Prefeitura de Santana de Pirapama MG 79 vagas até R$ 6.221,41Vários CargosFundamental / Médio / Técnico / Superior 10/11/2026",
         "salario_texto": "R$ 6.221,41",
         "salario_numero": 6221.41,
         "uf": "MG",
-        "data_limite": "2026-10-12",
-        "data_texto": "12/10/2026"
+        "data_limite": "2026-11-10",
+        "data_texto": "10/11/2026"
     },
     {
         "titulo": "[PCI] Prefeitura de São João del-Rei",
@@ -2088,26 +2088,6 @@
         "uf": "ES",
         "data_limite": "2026-10-14",
         "data_texto": "14/10/2026"
-    },
-    {
-        "titulo": "[PCI] SAMU 192/ES - Serviço de Atendimento Móvel de Urgência",
-        "link": "https://www.pciconcursos.com.br/noticias/samu-192-es-abre-processos-seletivos-para-enfermeiros-e-tecnicos-em-enfermagem-socorrista",
-        "resumo": "SAMU 192/ES - Serviço de Atendimento Móvel de Urgência ES Cadastro de Reserva até R$ 3.707,42Enfermeiro Socorrista, Técnico em Enfermagem SocorristaTécnico / Superior 11/10/2026",
-        "salario_texto": "R$ 3.707,42",
-        "salario_numero": 3707.42,
-        "uf": "ES",
-        "data_limite": "2026-10-11",
-        "data_texto": "11/10/2026"
-    },
-    {
-        "titulo": "[PCI] SAMU 192/ES - Serviço de Atendimento Móvel de Urgência",
-        "link": "https://www.pciconcursos.com.br/noticias/samu-192-es-abre-processo-seletivo-para-o-cargo-de-telefonista-auxiliar-de-regulacao-medica",
-        "resumo": "SAMU 192/ES - Serviço de Atendimento Móvel de Urgência ES Vagas até R$ 1.933,15Telefonista Auxiliar de Regulação MédicaEnsino Médio 11/10/2026",
-        "salario_texto": "R$ 1.933,15",
-        "salario_numero": 1933.15,
-        "uf": "ES",
-        "data_limite": "2026-10-11",
-        "data_texto": "11/10/2026"
     },
     {
         "titulo": "[PCI] SEMMA - Secretaria Municipal de Meio Ambiente de Vila Velha",
@@ -2831,16 +2811,6 @@
     },
     {
         "titulo": "[PCI] FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
-        "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-fonoaudiologo-i-no-cepon-de-florianopolis",
-        "resumo": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON SC 1 vaga até R$ 3.409,85Fonoaudiólogo ISuperior 11/10/2026",
-        "salario_texto": "R$ 3.409,85",
-        "salario_numero": 3409.85,
-        "uf": "SC",
-        "data_limite": "2026-10-11",
-        "data_texto": "11/10/2026"
-    },
-    {
-        "titulo": "[PCI] FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
         "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-processo-seletivo-para-o-cargo-de-medico-ii-em-florianopolis",
         "resumo": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON SC 1 vaga até R$ 10.153,19Médico IISuperior 16/10/2026",
         "salario_texto": "R$ 10.153,19",
@@ -3072,12 +3042,12 @@
     {
         "titulo": "[PCI] Prefeitura de Imbituba",
         "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-imbituba-sc-abre-concurso-publico-com-salarios-de-ate-4807",
-        "resumo": "Prefeitura de Imbituba SC 8 vagas até R$ 4.807,49Vários CargosMédio / Superior 12/10 a11/11/2026",
+        "resumo": "Prefeitura de Imbituba SC 8 vagas até R$ 4.807,49Vários CargosMédio / Superior 11/11/2026",
         "salario_texto": "R$ 4.807,49",
         "salario_numero": 4807.49,
         "uf": "SC",
-        "data_limite": "2026-10-12",
-        "data_texto": "12/10/2026"
+        "data_limite": "2026-11-11",
+        "data_texto": "11/11/2026"
     },
     {
         "titulo": "[PCI] Prefeitura de Imbuia",
