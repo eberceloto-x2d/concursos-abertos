@@ -220,16 +220,6 @@
         "data_texto": "29/10/2026"
     },
     {
-        "titulo": "[PCI] Câmara de Paulistânia",
-        "link": "https://www.pciconcursos.com.br/noticias/camara-de-paulistania-sp-abre-concurso-publico-com-vagas-para-assistente-contabil-e-consultor-juridico",
-        "resumo": "Câmara de Paulistânia SP 2 vagas até R$ 5.700,14Assistente Contábil do Legislativo, Consultor Jurídico do LegislativoMédio / Superior 17/10/2026",
-        "salario_texto": "R$ 5.700,14",
-        "salario_numero": 5700.14,
-        "uf": "SP",
-        "data_limite": "2026-10-17",
-        "data_texto": "17/10/2026"
-    },
-    {
         "titulo": "[PCI] Câmara de Torre de Pedra",
         "link": "https://www.pciconcursos.com.br/noticias/camara-de-torre-de-pedra-sp-abre-concurso-publico-para-procurador-legislativo",
         "resumo": "Câmara de Torre de Pedra SP 1 vaga até R$ 5.015,07Procurador LegislativoSuperior 22/10 a23/11/2026",
@@ -950,16 +940,6 @@
         "data_texto": "13/10/2026"
     },
     {
-        "titulo": "[PCI] Prefeitura de Urânia",
-        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-urania-sp-prorroga-inscricoes-de-concurso-publico-para-coordenador-e-orientador-social-do-cras",
-        "resumo": "Prefeitura de Urânia SP 2 vagas até R$ 3.562,80Coordenador do CRAS, Orientador Social do CRASSuperior Prorrogado até17/10/2026",
-        "salario_texto": "R$ 3.562,80",
-        "salario_numero": 3562.8,
-        "uf": "SP",
-        "data_limite": null,
-        "data_texto": null
-    },
-    {
         "titulo": "[PCI] Prefeitura do Município de Carapicuíba",
         "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-carapicuiba-sp-abre-novos-concursos-para-cadastro-de-reserva-em-diversas-areas",
         "resumo": "Prefeitura do Município de Carapicuíba SP Cadastro de Reserva até R$ 12.118,50Vários CargosMédio / Técnico / Superior 30/10/2026",
@@ -1458,16 +1438,6 @@
         "uf": "MG",
         "data_limite": "2026-10-19",
         "data_texto": "19/10/2026"
-    },
-    {
-        "titulo": "[PCI] HOB - Hospital Metropolitano Odilon Behrens",
-        "link": "https://www.pciconcursos.com.br/noticias/hob-mg-abre-selecoes-para-agente-executivo-governamental-e-medicos",
-        "resumo": "HOB - Hospital Metropolitano Odilon Behrens MG Cadastro de reserva até R$ 18.067,43Agente Executivo Governamental, MédicoMédio / Superior 17/10/2026",
-        "salario_texto": "R$ 18.067,43",
-        "salario_numero": 18067.43,
-        "uf": "MG",
-        "data_limite": "2026-10-17",
-        "data_texto": "17/10/2026"
     },
     {
         "titulo": "[PCI] IPSEMG - Instituto de Previdência dos Servidores do Estado de Minas Gerais / Hospital Governador Israel Pinheiro",
@@ -4940,16 +4910,6 @@
         "data_texto": null
     },
     {
-        "titulo": "[JC] CONCURSO Câmara de Paulistânia (SP): edital publicado com vagas para níveis médio e superior",
-        "link": "https://jcconcursos.com.br/noticia/concursos/concurso-camara-de-paulistania-sp-edital-publicado-com-vagas-para-niveis-medio-e-superior-145531",
-        "resumo": "Câmara Municipal de Paulistânia Concurso Aberto CONCURSO Câmara de Paulistânia (SP): edital publicado com vagas para níveis médio e superior Ensino Médio | Ensino Superior...",
-        "salario_texto": "Salário não informado",
-        "salario_numero": 0,
-        "uf": "SP",
-        "data_limite": null,
-        "data_texto": null
-    },
-    {
         "titulo": "[JC] Concurso da Câmara de Boituva SP abre vagas que pagam até R$ 8,5 mil",
         "link": "https://jcconcursos.com.br/noticia/concursos/concurso-da-camara-de-boituva-sp-abre-vagas-que-pagam-ate-r-85-mil-145769",
         "resumo": "Câmara de Boituva (SP) 2026 Concurso Aberto Concurso da Câmara de Boituva SP abre vagas que pagam até R$ 8,5 mil Ensino Fundamental | Ensino Médio | Ensino Técnico | Ensino Superior...",
@@ -5286,16 +5246,6 @@
         "salario_texto": "Salário não informado",
         "salario_numero": 0,
         "uf": "RO",
-        "data_limite": null,
-        "data_texto": null
-    },
-    {
-        "titulo": "[JC] Processo Seletivo da Prefeitura de Roseira (SP): edital publicado para processo seletivo simplificado",
-        "link": "https://jcconcursos.com.br/noticia/concursos/processo-seletivo-da-prefeitura-de-roseira-sp-edital-publicado-para-processo-seletivo-simplificado-145489",
-        "resumo": "Prefeitura Roseira 2026 Concurso Aberto Processo Seletivo da Prefeitura de Roseira (SP): edital publicado para processo seletivo simplificado Ensino Fundamental | Ensino Médio | Ensino Técnico | Ensin...",
-        "salario_texto": "Salário não informado",
-        "salario_numero": 0,
-        "uf": "SP",
         "data_limite": null,
         "data_texto": null
     },
@@ -5690,9 +5640,29 @@
         "data_texto": null
     },
     {
-        "titulo": "[JC] Oferta Relâmpago: Samsung Galaxy S24 Ultra com desconto de 46%",
-        "link": "https://jcconcursos.com.br/noticia/ofertas/oferta-relampago-samsung-galaxy-s24-ultra-com-desconto-de-46-616-146069",
-        "resumo": "Oferta Relâmpago: Samsung Galaxy S24 Ultra com desconto de 46%Ofertas do dia: caixa Authentics 300 da JBL com 48% de descontoOfertas do dia: novo POCO X8 Pro Max com descontos de até 46%Ofertas do dia...",
+        "titulo": "[JC] Concurso Prudenco SP abre inscrições para cargos de nível fundamental",
+        "link": "https://jcconcursos.com.br/noticia/concursos/concurso-prudenco-sp-abre-inscricoes-para-cargos-de-nivel-fundamental-145900",
+        "resumo": "Prudenco (SP) 2026 Concurso Aberto Concurso Prudenco SP abre inscrições para cargos de nível fundamental Ensino Fundamental...",
+        "salario_texto": "Salário não informado",
+        "salario_numero": 0,
+        "uf": "SP",
+        "data_limite": null,
+        "data_texto": null
+    },
+    {
+        "titulo": "[JC] CONCURSO PRUDENPREV - SP: edital publicado com vagas imediatas e cadastro de reserva",
+        "link": "https://jcconcursos.com.br/noticia/concursos/concurso-prudenprev-sp-edital-publicado-com-vagas-imediatas-e-cadastro-de-reserva-145711",
+        "resumo": "Prudenprev SP 2026 Concurso Aberto CONCURSO PRUDENPREV - SP: edital publicado com vagas imediatas e cadastro de reserva Ensino Fundamental | Ensino Médio | Ensino Superior...",
+        "salario_texto": "Salário não informado",
+        "salario_numero": 0,
+        "uf": "SP",
+        "data_limite": null,
+        "data_texto": null
+    },
+    {
+        "titulo": "[JC] Ofertas do dia: caixa Authentics 300 da JBL com 48% de desconto",
+        "link": "https://jcconcursos.com.br/noticia/ofertas/ofertas-do-dia-caixa-authentics-300-da-jbl-com-48-de-desconto-615-146065",
+        "resumo": "Ofertas do dia: caixa Authentics 300 da JBL com 48% de descontoOferta Relâmpago: Samsung Galaxy S24 Ultra com desconto de 46%Ofertas do dia: novo POCO X8 Pro Max com descontos de até 46%Ofertas do dia...",
         "salario_texto": "Salário não informado",
         "salario_numero": 0,
         "uf": "Nacional/Outros",
@@ -5700,9 +5670,9 @@
         "data_texto": null
     },
     {
-        "titulo": "[JC] Ofertas do dia: caixa Authentics 300 da JBL com 48% de desconto",
-        "link": "https://jcconcursos.com.br/noticia/ofertas/ofertas-do-dia-caixa-authentics-300-da-jbl-com-48-de-desconto-615-146065",
-        "resumo": "Oferta Relâmpago: Samsung Galaxy S24 Ultra com desconto de 46%Ofertas do dia: caixa Authentics 300 da JBL com 48% de descontoOfertas do dia: novo POCO X8 Pro Max com descontos de até 46%Ofertas do dia...",
+        "titulo": "[JC] Oferta Relâmpago: Samsung Galaxy S24 Ultra com desconto de 46%",
+        "link": "https://jcconcursos.com.br/noticia/ofertas/oferta-relampago-samsung-galaxy-s24-ultra-com-desconto-de-46-616-146069",
+        "resumo": "Ofertas do dia: caixa Authentics 300 da JBL com 48% de descontoOferta Relâmpago: Samsung Galaxy S24 Ultra com desconto de 46%Ofertas do dia: novo POCO X8 Pro Max com descontos de até 46%Ofertas do dia...",
         "salario_texto": "Salário não informado",
         "salario_numero": 0,
         "uf": "Nacional/Outros",
@@ -5712,7 +5682,7 @@
     {
         "titulo": "[JC] Ofertas do dia: novo POCO X8 Pro Max com descontos de até 46%",
         "link": "https://jcconcursos.com.br/noticia/ofertas/ofertas-do-dia-novo-poco-x8-pro-max-com-descontos-de-ate-46-614-146061",
-        "resumo": "Oferta Relâmpago: Samsung Galaxy S24 Ultra com desconto de 46%Ofertas do dia: caixa Authentics 300 da JBL com 48% de descontoOfertas do dia: novo POCO X8 Pro Max com descontos de até 46%Ofertas do dia...",
+        "resumo": "Ofertas do dia: caixa Authentics 300 da JBL com 48% de descontoOferta Relâmpago: Samsung Galaxy S24 Ultra com desconto de 46%Ofertas do dia: novo POCO X8 Pro Max com descontos de até 46%Ofertas do dia...",
         "salario_texto": "Salário não informado",
         "salario_numero": 0,
         "uf": "Nacional/Outros",
@@ -5722,7 +5692,7 @@
     {
         "titulo": "[JC] Ofertas do dia: novo Galaxy S26 Ultra da Samsung com desconto de 41%",
         "link": "https://jcconcursos.com.br/noticia/ofertas/ofertas-do-dia-novo-galaxy-s26-ultra-da-samsung-com-desconto-de-41-613-146045",
-        "resumo": "Oferta Relâmpago: Samsung Galaxy S24 Ultra com desconto de 46%Ofertas do dia: caixa Authentics 300 da JBL com 48% de descontoOfertas do dia: novo POCO X8 Pro Max com descontos de até 46%Ofertas do dia...",
+        "resumo": "Ofertas do dia: caixa Authentics 300 da JBL com 48% de descontoOferta Relâmpago: Samsung Galaxy S24 Ultra com desconto de 46%Ofertas do dia: novo POCO X8 Pro Max com descontos de até 46%Ofertas do dia...",
         "salario_texto": "Salário não informado",
         "salario_numero": 0,
         "uf": "Nacional/Outros",
