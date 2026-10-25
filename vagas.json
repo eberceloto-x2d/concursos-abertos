@@ -2920,16 +2920,6 @@
         "data_texto": "08/11/2026"
     },
     {
-        "titulo": "[PCI] CASAN - Companhia Catarinense de Águas e Saneamento",
-        "link": "https://www.pciconcursos.com.br/noticias/casan-sc-retifica-editais-de-concursos-publicos",
-        "resumo": "CASAN - Companhia Catarinense de Águas e Saneamento SC Vagas até R$ 12.600,62Vários CargosMédio / Técnico / Superior Prorrogado até09/10/2026",
-        "salario_texto": "R$ 12.600,62",
-        "salario_numero": 12600.62,
-        "uf": "SC",
-        "data_limite": null,
-        "data_texto": null
-    },
-    {
         "titulo": "[PCI] CIDEMA - Consórcio Intermunicipal de Desenvolvimento Econômico, Social e do Meio Ambiente",
         "link": "https://www.pciconcursos.com.br/noticias/cidema-sc-abre-processo-seletivo-para-analista-tecnico-em-gestao-ambiental",
         "resumo": "CIDEMA - Consórcio Intermunicipal de Desenvolvimento Econômico, Social e do Meio Ambiente SC 1 vaga até R$ 6.000,00Analista Técnico em Gestão AmbientalSuperior 04/11/2026",
@@ -5830,9 +5820,19 @@
         "data_texto": null
     },
     {
+        "titulo": "[JC] Ofertas do dia: nova caixa JBL Boombox 4 com descontos de até 59%",
+        "link": "https://jcconcursos.com.br/noticia/ofertas/ofertas-do-dia-nova-caixa-jbl-boombox-4-com-descontos-de-ate-59-636-146208",
+        "resumo": "Ofertas do dia: nova caixa JBL Boombox 4 com descontos de até 59%Ofertas do dia: super descontos de até 45% no Apple iPhone 16Oferta Relâmpago: Apple libera 36% de desconto no iPhone 17 Pro MaxOferta ...",
+        "salario_texto": "Salário não informado",
+        "salario_numero": 0,
+        "uf": "Nacional/Outros",
+        "data_limite": null,
+        "data_texto": null
+    },
+    {
         "titulo": "[JC] Ofertas do dia: super descontos de até 45% no Apple iPhone 16",
         "link": "https://jcconcursos.com.br/noticia/ofertas/ofertas-do-dia-super-descontos-de-ate-45-no-apple-iphone-16-635-146204",
-        "resumo": "Ofertas do dia: super descontos de até 45% no Apple iPhone 16Oferta Relâmpago: Apple libera 36% de desconto no iPhone 17 Pro MaxOferta Relâmpago: smartphone POCO X8 Pro com mega desconto de 53%Ofertas...",
+        "resumo": "Ofertas do dia: nova caixa JBL Boombox 4 com descontos de até 59%Ofertas do dia: super descontos de até 45% no Apple iPhone 16Oferta Relâmpago: Apple libera 36% de desconto no iPhone 17 Pro MaxOferta ...",
         "salario_texto": "Salário não informado",
         "salario_numero": 0,
         "uf": "Nacional/Outros",
@@ -5842,7 +5842,7 @@
     {
         "titulo": "[JC] Oferta Relâmpago: Apple libera 36% de desconto no iPhone 17 Pro Max",
         "link": "https://jcconcursos.com.br/noticia/ofertas/oferta-relampago-apple-libera-36-de-desconto-no-iphone-17-pro-max-634-146196",
-        "resumo": "Ofertas do dia: super descontos de até 45% no Apple iPhone 16Oferta Relâmpago: Apple libera 36% de desconto no iPhone 17 Pro MaxOferta Relâmpago: smartphone POCO X8 Pro com mega desconto de 53%Ofertas...",
+        "resumo": "Ofertas do dia: nova caixa JBL Boombox 4 com descontos de até 59%Ofertas do dia: super descontos de até 45% no Apple iPhone 16Oferta Relâmpago: Apple libera 36% de desconto no iPhone 17 Pro MaxOferta ...",
         "salario_texto": "Salário não informado",
         "salario_numero": 0,
         "uf": "Nacional/Outros",
@@ -5852,17 +5852,7 @@
     {
         "titulo": "[JC] Oferta Relâmpago: smartphone POCO X8 Pro com mega desconto de 53%",
         "link": "https://jcconcursos.com.br/noticia/ofertas/oferta-relampago-smartphone-poco-x8-pro-com-mega-desconto-de-53-633-146183",
-        "resumo": "Ofertas do dia: super descontos de até 45% no Apple iPhone 16Oferta Relâmpago: Apple libera 36% de desconto no iPhone 17 Pro MaxOferta Relâmpago: smartphone POCO X8 Pro com mega desconto de 53%Ofertas...",
-        "salario_texto": "Salário não informado",
-        "salario_numero": 0,
-        "uf": "Nacional/Outros",
-        "data_limite": null,
-        "data_texto": null
-    },
-    {
-        "titulo": "[JC] Ofertas do dia: Galaxy S25 Edge da Samsung com desconto de 60%",
-        "link": "https://jcconcursos.com.br/noticia/ofertas/ofertas-do-dia-galaxy-s25-edge-da-samsung-com-desconto-de-60-632-146182",
-        "resumo": "Ofertas do dia: super descontos de até 45% no Apple iPhone 16Oferta Relâmpago: Apple libera 36% de desconto no iPhone 17 Pro MaxOferta Relâmpago: smartphone POCO X8 Pro com mega desconto de 53%Ofertas...",
+        "resumo": "Ofertas do dia: nova caixa JBL Boombox 4 com descontos de até 59%Ofertas do dia: super descontos de até 45% no Apple iPhone 16Oferta Relâmpago: Apple libera 36% de desconto no iPhone 17 Pro MaxOferta ...",
         "salario_texto": "Salário não informado",
         "salario_numero": 0,
         "uf": "Nacional/Outros",
