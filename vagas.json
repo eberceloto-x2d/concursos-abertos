@@ -400,6 +400,16 @@
         "data_texto": "18/11/2026"
     },
     {
+        "titulo": "[PCI] IPSM - Instituto de Previdência do Servidor Municipal",
+        "link": "https://www.pciconcursos.com.br/noticias/ipsm-de-sao-jose-dos-campos-sp-abre-concurso-para-diversos-cargos-de-nivel-superior",
+        "resumo": "IPSM - Instituto de Previdência do Servidor Municipal SP 17 vagas até R$ 5.860,31Vários CargosSuperior 30/10/2026",
+        "salario_texto": "R$ 5.860,31",
+        "salario_numero": 5860.31,
+        "uf": "SP",
+        "data_limite": "2026-10-30",
+        "data_texto": "30/10/2026"
+    },
+    {
         "titulo": "[PCI] Marinha do Brasil - Comando do 8º Distrito Naval",
         "link": "https://www.pciconcursos.com.br/noticias/marinha-do-brasil-8-distrito-naval-abre-vagas-para-oficiais-rm2-em-sp",
         "resumo": "Marinha do Brasil - Comando do 8º Distrito Naval SP 36 vagasVários CargosSuperior 10/11/2026",
@@ -2440,6 +2450,26 @@
         "data_texto": "30/11/2026"
     },
     {
+        "titulo": "[PCI] Prefeitura de Porto Alegre",
+        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-porto-alegre-rs-publica-concurso-publico-com-salarios-de-ate-9135",
+        "resumo": "Prefeitura de Porto Alegre RS 19 vagas até R$ 9.135,44Vários CargosMédio / Técnico / Superior 05/11/2026",
+        "salario_texto": "R$ 9.135,44",
+        "salario_numero": 9135.44,
+        "uf": "RS",
+        "data_limite": "2026-11-05",
+        "data_texto": "05/11/2026"
+    },
+    {
+        "titulo": "[PCI] TRT 4 - Tribunal Regional do Trabalho da 4ª Região",
+        "link": "https://www.pciconcursos.com.br/noticias/trt4-rs-abre-concurso-publico-para-analistas-e-tecnicos-judiciarios",
+        "resumo": "TRT 4 - Tribunal Regional do Trabalho da 4ª Região RS Cadastro de reserva até R$ 16.040,88Analista Judiciário, Técnico JudiciárioSuperior 25/11/2026",
+        "salario_texto": "R$ 16.040,88",
+        "salario_numero": 16040.88,
+        "uf": "RS",
+        "data_limite": "2026-11-25",
+        "data_texto": "25/11/2026"
+    },
+    {
         "titulo": "[PCI] Câmara de Ijuí",
         "link": "https://www.pciconcursos.com.br/noticias/camara-de-ijui-rs-abre-concurso-publico-para-auxiliar-legislativo",
         "resumo": "Câmara de Ijuí RS 1 vaga até R$ 3.162,91Auxiliar LegislativoEnsino Médio 19/11/2026",
@@ -2770,16 +2800,6 @@
         "data_texto": "03/11/2026"
     },
     {
-        "titulo": "[PCI] Prefeitura de Porto Alegre",
-        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-porto-alegre-rs-publica-concurso-publico-com-salarios-de-ate-9135",
-        "resumo": "Prefeitura de Porto Alegre RS 19 vagas até R$ 9.135,44Vários CargosMédio / Técnico / Superior 05/11/2026",
-        "salario_texto": "R$ 9.135,44",
-        "salario_numero": 9135.44,
-        "uf": "RS",
-        "data_limite": "2026-11-05",
-        "data_texto": "05/11/2026"
-    },
-    {
         "titulo": "[PCI] Prefeitura de Santo Antônio da Patrulha",
         "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santo-antonio-da-patrulha-rs-divulga-processo-seletivo-para-instrutores-educacionais",
         "resumo": "Prefeitura de Santo Antônio da Patrulha RS Cadastro de reserva até R$ 2.367,20Vários CargosMédio / Superior 13/11/2026",
@@ -2898,16 +2918,6 @@
         "uf": "RS",
         "data_limite": "2026-11-19",
         "data_texto": "19/11/2026"
-    },
-    {
-        "titulo": "[PCI] TRT4 - Tribunal Regional do Trabalho da 4ª Região",
-        "link": "https://www.pciconcursos.com.br/noticias/trt4-rs-abre-concurso-publico-para-analistas-e-tecnicos-judiciarios",
-        "resumo": "TRT4 - Tribunal Regional do Trabalho da 4ª Região RS Cadastro de reserva até R$ 16.040,88Analista Judiciário, Técnico JudiciárioSuperior 25/11/2026",
-        "salario_texto": "R$ 16.040,88",
-        "salario_numero": 16040.88,
-        "uf": "RS",
-        "data_limite": "2026-11-25",
-        "data_texto": "25/11/2026"
     },
     {
         "titulo": "[PCI] Câmara de Fraiburgo",
@@ -3031,13 +3041,13 @@
     },
     {
         "titulo": "[PCI] FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
-        "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-o-cargo-de-assistente-administrativo-no-cepon",
-        "resumo": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON SC 1 vaga até R$ 2.519,21Assistente Administrativo IEnsino Médio 31/10/2026",
-        "salario_texto": "R$ 2.519,21",
-        "salario_numero": 2519.21,
+        "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-assistente-administrativo-i-exclusivo-para-pcd",
+        "resumo": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON SC Cadastro reserva até R$ 1.371,62Assistente Administrativo IEnsino Médio 06/11/2026",
+        "salario_texto": "R$ 1.371,62",
+        "salario_numero": 1371.62,
         "uf": "SC",
-        "data_limite": "2026-10-31",
-        "data_texto": "31/10/2026"
+        "data_limite": "2026-11-06",
+        "data_texto": "06/11/2026"
     },
     {
         "titulo": "[PCI] FAHECE - Fundação de Apoio ao Hemosc e Cepon",
@@ -3118,16 +3128,6 @@
         "uf": "SC",
         "data_limite": "2026-11-03",
         "data_texto": "03/11/2026"
-    },
-    {
-        "titulo": "[PCI] Prefeitura de Águas Mornas",
-        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-aguas-mornas-sc-abre-concurso-e-processo-seletivo-com-salarios-de-ate-10109",
-        "resumo": "Prefeitura de Águas Mornas SC Cadastro Reserva até R$ 10.109,68Vários CargosFundamental / Médio / Técnico / Superior 31/10/2026",
-        "salario_texto": "R$ 10.109,68",
-        "salario_numero": 10109.68,
-        "uf": "SC",
-        "data_limite": "2026-10-31",
-        "data_texto": "31/10/2026"
     },
     {
         "titulo": "[PCI] Prefeitura de Apiúna",
@@ -3528,16 +3528,6 @@
         "uf": "SC",
         "data_limite": "2026-11-08",
         "data_texto": "08/11/2026"
-    },
-    {
-        "titulo": "[PCI] Prefeitura de São José",
-        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jose-sc-abre-concurso-com-300-vagas-para-auxiliares-de-educacao-especial",
-        "resumo": "Prefeitura de São José SC 300 vagas até R$ 4.581,88Auxiliar de Educação EspecialSuperior 16/10/2026",
-        "salario_texto": "R$ 4.581,88",
-        "salario_numero": 4581.88,
-        "uf": "SC",
-        "data_limite": "2026-10-16",
-        "data_texto": "16/10/2026"
     },
     {
         "titulo": "[PCI] Prefeitura de São Pedro de Alcântara",
