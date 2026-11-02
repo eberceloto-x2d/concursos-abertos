@@ -620,16 +620,6 @@
         "data_texto": "11/11/2026"
     },
     {
-        "titulo": "[PCI] Prefeitura de Guatapará",
-        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-guatapara-sp-abre-selecao-para-cadastro-de-reserva-em-diversas-areas",
-        "resumo": "Prefeitura de Guatapará SP Cadastro de reserva até R$ 3.242,00Agente Comunitário de Saúde, Técnico Agrícola, PEB IIMédio / Técnico / Superior 01/11/2026",
-        "salario_texto": "R$ 3.242,00",
-        "salario_numero": 3242.0,
-        "uf": "SP",
-        "data_limite": "2026-11-01",
-        "data_texto": "01/11/2026"
-    },
-    {
         "titulo": "[PCI] Prefeitura de Holambra",
         "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-holambra-sp-abre-concurso-com-salarios-de-ate-8431",
         "resumo": "Prefeitura de Holambra SP 18 vagas até R$ 8.431,01Vários CargosFundamental / Médio / Técnico / Superior 05/11/2026",
@@ -3130,16 +3120,6 @@
         "data_texto": "03/11/2026"
     },
     {
-        "titulo": "[PCI] Prefeitura de Apiúna",
-        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-apiuna-sc-abre-processo-seletivo-para-o-cargo-de-tecnico-em-enfermagem",
-        "resumo": "Prefeitura de Apiúna SC Vagas até R$ 2.611,53Técnico em EnfermagemMédio / Técnico 01/11/2026",
-        "salario_texto": "R$ 2.611,53",
-        "salario_numero": 2611.53,
-        "uf": "SC",
-        "data_limite": "2026-11-01",
-        "data_texto": "01/11/2026"
-    },
-    {
         "titulo": "[PCI] Prefeitura de Atalanta",
         "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-atalanta-sc-abre-processo-seletivo-com-salarios-de-ate-9751",
         "resumo": "Prefeitura de Atalanta SC 1 vaga até R$ 9.751,15Vários CargosFundamental / Médio / Técnico / Superior 17/11/2026",
@@ -4240,16 +4220,6 @@
         "data_texto": "09/11/2026"
     },
     {
-        "titulo": "[PCI] Prefeitura de Chã Preta",
-        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cha-preta-al-abre-concursos-com-salarios-de-ate-7256",
-        "resumo": "Prefeitura de Chã Preta AL 76 vagas até R$ 7.256,60Vários CargosFundamental / Médio / Técnico / Superior 01/11/2026",
-        "salario_texto": "R$ 7.256,60",
-        "salario_numero": 7256.6,
-        "uf": "AL",
-        "data_limite": "2026-11-01",
-        "data_texto": "01/11/2026"
-    },
-    {
         "titulo": "[PCI] SEFAZ - Secretaria de Estado da Fazenda de Alagoas",
         "link": "https://www.pciconcursos.com.br/noticias/sefaz-al-abre-concurso-publico-com-vagas-para-o-cargo-de-auditor-fiscal",
         "resumo": "SEFAZ - Secretaria de Estado da Fazenda de Alagoas AL 40 vagas + 60 CR até R$ 25.270,68Auditor Fiscal da Administração Tributária EstadualSuperior 21/10/2026",
@@ -4380,16 +4350,6 @@
         "data_texto": "29/10/2026"
     },
     {
-        "titulo": "[PCI] Prefeitura de Ubajara",
-        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ubajara-ce-publica-retificacao-de-concurso-publico",
-        "resumo": "Prefeitura de Ubajara CE 60 vagas até R$ 3.242,00Vários CargosFundamental / Médio / Superior 01/11/2026",
-        "salario_texto": "R$ 3.242,00",
-        "salario_numero": 3242.0,
-        "uf": "CE",
-        "data_limite": "2026-11-01",
-        "data_texto": "01/11/2026"
-    },
-    {
         "titulo": "[PCI] Câmara de Camocim",
         "link": "https://www.pciconcursos.com.br/noticias/camara-de-camocim-ce-abre-concurso-publico-com-11-vagas",
         "resumo": "Câmara de Camocim CE 11 vagas até R$ 3.800,00Vários CargosFundamental / Médio / Superior 12/11/2026",
@@ -4498,6 +4458,16 @@
         "uf": "CE",
         "data_limite": "2026-11-16",
         "data_texto": "16/11/2026"
+    },
+    {
+        "titulo": "[PCI] Prefeitura de Ubajara",
+        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ubajara-ce-publica-retificacao-de-concurso-publico",
+        "resumo": "Prefeitura de Ubajara CE 60 vagas até R$ 3.242,00Vários CargosFundamental / Médio / Superior 01/11/2026",
+        "salario_texto": "R$ 3.242,00",
+        "salario_numero": 3242.0,
+        "uf": "CE",
+        "data_limite": "2026-11-01",
+        "data_texto": "01/11/2026"
     },
     {
         "titulo": "[PCI] Prefeitura de Ribeirãozinho do Maranhão",
@@ -5550,16 +5520,6 @@
         "data_texto": null
     },
     {
-        "titulo": "[JC] PROCESSO SELETIVO Prefeitura de Ourinhos (SP): edital publicado para professores com remuneração por hora-aula",
-        "link": "https://jcconcursos.com.br/noticia/concursos/processo-seletivo-prefeitura-de-ourinhos-sp-145494",
-        "resumo": "Prefeitura de Ourinhos (SP) 2026 Concurso Aberto PROCESSO SELETIVO Prefeitura de Ourinhos (SP): edital publicado para professores com remuneração por hora-aula Ensino Superior...",
-        "salario_texto": "Salário não informado",
-        "salario_numero": 0,
-        "uf": "SP",
-        "data_limite": null,
-        "data_texto": null
-    },
-    {
         "titulo": "[JC] Processo seletivo de Passo de Torres SC abre 181 vagas na educação",
         "link": "https://jcconcursos.com.br/noticia/concursos/processo-seletivo-de-passo-de-torres-sc-abre-181-vagas-na-educacao-146299",
         "resumo": "Prefeitura de Passo de Torres (SC) 2026 Concurso Aberto Processo seletivo de Passo de Torres SC abre 181 vagas na educação Ensino Fundamental | Ensino Médio | Ensino Superior...",
@@ -5626,16 +5586,6 @@
         "salario_texto": "Salário não informado",
         "salario_numero": 0,
         "uf": "SP",
-        "data_limite": null,
-        "data_texto": null
-    },
-    {
-        "titulo": "[JC] Concurso Prefeitura de Ubajara (CE): edital publicado com 171 vagas",
-        "link": "https://jcconcursos.com.br/noticia/concursos/concurso-prefeitura-de-ubajara-ce-edital-publicado-com-171-vagas-145680",
-        "resumo": "Prefeitura de Ubajara (CE) 2026 Concurso Aberto Concurso Prefeitura de Ubajara (CE): edital publicado com 171 vagas Ensino Fundamental | Ensino Médio | Ensino Superior...",
-        "salario_texto": "Salário não informado",
-        "salario_numero": 0,
-        "uf": "CE",
         "data_limite": null,
         "data_texto": null
     },
@@ -5870,9 +5820,29 @@
         "data_texto": null
     },
     {
+        "titulo": "[JC] Concurso da USP: publicado edital para professor com vagas em São Paulo",
+        "link": "https://jcconcursos.com.br/noticia/concursos/concurso-da-usp-publicado-edital-para-professor-com-vagas-em-sao-paulo-146206",
+        "resumo": "USP 2026 – Professor Concurso Aberto Concurso da USP: publicado edital para professor com vagas em São Paulo Ensino Superior...",
+        "salario_texto": "Salário não informado",
+        "salario_numero": 0,
+        "uf": "Nacional/Outros",
+        "data_limite": null,
+        "data_texto": null
+    },
+    {
+        "titulo": "[JC] Esquenta 11.11 Mercado Livre: caixa Boombox 4 da JBL com 48% de desconto",
+        "link": "https://jcconcursos.com.br/noticia/ofertas/esquenta-1111-mercado-livre-caixa-boombox-4-da-jbl-com-47-de-desconto-647-146337",
+        "resumo": "Esquenta 11.11 Mercado Livre: caixa Boombox 4 da JBL com 48% de descontoOferta Relâmpago: super desconto de 57% na Smart TV da AiwaOfertas do dia: caixa Boombox Extreme da Philco com desconto de 55%Of...",
+        "salario_texto": "Salário não informado",
+        "salario_numero": 0,
+        "uf": "Nacional/Outros",
+        "data_limite": null,
+        "data_texto": null
+    },
+    {
         "titulo": "[JC] Oferta Relâmpago:  super desconto de 57% na Smart TV da Aiwa",
         "link": "https://jcconcursos.com.br/noticia/ofertas/oferta-relampago-super-desconto-de-57-na-smart-tv-da-aiwa-646-146335",
-        "resumo": "Oferta Relâmpago: super desconto de 57% na Smart TV da AiwaOfertas do dia: caixa Boombox Extreme da Philco com desconto de 55%Ofertas do dia: Apple oferece desconto de 48% no iPhone 16 Pro MaxOferta R...",
+        "resumo": "Esquenta 11.11 Mercado Livre: caixa Boombox 4 da JBL com 48% de descontoOferta Relâmpago: super desconto de 57% na Smart TV da AiwaOfertas do dia: caixa Boombox Extreme da Philco com desconto de 55%Of...",
         "salario_texto": "Salário não informado",
         "salario_numero": 0,
         "uf": "Nacional/Outros",
@@ -5882,7 +5852,7 @@
     {
         "titulo": "[JC] Ofertas do dia: caixa Boombox Extreme da Philco com desconto de 55%",
         "link": "https://jcconcursos.com.br/noticia/ofertas/ofertas-do-dia-caixa-boombox-extreme-da-philco-com-desconto-de-55-645-146326",
-        "resumo": "Oferta Relâmpago: super desconto de 57% na Smart TV da AiwaOfertas do dia: caixa Boombox Extreme da Philco com desconto de 55%Ofertas do dia: Apple oferece desconto de 48% no iPhone 16 Pro MaxOferta R...",
+        "resumo": "Esquenta 11.11 Mercado Livre: caixa Boombox 4 da JBL com 48% de descontoOferta Relâmpago: super desconto de 57% na Smart TV da AiwaOfertas do dia: caixa Boombox Extreme da Philco com desconto de 55%Of...",
         "salario_texto": "Salário não informado",
         "salario_numero": 0,
         "uf": "Nacional/Outros",
@@ -5892,17 +5862,7 @@
     {
         "titulo": "[JC] Ofertas do dia: Apple oferece desconto de 48% no iPhone 16 Pro Max",
         "link": "https://jcconcursos.com.br/noticia/ofertas/ofertas-do-dia-apple-oferece-desconto-de-48-no-iphone-16-pro-max-644-146308",
-        "resumo": "Oferta Relâmpago: super desconto de 57% na Smart TV da AiwaOfertas do dia: caixa Boombox Extreme da Philco com desconto de 55%Ofertas do dia: Apple oferece desconto de 48% no iPhone 16 Pro MaxOferta R...",
-        "salario_texto": "Salário não informado",
-        "salario_numero": 0,
-        "uf": "Nacional/Outros",
-        "data_limite": null,
-        "data_texto": null
-    },
-    {
-        "titulo": "[JC] Oferta Relâmpago: smart TV MiniLED da TCL com desconto de 44%",
-        "link": "https://jcconcursos.com.br/noticia/ofertas/oferta-relampago-smart-tv-miniled-da-tcl-com-desconto-de-43-643-146304",
-        "resumo": "Oferta Relâmpago: super desconto de 57% na Smart TV da AiwaOfertas do dia: caixa Boombox Extreme da Philco com desconto de 55%Ofertas do dia: Apple oferece desconto de 48% no iPhone 16 Pro MaxOferta R...",
+        "resumo": "Esquenta 11.11 Mercado Livre: caixa Boombox 4 da JBL com 48% de descontoOferta Relâmpago: super desconto de 57% na Smart TV da AiwaOfertas do dia: caixa Boombox Extreme da Philco com desconto de 55%Of...",
         "salario_texto": "Salário não informado",
         "salario_numero": 0,
         "uf": "Nacional/Outros",
