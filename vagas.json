@@ -140,6 +140,16 @@
         "data_texto": "18/11/2026"
     },
     {
+        "titulo": "[PCI] Prefeitura de Suzano",
+        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-suzano-sp-abre-concurso-publico-com-salarios-de-ate-12062",
+        "resumo": "Prefeitura de Suzano SP 73 vagas até R$ 12.062,91Vários CargosFundamental / Médio / Superior 25/11/2026",
+        "salario_texto": "R$ 12.062,91",
+        "salario_numero": 12062.91,
+        "uf": "SP",
+        "data_limite": "2026-11-25",
+        "data_texto": "25/11/2026"
+    },
+    {
         "titulo": "[PCI] SETEC - Serviços Técnicos Gerais de Campinas",
         "link": "https://www.pciconcursos.com.br/noticias/setec-campinas-sp-abre-concurso-publico-com-salarios-de-ate-10428",
         "resumo": "SETEC - Serviços Técnicos Gerais de Campinas SP 39 vagas até R$ 10.428,05Vários CargosFundamental / Médio / Técnico / Superior 04/12/2026",
@@ -950,16 +960,6 @@
         "data_texto": "23/11/2026"
     },
     {
-        "titulo": "[PCI] Prefeitura de Suzano",
-        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-suzano-sp-abre-concurso-publico-com-salarios-de-ate-12062",
-        "resumo": "Prefeitura de Suzano SP 73 vagas até R$ 12.062,91Vários CargosFundamental / Médio / Superior 25/11/2026",
-        "salario_texto": "R$ 12.062,91",
-        "salario_numero": 12062.91,
-        "uf": "SP",
-        "data_limite": "2026-11-25",
-        "data_texto": "25/11/2026"
-    },
-    {
         "titulo": "[PCI] Prefeitura de Tuiuti",
         "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tuiuti-sp-retifica-edital-de-concurso-publico-com-vagas-imediatas-e-cadastro-de-reserva",
         "resumo": "Prefeitura de Tuiuti SP 11 vagas até R$ 5.209,01Vários CargosFundamental / Médio / Técnico / Superior Prorrogado até23/11/2026",
@@ -1598,6 +1598,16 @@
         "uf": "MG",
         "data_limite": "2026-11-08",
         "data_texto": "08/11/2026"
+    },
+    {
+        "titulo": "[PCI] Prefeitura de Estiva",
+        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-estiva-mg-abre-processo-seletivo-com-sete-vagas",
+        "resumo": "Prefeitura de Estiva MG 7 vagas até R$ 1.689,78Gari, Auxiliar de serviços de infraestrutura, Agente de cantina e limpeza predialFundamental 13/11/2026",
+        "salario_texto": "R$ 1.689,78",
+        "salario_numero": 1689.78,
+        "uf": "MG",
+        "data_limite": "2026-11-13",
+        "data_texto": "13/11/2026"
     },
     {
         "titulo": "[PCI] Prefeitura de Indaiabira",
@@ -3410,6 +3420,16 @@
         "data_texto": "26/11/2026"
     },
     {
+        "titulo": "[PCI] SAMU - Serviço de Atendimento Móvel de Urgência de Criciúma",
+        "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-vaga-de-assistente-administrativo-para-pessoa-com-deficiencia-em-criciuma",
+        "resumo": "SAMU - Serviço de Atendimento Móvel de Urgência de Criciúma SC 1 vaga até R$ 1.289,06Assistente Administrativo IEnsino Médio 08/11/2026",
+        "salario_texto": "R$ 1.289,06",
+        "salario_numero": 1289.06,
+        "uf": "SC",
+        "data_limite": "2026-11-08",
+        "data_texto": "08/11/2026"
+    },
+    {
         "titulo": "[PCI] SANEFRAI - Autarquia Municipal de Saneamento de Fraiburgo",
         "link": "https://www.pciconcursos.com.br/noticias/sanefrai-sc-abre-processo-seletivo-para-formacao-de-cadastro-de-reserva",
         "resumo": "SANEFRAI - Autarquia Municipal de Saneamento de Fraiburgo SC Vagas até R$ 6.747,15Vários CargosFundamental / Médio / Superior 02/12/2026",
@@ -3670,16 +3690,6 @@
         "data_texto": "04/12/2026"
     },
     {
-        "titulo": "[PCI] Câmara de Colíder",
-        "link": "https://www.pciconcursos.com.br/noticias/camara-de-colider-mt-abre-concurso-publico-com-salarios-de-ate-4778",
-        "resumo": "Câmara de Colíder MT 1 vaga e CR até R$ 4.778,09Vários CargosFundamental / Médio / Superior 10/11 a03/12/2026",
-        "salario_texto": "R$ 4.778,09",
-        "salario_numero": 4778.09,
-        "uf": "MT",
-        "data_limite": "2026-11-10",
-        "data_texto": "10/11/2026"
-    },
-    {
         "titulo": "[PCI] Câmara de Cuiabá",
         "link": "https://www.pciconcursos.com.br/noticias/camara-de-cuiaba-mt-abre-concurso-publico-com-salarios-de-ate-11629",
         "resumo": "Câmara de Cuiabá MT 26 vagas até R$ 11.629,67Vários CargosMédio / Superior 30/11/2026",
@@ -3688,6 +3698,16 @@
         "uf": "MT",
         "data_limite": "2026-11-30",
         "data_texto": "30/11/2026"
+    },
+    {
+        "titulo": "[PCI] Câmara de Colíder",
+        "link": "https://www.pciconcursos.com.br/noticias/camara-de-colider-mt-abre-concurso-publico-com-salarios-de-ate-4778",
+        "resumo": "Câmara de Colíder MT 1 vaga e CR até R$ 4.778,09Vários CargosFundamental / Médio / Superior 10/11 a03/12/2026",
+        "salario_texto": "R$ 4.778,09",
+        "salario_numero": 4778.09,
+        "uf": "MT",
+        "data_limite": "2026-11-10",
+        "data_texto": "10/11/2026"
     },
     {
         "titulo": "[PCI] Prefeitura de Brasnorte",
@@ -3890,16 +3910,6 @@
         "data_texto": "29/10/2026"
     },
     {
-        "titulo": "[PCI] SEAD/AP - Secretaria de Estado da Administração",
-        "link": "https://www.pciconcursos.com.br/noticias/sead-ap-prorroga-inscricoes-de-concurso-para-delegado-e-oficial-investigador-de-policia-civil",
-        "resumo": "SEAD/AP - Secretaria de Estado da Administração AP 396 vagas até R$ 31.439,06Delegado de Polícia Civil, Oficial Investigador de Polícia CivilSuperior Prorrogado até23/10/2026",
-        "salario_texto": "R$ 31.439,06",
-        "salario_numero": 31439.06,
-        "uf": "AP",
-        "data_limite": null,
-        "data_texto": null
-    },
-    {
         "titulo": "[PCI] SESA - Secretaria de Estado da Saúde do Amapá",
         "link": "https://www.pciconcursos.com.br/noticias/governo-do-estado-do-amapa-ap-prorroga-inscricoes-para-concurso-publico",
         "resumo": "SESA - Secretaria de Estado da Saúde do Amapá AP 4208 vagas até R$ 11.116,42Vários CargosMédio / Técnico / Superior Prorrogado até26/10/2026",
@@ -3958,16 +3968,6 @@
         "uf": "PA",
         "data_limite": null,
         "data_texto": null
-    },
-    {
-        "titulo": "[PCI] HOL - Hospital Ophir Loyola",
-        "link": "https://www.pciconcursos.com.br/noticias/hospital-ophir-loyola-pa-anuncia-processos-seletivos-com-vagas-para-medicos",
-        "resumo": "HOL - Hospital Ophir Loyola PA 54 vagas até R$ 2.176,75MédicoSuperior 07/11/2026",
-        "salario_texto": "R$ 2.176,75",
-        "salario_numero": 2176.75,
-        "uf": "PA",
-        "data_limite": "2026-11-07",
-        "data_texto": "07/11/2026"
     },
     {
         "titulo": "[PCI] Prefeitura de Bujaru",
@@ -4450,16 +4450,6 @@
         "data_texto": "20/11/2026"
     },
     {
-        "titulo": "[PCI] Prefeitura de São José do Sabugi",
-        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jose-do-sabugi-pb-abre-concurso-para-diversos-cargos",
-        "resumo": "Prefeitura de São José do Sabugi PB 48 vagas até R$ 3.847,97Vários CargosFundamental / Médio / Técnico / Superior 07/11/2026",
-        "salario_texto": "R$ 3.847,97",
-        "salario_numero": 3847.97,
-        "uf": "PB",
-        "data_limite": "2026-11-07",
-        "data_texto": "07/11/2026"
-    },
-    {
         "titulo": "[PCI] Prefeitura de Serra Grande",
         "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-serra-grande-pb-retifica-concurso-publico-com-vagas-para-diversos-cargos",
         "resumo": "Prefeitura de Serra Grande PB 41 vagas até R$ 3.651,00Vários CargosFundamental / Médio / Técnico / Superior 29/11/2026",
@@ -4600,6 +4590,16 @@
         "data_texto": "12/11/2026"
     },
     {
+        "titulo": "[PCI] Prefeitura de Canto do Buriti",
+        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-canto-do-buriti-pi-retifica-edital-de-concurso-publico",
+        "resumo": "Prefeitura de Canto do Buriti PI 257 vagas até R$ 16.210,00Vários CargosFundamental / Médio / Técnico / Superior 26/11/2026",
+        "salario_texto": "R$ 16.210,00",
+        "salario_numero": 16210.0,
+        "uf": "PI",
+        "data_limite": "2026-11-26",
+        "data_texto": "26/11/2026"
+    },
+    {
         "titulo": "[PCI] Câmara de Dom Inocêncio",
         "link": "https://www.pciconcursos.com.br/noticias/camara-de-dom-inocencio-pi-abre-concurso-publico-com-salarios-de-ate-6000",
         "resumo": "Câmara de Dom Inocêncio PI 6 vagas até R$ 6.000,00Vários CargosMédio / Superior 13/11/2026",
@@ -4648,16 +4648,6 @@
         "uf": "PI",
         "data_limite": "2026-11-25",
         "data_texto": "25/11/2026"
-    },
-    {
-        "titulo": "[PCI] Prefeitura de Canto do Buriti",
-        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-canto-do-buriti-pi-retifica-edital-de-concurso-publico",
-        "resumo": "Prefeitura de Canto do Buriti PI 257 vagas até R$ 16.210,00Vários CargosFundamental / Médio / Técnico / Superior 26/11/2026",
-        "salario_texto": "R$ 16.210,00",
-        "salario_numero": 16210.0,
-        "uf": "PI",
-        "data_limite": "2026-11-26",
-        "data_texto": "26/11/2026"
     },
     {
         "titulo": "[PCI] Prefeitura de Cristalândia do Piauí",
