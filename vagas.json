@@ -820,6 +820,16 @@
         "data_texto": "17/11/2026"
     },
     {
+        "titulo": "[PCI] Prefeitura de Onda Verde",
+        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-onda-verde-sp-abre-processo-seletivo-com-salarios-de-ate-4104",
+        "resumo": "Prefeitura de Onda Verde SP 4 vagas até R$ 4.104,00Vários CargosFundamental / Médio / Superior 17 a29/11/2026",
+        "salario_texto": "R$ 4.104,00",
+        "salario_numero": 4104.0,
+        "uf": "SP",
+        "data_limite": null,
+        "data_texto": null
+    },
+    {
         "titulo": "[PCI] Prefeitura de Ouroeste",
         "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ouroeste-sp-abre-selecao-para-agentes-coletores-de-lixo-e-professores",
         "resumo": "Prefeitura de Ouroeste SP 6 vagas até R$ 1.980,00Vários CargosFundamental / Superior 16/11 a01/12/2026",
@@ -1468,16 +1478,6 @@
         "uf": "MG",
         "data_limite": null,
         "data_texto": null
-    },
-    {
-        "titulo": "[PCI] EMATER - Empresa de Assistência Técnica e Extensão Rural do Estado de Minas Gerais",
-        "link": "https://www.pciconcursos.com.br/noticias/emater-mg-anuncia-retificacao-de-concurso-publico-com-salarios-de-ate-7321",
-        "resumo": "EMATER - Empresa de Assistência Técnica e Extensão Rural do Estado de Minas Gerais MG 120 vagas até R$ 7.321,75Vários CargosMédio / Técnico / Superior 30/10/2026",
-        "salario_texto": "R$ 7.321,75",
-        "salario_numero": 7321.75,
-        "uf": "MG",
-        "data_limite": "2026-10-30",
-        "data_texto": "30/10/2026"
     },
     {
         "titulo": "[PCI] FAEPU - Fundação de Assistência, Estudo e Pesquisa de Uberlândia",
@@ -3140,16 +3140,6 @@
         "data_texto": "29/11/2026"
     },
     {
-        "titulo": "[PCI] Prefeitura de Ilhota",
-        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ilhota-sc-publica-edital-de-concurso-publico-com-salarios-de-ate-21113",
-        "resumo": "Prefeitura de Ilhota SC 36 vagas até R$ 21.113,16Vários CargosFundamental / Médio / Técnico / Superior 14/11/2026",
-        "salario_texto": "R$ 21.113,16",
-        "salario_numero": 21113.16,
-        "uf": "SC",
-        "data_limite": "2026-11-14",
-        "data_texto": "14/11/2026"
-    },
-    {
         "titulo": "[PCI] Prefeitura de Iporã do Oeste",
         "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ipora-do-oeste-sc-abre-concurso-publico-e-processos-seletivos-com-salarios-de-ate-19265",
         "resumo": "Prefeitura de Iporã do Oeste SC 5 vagas até R$ 19.265,80Vários CargosFundamental / Médio / Técnico / Superior 16/11/2026",
@@ -4170,16 +4160,6 @@
         "data_texto": null
     },
     {
-        "titulo": "[PCI] Prefeitura de Salvador",
-        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-salvador-ba-abre-concurso-publico-para-guardas-civis-municipais",
-        "resumo": "Prefeitura de Salvador BA 50 vagas até R$ 3.546,42Guarda Civil MunicipalEnsino Médio 30/10/2026",
-        "salario_texto": "R$ 3.546,42",
-        "salario_numero": 3546.42,
-        "uf": "BA",
-        "data_limite": "2026-10-30",
-        "data_texto": "30/10/2026"
-    },
-    {
         "titulo": "[PCI] Prefeitura de Tucano",
         "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tucano-ba-abre-processo-seletivo-com-83-vagas",
         "resumo": "Prefeitura de Tucano BA 83 vagas até R$ 3.000,00Vários CargosMédio / Superior 25/11/2026",
@@ -4608,16 +4588,6 @@
         "uf": "PI",
         "data_limite": "2026-11-23",
         "data_texto": "23/11/2026"
-    },
-    {
-        "titulo": "[PCI] Prefeitura de Francisco Macedo",
-        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-francisco-macedo-pi-abre-concurso-publico-com-vagas-imediatas-e-cadastro-de-reserva",
-        "resumo": "Prefeitura de Francisco Macedo PI 49 vagas até R$ 4.318,18Vários CargosFundamental / Médio / Técnico / Superior 14/11/2026",
-        "salario_texto": "R$ 4.318,18",
-        "salario_numero": 4318.18,
-        "uf": "PI",
-        "data_limite": "2026-11-14",
-        "data_texto": "14/11/2026"
     },
     {
         "titulo": "[PCI] Prefeitura de Monsenhor Gil",
