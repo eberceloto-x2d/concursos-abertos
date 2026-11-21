@@ -20,6 +20,16 @@
         "data_texto": "25/11/2026"
     },
     {
+        "titulo": "[PCI] Ministério da Saúde",
+        "link": "https://www.pciconcursos.com.br/noticias/saa-ms-abre-processo-seletivo-com-salarios-de-ate-10354",
+        "resumo": "Ministério da Saúde 300 vagas até R$ 10.354,29Vários CargosSuperior 14/12/2026",
+        "salario_texto": "R$ 10.354,29",
+        "salario_numero": 10354.29,
+        "uf": "Nacional/Outros",
+        "data_limite": "2026-12-14",
+        "data_texto": "14/12/2026"
+    },
+    {
         "titulo": "[PCI] TRF3 - Tribunal Regional Federal da 3ª Região",
         "link": "https://www.pciconcursos.com.br/noticias/trf3-sp-ms-retifica-concurso-publico-para-analistas-e-tecnicos-judiciarios",
         "resumo": "TRF3 - Tribunal Regional Federal da 3ª Região 11 vagas até R$ 20.013,11Analista Judiciário, Técnico JudiciárioTécnico / Superior 23/11/2026",
@@ -58,16 +68,6 @@
         "uf": "Nacional/Outros",
         "data_limite": "2026-11-11",
         "data_texto": "11/11/2026"
-    },
-    {
-        "titulo": "[PCI] SAA MS - Subsecretaria de Assuntos Administrativos do Ministério da Saúde",
-        "link": "https://www.pciconcursos.com.br/noticias/saa-ms-abre-processo-seletivo-com-salarios-de-ate-10354",
-        "resumo": "SAA MS - Subsecretaria de Assuntos Administrativos do Ministério da Saúde 300 vagas até R$ 10.354,29Vários CargosSuperior 14/12/2026",
-        "salario_texto": "R$ 10.354,29",
-        "salario_numero": 10354.29,
-        "uf": "MS",
-        "data_limite": "2026-12-14",
-        "data_texto": "14/12/2026"
     },
     {
         "titulo": "[PCI] CETESB - Companhia Ambiental do Estado de São Paulo",
@@ -110,6 +110,16 @@
         "data_texto": "10/12/2026"
     },
     {
+        "titulo": "[PCI] Prefeitura de Campinas",
+        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-campinas-sp-abre-100-vagas-para-guarda-municipal-de-3-classe",
+        "resumo": "Prefeitura de Campinas SP 100 vagas até R$ 3.796,61Guarda MunicipalEnsino Médio 25/11/2026 a08/01/2027",
+        "salario_texto": "R$ 3.796,61",
+        "salario_numero": 3796.61,
+        "uf": "SP",
+        "data_limite": "2026-11-25",
+        "data_texto": "25/11/2026"
+    },
+    {
         "titulo": "[PCI] Prefeitura de Leme",
         "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-leme-sp-abre-concurso-publico-com-salarios-de-ate-13359",
         "resumo": "Prefeitura de Leme SP 29 vagas até R$ 13.359,44Vários CargosFundamental / Médio / Técnico / Superior 30/11/2026",
@@ -138,6 +148,16 @@
         "uf": "SP",
         "data_limite": "2026-12-04",
         "data_texto": "04/12/2026"
+    },
+    {
+        "titulo": "[PCI] SP-Águas - Agência de Águas do Estado de São Paulo",
+        "link": "https://www.pciconcursos.com.br/noticias/sp-aguas-sp-abre-concurso-publico-com-salarios-de-ate-12070",
+        "resumo": "SP-Águas - Agência de Águas do Estado de São Paulo SP 190 vagas até R$ 12.070,00Vários CargosSuperior 17/12/2026",
+        "salario_texto": "R$ 12.070,00",
+        "salario_numero": 12070.0,
+        "uf": "SP",
+        "data_limite": "2026-12-17",
+        "data_texto": "17/12/2026"
     },
     {
         "titulo": "[PCI] TJSP - Tribunal de Justiça do Estado de São Paulo",
@@ -478,16 +498,6 @@
         "uf": "SP",
         "data_limite": "2026-11-26",
         "data_texto": "26/11/2026"
-    },
-    {
-        "titulo": "[PCI] Prefeitura de Campinas",
-        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-campinas-sp-abre-100-vagas-para-guarda-municipal-de-3-classe",
-        "resumo": "Prefeitura de Campinas SP 100 vagas até R$ 3.796,61Guarda MunicipalEnsino Médio 25/11/2026 a08/01/2027",
-        "salario_texto": "R$ 3.796,61",
-        "salario_numero": 3796.61,
-        "uf": "SP",
-        "data_limite": "2026-11-25",
-        "data_texto": "25/11/2026"
     },
     {
         "titulo": "[PCI] Prefeitura de Cândido Rodrigues",
@@ -952,12 +962,12 @@
     {
         "titulo": "[PCI] Prefeitura de Urânia",
         "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-urania-sp-abre-concurso-publico-com-salarios-de-ate-4252",
-        "resumo": "Prefeitura de Urânia SP 3 vagas até R$ 4.252,53Auxiliar Educacional Feminino, Merendeira, NutricionistaFundamental / Médio / Superior 21/11 a20/12/2026",
+        "resumo": "Prefeitura de Urânia SP 3 vagas até R$ 4.252,53Auxiliar Educacional Feminino, Merendeira, NutricionistaFundamental / Médio / Superior 20/12/2026",
         "salario_texto": "R$ 4.252,53",
         "salario_numero": 4252.53,
         "uf": "SP",
-        "data_limite": "2026-11-21",
-        "data_texto": "21/11/2026"
+        "data_limite": "2026-12-20",
+        "data_texto": "20/12/2026"
     },
     {
         "titulo": "[PCI] Prefeitura de Uru",
@@ -1048,16 +1058,6 @@
         "uf": "SP",
         "data_limite": "2026-12-04",
         "data_texto": "04/12/2026"
-    },
-    {
-        "titulo": "[PCI] SP-Águas - Agência de Águas do Estado de São Paulo",
-        "link": "https://www.pciconcursos.com.br/noticias/sp-aguas-sp-abre-concurso-publico-com-salarios-de-ate-12070",
-        "resumo": "SP-Águas - Agência de Águas do Estado de São Paulo SP 190 vagas até R$ 12.070,00Vários CargosSuperior 17/12/2026",
-        "salario_texto": "R$ 12.070,00",
-        "salario_numero": 12070.0,
-        "uf": "SP",
-        "data_limite": "2026-12-17",
-        "data_texto": "17/12/2026"
     },
     {
         "titulo": "[PCI] UNESP - Universidade Estadual Paulista",
@@ -1671,16 +1671,6 @@
     },
     {
         "titulo": "[PCI] Prefeitura de Ibertioga",
-        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ibertioga-mg-abre-processo-seletivo-com-salarios-de-ate-15479",
-        "resumo": "Prefeitura de Ibertioga MG 47 vagas até R$ 15.479,20Vários CargosFundamental / Médio / Técnico / Superior 20/11/2026",
-        "salario_texto": "R$ 15.479,20",
-        "salario_numero": 15479.2,
-        "uf": "MG",
-        "data_limite": "2026-11-20",
-        "data_texto": "20/11/2026"
-    },
-    {
-        "titulo": "[PCI] Prefeitura de Ibertioga",
         "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ibertioga-mg-abre-selecao-para-operadores-de-maquinas-e-tratoristas",
         "resumo": "Prefeitura de Ibertioga MG 5 vagas até R$ 2.703,55Operador de Motoniveladora, Operador de Retroescavadeira, TratoristaFundamental 23/11/2026",
         "salario_texto": "R$ 2.703,55",
@@ -1748,16 +1738,6 @@
         "uf": "MG",
         "data_limite": "2026-11-25",
         "data_texto": "25/11/2026"
-    },
-    {
-        "titulo": "[PCI] Prefeitura de Leopoldina",
-        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-leopoldina-mg-abre-selecao-com-salarios-de-ate-4462",
-        "resumo": "Prefeitura de Leopoldina MG 9 vagas até R$ 4.462,11Vários CargosFundamental / Médio / Técnico / Superior 20/11/2026",
-        "salario_texto": "R$ 4.462,11",
-        "salario_numero": 4462.11,
-        "uf": "MG",
-        "data_limite": "2026-11-20",
-        "data_texto": "20/11/2026"
     },
     {
         "titulo": "[PCI] Prefeitura de Leopoldina",
@@ -1908,16 +1888,6 @@
         "uf": "MG",
         "data_limite": "2026-12-23",
         "data_texto": "23/12/2026"
-    },
-    {
-        "titulo": "[PCI] Prefeitura de São José da Lapa",
-        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jose-da-lapa-mg-abre-processo-seletivo-com-8-vagas-e-cadastro-de-reserva",
-        "resumo": "Prefeitura de São José da Lapa MG 8 vagas até R$ 2.931,80Vários CargosFundamental / Médio / Superior 20/11/2026",
-        "salario_texto": "R$ 2.931,80",
-        "salario_numero": 2931.8,
-        "uf": "MG",
-        "data_limite": "2026-11-20",
-        "data_texto": "20/11/2026"
     },
     {
         "titulo": "[PCI] Prefeitura de São José do Divino",
@@ -2208,16 +2178,6 @@
         "uf": "PR",
         "data_limite": null,
         "data_texto": null
-    },
-    {
-        "titulo": "[PCI] PMC - Prefeitura de Curitiba",
-        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-curitiba-pr-retifica-concursos-publicos-com-vagas-imediatas-e-cadastro-de-reserva",
-        "resumo": "PMC - Prefeitura de Curitiba PR 348 vagas até R$ 14.117,18Vários CargosMédio / Técnico / Superior 05/11/2026",
-        "salario_texto": "R$ 14.117,18",
-        "salario_numero": 14117.18,
-        "uf": "PR",
-        "data_limite": "2026-11-05",
-        "data_texto": "05/11/2026"
     },
     {
         "titulo": "[PCI] Prefeitura de Alto Piquiri",
@@ -2631,16 +2591,6 @@
     },
     {
         "titulo": "[PCI] Prefeitura de Porto Alegre",
-        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-porto-alegre-rs-publica-concurso-publico-com-salarios-de-ate-9135",
-        "resumo": "Prefeitura de Porto Alegre RS 19 vagas até R$ 9.135,44Vários CargosMédio / Técnico / Superior 05/11/2026",
-        "salario_texto": "R$ 9.135,44",
-        "salario_numero": 9135.44,
-        "uf": "RS",
-        "data_limite": "2026-11-05",
-        "data_texto": "05/11/2026"
-    },
-    {
-        "titulo": "[PCI] Prefeitura de Porto Alegre",
         "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-porto-alegre-rs-abre-selecao-para-programa-de-residencia-tecnico-superior",
         "resumo": "Prefeitura de Porto Alegre RS 37 vagas até R$ 2.500,00Vários CargosSuperior 14/12/2026",
         "salario_texto": "R$ 2.500,00",
@@ -2770,16 +2720,6 @@
         "data_texto": "07/12/2026"
     },
     {
-        "titulo": "[PCI] Câmara de Vereadores de Erval Velho",
-        "link": "https://www.pciconcursos.com.br/noticias/camara-de-erval-velho-sc-abre-concurso-publico-com-salarios-de-ate-6497",
-        "resumo": "Câmara de Vereadores de Erval Velho SC 3 vagas até R$ 6.497,10Agente de Asseio e Conservação, Oficial Legislativo, ContadorFundamental / Médio / Superior 20/11/2026",
-        "salario_texto": "R$ 6.497,10",
-        "salario_numero": 6497.1,
-        "uf": "SC",
-        "data_limite": "2026-11-20",
-        "data_texto": "20/11/2026"
-    },
-    {
         "titulo": "[PCI] Câmara de Vereadores de Matos Costa",
         "link": "https://www.pciconcursos.com.br/noticias/camara-de-matos-costa-sc-abre-concurso-publico-com-salarios-de-ate-4209",
         "resumo": "Câmara de Vereadores de Matos Costa SC 3 vagas até R$ 4.209,63Auxiliar de Serviços Gerais, Auxiliar Administrativo, ContadorFundamental / Médio / Superior 26/11/2026",
@@ -2820,16 +2760,6 @@
         "data_texto": "18/12/2026"
     },
     {
-        "titulo": "[PCI] Conselho Tutelar de Arabutã",
-        "link": "https://www.pciconcursos.com.br/noticias/cmdca-de-arabuta-sc-prorroga-inscricoes-de-processo-para-escolha-suplementar-de-conselheiro-tutelar",
-        "resumo": "Conselho Tutelar de Arabutã SC 1 vaga até R$ 2.735,45Membro do Conselho TutelarEnsino Médio Prorrogado até20/11/2026",
-        "salario_texto": "R$ 2.735,45",
-        "salario_numero": 2735.45,
-        "uf": "SC",
-        "data_limite": null,
-        "data_texto": null
-    },
-    {
         "titulo": "[PCI] Consórcio Intermunicipal do Serviço Socioassistencial de Alta Complexidade Casa Lar Pequeno Príncipe",
         "link": "https://www.pciconcursos.com.br/noticias/casa-lar-pequeno-principe-sc-abre-selecao-para-psicologa",
         "resumo": "Consórcio Intermunicipal do Serviço Socioassistencial de Alta Complexidade Casa Lar Pequeno Príncipe SC 1 vaga até R$ 4.942,63PsicólogaSuperior 23/11/2026",
@@ -2848,16 +2778,6 @@
         "uf": "SC",
         "data_limite": null,
         "data_texto": null
-    },
-    {
-        "titulo": "[PCI] FAHECE",
-        "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-vaga-para-assistente-administrativo-i-no-cepon-de-florianopolis",
-        "resumo": "FAHECE SC 1 vaga até R$ 2.519,21Assistente Administrativo IEnsino Médio 20/11/2026",
-        "salario_texto": "R$ 2.519,21",
-        "salario_numero": 2519.21,
-        "uf": "SC",
-        "data_limite": "2026-11-20",
-        "data_texto": "20/11/2026"
     },
     {
         "titulo": "[PCI] FAHECE",
@@ -4080,16 +4000,6 @@
         "data_texto": "23/11/2026"
     },
     {
-        "titulo": "[PCI] TRT 8ª Região - Tribunal Regional do Trabalho da 8ª Região",
-        "link": "https://www.pciconcursos.com.br/noticias/trt-8-pa-ap-publica-edital-de-concurso-para-tecnicos-e-analistas-judiciarios",
-        "resumo": "TRT 8ª Região - Tribunal Regional do Trabalho da 8ª Região PA Cadastro Reserva até R$ 16.040,88Analista Judiciário, Técnico JudiciárioSuperior 05/11/2026",
-        "salario_texto": "R$ 16.040,88",
-        "salario_numero": 16040.88,
-        "uf": "PA",
-        "data_limite": "2026-11-05",
-        "data_texto": "05/11/2026"
-    },
-    {
         "titulo": "[PCI] IPAM - Instituto de Previdência e Assistência dos Servidores do Município de Porto Velho",
         "link": "https://www.pciconcursos.com.br/noticias/ipam-de-porto-velho-ro-abre-concurso-publico-com-salarios-de-ate-5000",
         "resumo": "IPAM - Instituto de Previdência e Assistência dos Servidores do Município de Porto Velho RO 71 vagas até R$ 5.000,00Técnico Autárquico, Analista AutárquicoMédio / Técnico / Superior 07/12/2026",
@@ -4200,6 +4110,16 @@
         "data_texto": null
     },
     {
+        "titulo": "[PCI] Prefeitura de Boa Viagem",
+        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-boa-viagem-ce-abre-concurso-publico-com-vagas-para-diversas-areas-de-atuacao",
+        "resumo": "Prefeitura de Boa Viagem CE 1001 vagas até R$ 14.718,92Vários CargosFundamental / Médio / Técnico / Superior 07/12/2026",
+        "salario_texto": "R$ 14.718,92",
+        "salario_numero": 14718.92,
+        "uf": "CE",
+        "data_limite": "2026-12-07",
+        "data_texto": "07/12/2026"
+    },
+    {
         "titulo": "[PCI] Câmara de Croatá",
         "link": "https://www.pciconcursos.com.br/noticias/camara-de-croata-ce-abre-concurso-publico-com-vagas-imediatas-e-cadastro-de-reserva",
         "resumo": "Câmara de Croatá CE 15 vagas até R$ 1.621,00Vários CargosFundamental / Médio 27/11/2026",
@@ -4238,16 +4158,6 @@
         "uf": "CE",
         "data_limite": "2026-11-24",
         "data_texto": "24/11/2026"
-    },
-    {
-        "titulo": "[PCI] Prefeitura de Boa Viagem",
-        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-boa-viagem-ce-abre-concurso-publico-com-vagas-para-diversas-areas-de-atuacao",
-        "resumo": "Prefeitura de Boa Viagem CE 1001 vagas até R$ 14.718,92Vários CargosFundamental / Médio / Técnico / Superior 07/12/2026",
-        "salario_texto": "R$ 14.718,92",
-        "salario_numero": 14718.92,
-        "uf": "CE",
-        "data_limite": "2026-12-07",
-        "data_texto": "07/12/2026"
     },
     {
         "titulo": "[PCI] Prefeitura de Itapipoca",
@@ -4368,16 +4278,6 @@
         "uf": "PB",
         "data_limite": "2026-12-16",
         "data_texto": "16/12/2026"
-    },
-    {
-        "titulo": "[PCI] Prefeitura de Itapororoca",
-        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itapororoca-pb-abre-concurso-com-salarios-de-ate-10000",
-        "resumo": "Prefeitura de Itapororoca PB 175 vagas até R$ 10.000,00Vários CargosFundamental / Médio / Técnico / Superior 20/11/2026",
-        "salario_texto": "R$ 10.000,00",
-        "salario_numero": 10000.0,
-        "uf": "PB",
-        "data_limite": "2026-11-20",
-        "data_texto": "20/11/2026"
     },
     {
         "titulo": "[PCI] Prefeitura de Natuba",
@@ -5470,9 +5370,19 @@
         "data_texto": null
     },
     {
+        "titulo": "[JC] Ofertas Black da Amazon: 44% de desconto no ar condicionado da Electrolux",
+        "link": "https://jcconcursos.com.br/noticia/ofertas/ofertas-black-da-amazon-44-de-desconto-no-ar-condicionado-da-electrolux-702-146695",
+        "resumo": "Ofertas Black da Amazon: 44% de desconto no ar condicionado da ElectroluxOfertas Black da Amazon: 55% de desconto no Echo Dot com AlexaOfertas Black do Mercado Livre: 42% de desconto na bicicleta elét...",
+        "salario_texto": "Salário não informado",
+        "salario_numero": 0,
+        "uf": "Nacional/Outros",
+        "data_limite": null,
+        "data_texto": null
+    },
+    {
         "titulo": "[JC] Ofertas Black da Amazon: 55% de desconto no Echo Dot com Alexa",
         "link": "https://jcconcursos.com.br/noticia/ofertas/ofertas-black-da-amazon-55-de-desconto-no-echo-dot-com-alexa-701-146693",
-        "resumo": "Ofertas Black da Amazon: 55% de desconto no Echo Dot com AlexaOfertas Black do Mercado Livre: 42% de desconto na bicicleta elétrica Yoo MobilityOfertas Black do Mercado Livre: desconto de 51% no Galax...",
+        "resumo": "Ofertas Black da Amazon: 44% de desconto no ar condicionado da ElectroluxOfertas Black da Amazon: 55% de desconto no Echo Dot com AlexaOfertas Black do Mercado Livre: 42% de desconto na bicicleta elét...",
         "salario_texto": "Salário não informado",
         "salario_numero": 0,
         "uf": "Nacional/Outros",
@@ -5482,7 +5392,7 @@
     {
         "titulo": "[JC] Ofertas Black do Mercado Livre: 42% de desconto na bicicleta elétrica Yoo Mobility",
         "link": "https://jcconcursos.com.br/noticia/ofertas/ofertas-black-do-mercado-livre-42-de-desconto-na-bicicleta-eletrica-yoo-mobility-700-146689",
-        "resumo": "Ofertas Black da Amazon: 55% de desconto no Echo Dot com AlexaOfertas Black do Mercado Livre: 42% de desconto na bicicleta elétrica Yoo MobilityOfertas Black do Mercado Livre: desconto de 51% no Galax...",
+        "resumo": "Ofertas Black da Amazon: 44% de desconto no ar condicionado da ElectroluxOfertas Black da Amazon: 55% de desconto no Echo Dot com AlexaOfertas Black do Mercado Livre: 42% de desconto na bicicleta elét...",
         "salario_texto": "Salário não informado",
         "salario_numero": 0,
         "uf": "Nacional/Outros",
@@ -5492,17 +5402,7 @@
     {
         "titulo": "[JC] Ofertas Black do Mercado Livre: desconto de 51% no Galaxy S25 Ultra da Samsung",
         "link": "https://jcconcursos.com.br/noticia/ofertas/ofertas-black-do-mercado-livre-desconto-de-51-no-galaxy-s25-ultra-da-samsung-699-146688",
-        "resumo": "Ofertas Black da Amazon: 55% de desconto no Echo Dot com AlexaOfertas Black do Mercado Livre: 42% de desconto na bicicleta elétrica Yoo MobilityOfertas Black do Mercado Livre: desconto de 51% no Galax...",
-        "salario_texto": "Salário não informado",
-        "salario_numero": 0,
-        "uf": "Nacional/Outros",
-        "data_limite": null,
-        "data_texto": null
-    },
-    {
-        "titulo": "[JC] Ofertas Black da Amazon: Galaxy Buds3 da Samsung com 58% de desconto",
-        "link": "https://jcconcursos.com.br/noticia/ofertas/ofertas-black-da-amazon-galaxy-buds3-da-samsung-com-58-de-desconto-698-146681",
-        "resumo": "Ofertas Black da Amazon: 55% de desconto no Echo Dot com AlexaOfertas Black do Mercado Livre: 42% de desconto na bicicleta elétrica Yoo MobilityOfertas Black do Mercado Livre: desconto de 51% no Galax...",
+        "resumo": "Ofertas Black da Amazon: 44% de desconto no ar condicionado da ElectroluxOfertas Black da Amazon: 55% de desconto no Echo Dot com AlexaOfertas Black do Mercado Livre: 42% de desconto na bicicleta elét...",
         "salario_texto": "Salário não informado",
         "salario_numero": 0,
         "uf": "Nacional/Outros",
