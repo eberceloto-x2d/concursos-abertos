@@ -260,6 +260,16 @@
         "data_texto": "07/12/2026"
     },
     {
+        "titulo": "[PCI] Conselho Tutelar de Timburi",
+        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-timburi-sp-abre-processo-seletivo-para-conselheiros-tutelares-com-salario-de-2600",
+        "resumo": "Conselho Tutelar de Timburi SP 2 vagas até R$ 2.600,00Conselheiro TutelarEnsino Médio 22/11/2026",
+        "salario_texto": "R$ 2.600,00",
+        "salario_numero": 2600.0,
+        "uf": "SP",
+        "data_limite": "2026-11-22",
+        "data_texto": "22/11/2026"
+    },
+    {
         "titulo": "[PCI] CORECA - Consórcio Intermunicipal de Direitos da Criança e do Adolescente do Noroeste Paulista",
         "link": "https://www.pciconcursos.com.br/noticias/coreca-sp-abre-concurso-publico-com-vagas-na-casa-abrigo-de-jales",
         "resumo": "CORECA - Consórcio Intermunicipal de Direitos da Criança e do Adolescente do Noroeste Paulista SP 2 vagas até R$ 3.243,60Auxiliar de Serviços Gerais, Cuidador(a)Fundamental / Médio 02/12/2026",
@@ -268,6 +278,16 @@
         "uf": "SP",
         "data_limite": "2026-12-02",
         "data_texto": "02/12/2026"
+    },
+    {
+        "titulo": "[PCI] FASCAMP - Fundação da Área da Saúde de Campinas",
+        "link": "https://www.pciconcursos.com.br/noticias/fascamp-sp-abre-processos-seletivos-para-o-hospital-regional-de-piracicaba",
+        "resumo": "FASCAMP - Fundação da Área da Saúde de Campinas SP 2 vagas até R$ 5.297,44Auxiliar de Enfermagem, NutricionistaMédio / Superior 23/11/2026",
+        "salario_texto": "R$ 5.297,44",
+        "salario_numero": 5297.44,
+        "uf": "SP",
+        "data_limite": "2026-11-23",
+        "data_texto": "23/11/2026"
     },
     {
         "titulo": "[PCI] FSA - Fundação Santo André",
@@ -368,16 +388,6 @@
         "uf": "SP",
         "data_limite": "2026-12-15",
         "data_texto": "15/12/2026"
-    },
-    {
-        "titulo": "[PCI] IPSM - Instituto de Previdência do Servidor Municipal",
-        "link": "https://www.pciconcursos.com.br/noticias/ipsm-de-sao-jose-dos-campos-sp-divulga-retificacoes-de-concurso-publico",
-        "resumo": "IPSM - Instituto de Previdência do Servidor Municipal SP 17 vagas até R$ 5.860,31Vários CargosSuperior Prorrogado até06/11/2026",
-        "salario_texto": "R$ 5.860,31",
-        "salario_numero": 5860.31,
-        "uf": "SP",
-        "data_limite": null,
-        "data_texto": null
     },
     {
         "titulo": "[PCI] Irmandade da Santa Casa de Misericórdia e Maternidade de Dracena",
@@ -598,16 +608,6 @@
         "uf": "SP",
         "data_limite": "2026-12-17",
         "data_texto": "17/12/2026"
-    },
-    {
-        "titulo": "[PCI] Prefeitura de Cunha",
-        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cunha-sp-abre-concurso-publico-com-salarios-de-ate-9147",
-        "resumo": "Prefeitura de Cunha SP Cadastro de reserva até R$ 9.147,62Vários CargosFundamental / Médio / Técnico / Superior 21/11/2026",
-        "salario_texto": "R$ 9.147,62",
-        "salario_numero": 9147.62,
-        "uf": "SP",
-        "data_limite": "2026-11-21",
-        "data_texto": "21/11/2026"
     },
     {
         "titulo": "[PCI] Prefeitura de Estiva Gerbi",
@@ -1110,14 +1110,14 @@
         "data_texto": null
     },
     {
-        "titulo": "[PCI] CMTC - Companhia Municipal de Transportes Coletivos",
-        "link": "https://www.pciconcursos.com.br/noticias/mobi-rio-rj-abre-selecao-com-salarios-ate-5960",
-        "resumo": "CMTC - Companhia Municipal de Transportes Coletivos RJ 63 vagas até R$ 5.960,63Vários CargosFundamental / Médio 21/11/2026",
-        "salario_texto": "R$ 5.960,63",
-        "salario_numero": 5960.63,
+        "titulo": "[PCI] Cefet/RJ - Centro Federal de Educação Tecnológica Celso Suckow da Fonseca",
+        "link": "https://www.pciconcursos.com.br/noticias/cefet-rj-rj-abre-processo-seletivo-com-310-vagas-para-cursos-tecnicos-subsequentes",
+        "resumo": "Cefet/RJ - Centro Federal de Educação Tecnológica Celso Suckow da Fonseca RJ 310 vagasVários CargosNão informada 30/11/2026",
+        "salario_texto": "Salário não informado",
+        "salario_numero": 0,
         "uf": "RJ",
-        "data_limite": "2026-11-21",
-        "data_texto": "21/11/2026"
+        "data_limite": "2026-11-30",
+        "data_texto": "30/11/2026"
     },
     {
         "titulo": "[PCI] CRP/05 - Conselho Regional de Psicologia da 5ª Região",
@@ -2070,6 +2070,16 @@
         "data_texto": "10/11/2026"
     },
     {
+        "titulo": "[PCI] FAFIA - Faculdade de Filosofia, Ciências e Letras de Alegre",
+        "link": "https://www.pciconcursos.com.br/noticias/fafia-es-abre-processos-seletivos-para-docentes-e-agentes-administrativos",
+        "resumo": "FAFIA - Faculdade de Filosofia, Ciências e Letras de Alegre ES 10 vagas até R$ 1.621,00Docente, Docente não habilitado, Agente AdministrativoMédio / Superior 23 a25/11/2026",
+        "salario_texto": "R$ 1.621,00",
+        "salario_numero": 1621.0,
+        "uf": "ES",
+        "data_limite": null,
+        "data_texto": null
+    },
+    {
         "titulo": "[PCI] IDAF - Instituto de Defesa Agropecuária e Florestal do Espírito Santo",
         "link": "https://www.pciconcursos.com.br/noticias/idaf-es-abre-concurso-publico-com-salarios-de-ate-8477",
         "resumo": "IDAF - Instituto de Defesa Agropecuária e Florestal do Espírito Santo ES 14 vagas até R$ 8.477,66Técnico de Fiscalização e Desenvolvimento Agropecuário, Fiscal Estadual AgropecuárioTécnico / Superior 06/12/2026",
@@ -2188,6 +2198,16 @@
         "uf": "PR",
         "data_limite": "2026-11-26",
         "data_texto": "26/11/2026"
+    },
+    {
+        "titulo": "[PCI] Prefeitura de Bandeirantes",
+        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bandeirantes-pr-abre-selecao-com-29-vagas-para-motorista-e-vigia",
+        "resumo": "Prefeitura de Bandeirantes PR 29 vagas até R$ 2.250,92Motorista, VigiaFundamental / Médio 23/11 a02/12/2026",
+        "salario_texto": "R$ 2.250,92",
+        "salario_numero": 2250.92,
+        "uf": "PR",
+        "data_limite": "2026-11-23",
+        "data_texto": "23/11/2026"
     },
     {
         "titulo": "[PCI] Prefeitura de Céu Azul",
@@ -2490,6 +2510,16 @@
         "data_texto": "24/11/2026"
     },
     {
+        "titulo": "[PCI] Prefeitura de Encruzilhada do Sul",
+        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-encruzilhada-do-sul-rs-abre-processo-seletivo-para-cadastro-reserva-em-diversas-areas",
+        "resumo": "Prefeitura de Encruzilhada do Sul RS Vagas até R$ 3.552,97Vários CargosFundamental / Superior 03/12/2026",
+        "salario_texto": "R$ 3.552,97",
+        "salario_numero": 3552.97,
+        "uf": "RS",
+        "data_limite": "2026-12-03",
+        "data_texto": "03/12/2026"
+    },
+    {
         "titulo": "[PCI] Prefeitura de Feliz",
         "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-feliz-rs-abre-processo-seletivo-para-diversos-cargos",
         "resumo": "Prefeitura de Feliz RS 2 vagas até R$ 3.126,59Vários CargosFundamental / Médio / Superior 06/12/2026",
@@ -2781,16 +2811,6 @@
     },
     {
         "titulo": "[PCI] FAHECE",
-        "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-cargo-de-farmaceutico-em-florianopolis",
-        "resumo": "FAHECE SC 1 vaga até R$ 5.126,88Farmacêutico ISuperior 21/11/2026",
-        "salario_texto": "R$ 5.126,88",
-        "salario_numero": 5126.88,
-        "uf": "SC",
-        "data_limite": "2026-11-21",
-        "data_texto": "21/11/2026"
-    },
-    {
-        "titulo": "[PCI] FAHECE",
         "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-vaga-de-assistente-administrativo-em-florianopolis",
         "resumo": "FAHECE SC 1 vaga até R$ 2.632,33Assistente Administrativo IEnsino Médio 22/11/2026",
         "salario_texto": "R$ 2.632,33",
@@ -2820,6 +2840,16 @@
         "data_texto": "02/12/2026"
     },
     {
+        "titulo": "[PCI] FURB - Fundação Universidade Regional de Blumenau",
+        "link": "https://www.pciconcursos.com.br/noticias/furb-sc-abre-processo-seletivo-para-aprimoramento-profissional-em-medicina-veterinaria",
+        "resumo": "FURB - Fundação Universidade Regional de Blumenau SC 3 vagasAprimorandoSuperior 26/11/2026",
+        "salario_texto": "Salário não informado",
+        "salario_numero": 0,
+        "uf": "SC",
+        "data_limite": "2026-11-26",
+        "data_texto": "26/11/2026"
+    },
+    {
         "titulo": "[PCI] IMA - Instituto do Meio Ambiente do Estado de Santa Catarina",
         "link": "https://www.pciconcursos.com.br/noticias/ima-sc-abre-concurso-publico-com-salarios-de-ate-12300",
         "resumo": "IMA - Instituto do Meio Ambiente do Estado de Santa Catarina SC 18 vagas até R$ 12.300,00Vários CargosTécnico / Superior 14/12/2026",
@@ -2828,6 +2858,16 @@
         "uf": "SC",
         "data_limite": "2026-12-14",
         "data_texto": "14/12/2026"
+    },
+    {
+        "titulo": "[PCI] Prefeitura de Abelardo Luz",
+        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-abelardo-luz-sc-abre-processo-seletivo-com-12-vagas-e-cadastro-reserva",
+        "resumo": "Prefeitura de Abelardo Luz SC 13 vagas até R$ 5.467,13Vários CargosFundamental / Médio / Técnico / Superior 02/12/2026",
+        "salario_texto": "R$ 5.467,13",
+        "salario_numero": 5467.13,
+        "uf": "SC",
+        "data_limite": "2026-12-02",
+        "data_texto": "02/12/2026"
     },
     {
         "titulo": "[PCI] Prefeitura de Agronômica",
@@ -2928,6 +2968,16 @@
         "uf": "SC",
         "data_limite": "2026-11-24",
         "data_texto": "24/11/2026"
+    },
+    {
+        "titulo": "[PCI] Prefeitura de Cocal do Sul",
+        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cocal-do-sul-sc-abre-processo-seletivo-para-a-secretaria-de-educacao",
+        "resumo": "Prefeitura de Cocal do Sul SC Vagas até R$ 5.208,14Vários CargosMédio / Superior 30/11/2026",
+        "salario_texto": "R$ 5.208,14",
+        "salario_numero": 5208.14,
+        "uf": "SC",
+        "data_limite": "2026-11-30",
+        "data_texto": "30/11/2026"
     },
     {
         "titulo": "[PCI] Prefeitura de Concórdia",
@@ -3188,6 +3238,26 @@
         "uf": "SC",
         "data_limite": "2026-12-02",
         "data_texto": "02/12/2026"
+    },
+    {
+        "titulo": "[PCI] Prefeitura de Orleans",
+        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-orleans-sc-abre-processo-seletivo-para-o-setor-da-educacao-em-2027",
+        "resumo": "Prefeitura de Orleans SC Vagas até R$ 5.130,63Vários CargosFundamental / Médio / Superior 27/11/2026",
+        "salario_texto": "R$ 5.130,63",
+        "salario_numero": 5130.63,
+        "uf": "SC",
+        "data_limite": "2026-11-27",
+        "data_texto": "27/11/2026"
+    },
+    {
+        "titulo": "[PCI] Prefeitura de Palmitos",
+        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-palmitos-sc-abre-processo-seletivo-com-salarios-de-ate-26258",
+        "resumo": "Prefeitura de Palmitos SC Vagas até R$ 26.258,84Vários CargosFundamental / Médio / Técnico / Superior 12/12/2026",
+        "salario_texto": "R$ 26.258,84",
+        "salario_numero": 26258.84,
+        "uf": "SC",
+        "data_limite": "2026-12-12",
+        "data_texto": "12/12/2026"
     },
     {
         "titulo": "[PCI] Prefeitura de Porto Belo",
@@ -3660,16 +3730,6 @@
         "data_texto": "24/11/2026"
     },
     {
-        "titulo": "[PCI] TCE - Tribunal de Contas do Estado de Goiás",
-        "link": "https://www.pciconcursos.com.br/noticias/tce-go-retifica-concurso-publico-para-tecnicos-de-controle-externo",
-        "resumo": "TCE - Tribunal de Contas do Estado de Goiás GO 16 vagas até R$ 11.862,19Técnico de Controle ExternoEnsino Médio 06/11/2026",
-        "salario_texto": "R$ 11.862,19",
-        "salario_numero": 11862.19,
-        "uf": "GO",
-        "data_limite": "2026-11-06",
-        "data_texto": "06/11/2026"
-    },
-    {
         "titulo": "[PCI] UFMS - Fundação Universidade Federal de Mato Grosso do Sul",
         "link": "https://www.pciconcursos.com.br/noticias/ufms-abre-concurso-publico-para-cargos-tecnico-administrativos-em-educacao",
         "resumo": "UFMS - Fundação Universidade Federal de Mato Grosso do Sul MS 154 vagas até R$ 5.215,39Vários CargosMédio / Técnico / Superior 04/12/2026",
@@ -4090,6 +4150,16 @@
         "data_texto": "23/11/2026"
     },
     {
+        "titulo": "[PCI] Prefeitura de São Desidério",
+        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-desiderio-ba-abre-selecao-com-salarios-de-ate-8032",
+        "resumo": "Prefeitura de São Desidério BA 236 vagas até R$ 8.032,62Vários CargosMédio / Superior 26/11/2026",
+        "salario_texto": "R$ 8.032,62",
+        "salario_numero": 8032.62,
+        "uf": "BA",
+        "data_limite": "2026-11-26",
+        "data_texto": "26/11/2026"
+    },
+    {
         "titulo": "[PCI] Prefeitura de Tucano",
         "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tucano-ba-abre-processo-seletivo-com-83-vagas",
         "resumo": "Prefeitura de Tucano BA 83 vagas até R$ 3.000,00Vários CargosMédio / Superior 25/11/2026",
@@ -4098,16 +4168,6 @@
         "uf": "BA",
         "data_limite": "2026-11-25",
         "data_texto": "25/11/2026"
-    },
-    {
-        "titulo": "[PCI] UFBA - Universidade Federal da Bahia",
-        "link": "https://www.pciconcursos.com.br/noticias/ufba-ba-publica-retificacoes-de-concurso-publico-para-tecnicos-administrativos-em-educacao",
-        "resumo": "UFBA - Universidade Federal da Bahia BA 147 vagas até R$ 5.215,39Vários CargosMédio / Técnico / Superior Prorrogado até06/11/2026",
-        "salario_texto": "R$ 5.215,39",
-        "salario_numero": 5215.39,
-        "uf": "BA",
-        "data_limite": null,
-        "data_texto": null
     },
     {
         "titulo": "[PCI] Prefeitura de Boa Viagem",
@@ -4358,6 +4418,16 @@
         "uf": "PE",
         "data_limite": "2026-12-05",
         "data_texto": "05/12/2026"
+    },
+    {
+        "titulo": "[PCI] Prefeitura de Araripina",
+        "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-araripina-pe-abre-1099-vagas-em-processos-seletivos",
+        "resumo": "Prefeitura de Araripina PE 1099 vagas até R$ 16.100,00Vários CargosFundamental / Médio / Técnico / Superior 23/11 a06/12/2026",
+        "salario_texto": "R$ 16.100,00",
+        "salario_numero": 16100.0,
+        "uf": "PE",
+        "data_limite": "2026-11-23",
+        "data_texto": "23/11/2026"
     },
     {
         "titulo": "[PCI] Prefeitura de Custódia",
@@ -5370,9 +5440,19 @@
         "data_texto": null
     },
     {
+        "titulo": "[JC] Ofertas Black da Amazon: 40% de desconto no Galaxy Book4 da Samsung",
+        "link": "https://jcconcursos.com.br/noticia/ofertas/ofertas-black-da-amazon-40-de-desconto-no-galaxy-book4-da-samsung-703-146696",
+        "resumo": "Ofertas Black da Amazon: 40% de desconto no Galaxy Book4 da SamsungOfertas Black da Amazon: 44% de desconto no ar condicionado da ElectroluxOfertas Black da Amazon: 55% de desconto no Echo Dot com Ale...",
+        "salario_texto": "Salário não informado",
+        "salario_numero": 0,
+        "uf": "Nacional/Outros",
+        "data_limite": null,
+        "data_texto": null
+    },
+    {
         "titulo": "[JC] Ofertas Black da Amazon: 44% de desconto no ar condicionado da Electrolux",
         "link": "https://jcconcursos.com.br/noticia/ofertas/ofertas-black-da-amazon-44-de-desconto-no-ar-condicionado-da-electrolux-702-146695",
-        "resumo": "Ofertas Black da Amazon: 44% de desconto no ar condicionado da ElectroluxOfertas Black da Amazon: 55% de desconto no Echo Dot com AlexaOfertas Black do Mercado Livre: 42% de desconto na bicicleta elét...",
+        "resumo": "Ofertas Black da Amazon: 40% de desconto no Galaxy Book4 da SamsungOfertas Black da Amazon: 44% de desconto no ar condicionado da ElectroluxOfertas Black da Amazon: 55% de desconto no Echo Dot com Ale...",
         "salario_texto": "Salário não informado",
         "salario_numero": 0,
         "uf": "Nacional/Outros",
@@ -5382,7 +5462,7 @@
     {
         "titulo": "[JC] Ofertas Black da Amazon: 55% de desconto no Echo Dot com Alexa",
         "link": "https://jcconcursos.com.br/noticia/ofertas/ofertas-black-da-amazon-55-de-desconto-no-echo-dot-com-alexa-701-146693",
-        "resumo": "Ofertas Black da Amazon: 44% de desconto no ar condicionado da ElectroluxOfertas Black da Amazon: 55% de desconto no Echo Dot com AlexaOfertas Black do Mercado Livre: 42% de desconto na bicicleta elét...",
+        "resumo": "Ofertas Black da Amazon: 40% de desconto no Galaxy Book4 da SamsungOfertas Black da Amazon: 44% de desconto no ar condicionado da ElectroluxOfertas Black da Amazon: 55% de desconto no Echo Dot com Ale...",
         "salario_texto": "Salário não informado",
         "salario_numero": 0,
         "uf": "Nacional/Outros",
@@ -5392,17 +5472,7 @@
     {
         "titulo": "[JC] Ofertas Black do Mercado Livre: 42% de desconto na bicicleta elétrica Yoo Mobility",
         "link": "https://jcconcursos.com.br/noticia/ofertas/ofertas-black-do-mercado-livre-42-de-desconto-na-bicicleta-eletrica-yoo-mobility-700-146689",
-        "resumo": "Ofertas Black da Amazon: 44% de desconto no ar condicionado da ElectroluxOfertas Black da Amazon: 55% de desconto no Echo Dot com AlexaOfertas Black do Mercado Livre: 42% de desconto na bicicleta elét...",
-        "salario_texto": "Salário não informado",
-        "salario_numero": 0,
-        "uf": "Nacional/Outros",
-        "data_limite": null,
-        "data_texto": null
-    },
-    {
-        "titulo": "[JC] Ofertas Black do Mercado Livre: desconto de 51% no Galaxy S25 Ultra da Samsung",
-        "link": "https://jcconcursos.com.br/noticia/ofertas/ofertas-black-do-mercado-livre-desconto-de-51-no-galaxy-s25-ultra-da-samsung-699-146688",
-        "resumo": "Ofertas Black da Amazon: 44% de desconto no ar condicionado da ElectroluxOfertas Black da Amazon: 55% de desconto no Echo Dot com AlexaOfertas Black do Mercado Livre: 42% de desconto na bicicleta elét...",
+        "resumo": "Ofertas Black da Amazon: 40% de desconto no Galaxy Book4 da SamsungOfertas Black da Amazon: 44% de desconto no ar condicionado da ElectroluxOfertas Black da Amazon: 55% de desconto no Echo Dot com Ale...",
         "salario_texto": "Salário não informado",
         "salario_numero": 0,
         "uf": "Nacional/Outros",
